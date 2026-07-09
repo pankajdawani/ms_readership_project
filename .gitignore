@@ -1,0 +1,9 @@
+venv313/
+venv/
+mlruns/
+__pycache__/
+.DS_Store
+*.pyc
+mlflow.db
+ms-readership-predictor/
+ms-readership-deploy/
