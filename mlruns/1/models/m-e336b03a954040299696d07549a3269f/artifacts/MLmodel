@@ -1,0 +1,22 @@
+artifact_path: /Users/pankajdawani/Desktop/ms_readership_project/mlruns/1/models/m-e336b03a954040299696d07549a3269f/artifacts
+flavors:
+  python_function:
+    data: model.ubj
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.xgboost
+    python_version: 3.13.5
+  xgboost:
+    code: null
+    data: model.ubj
+    model_class: xgboost.sklearn.XGBRegressor
+    model_format: ubj
+    xgb_version: 3.3.0
+mlflow_version: 3.14.0
+model_id: m-e336b03a954040299696d07549a3269f
+model_size_bytes: 390649
+model_uuid: m-e336b03a954040299696d07549a3269f
+prompts: null
+run_id: 3d4377caadd04faeb0fd6a76ec73542b
+utc_time_created: '2026-07-09 12:25:26.279735'

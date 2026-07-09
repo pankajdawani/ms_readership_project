@@ -1,0 +1,9 @@
+venv313/
+venv/
+mlruns/
+.git/
+__pycache__/
+*.ipynb
+*.pyc
+.DS_Store
+ms-readership-predictor/

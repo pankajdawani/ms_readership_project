@@ -1,0 +1,1001 @@
+publication_id,date,analyst,analyst_seniority,sector,report_type,channel,region,client_tier,word_count,has_chart,num_charts,has_video,report_page_count,has_price_target,topic_sensitivity,subject_line_length,send_hour,is_monday,is_friday,is_market_open,is_quarter_end,days_to_earnings,subscriber_count,num_explicit_recipients,prev_avg_reads,prev_report_reads,analyst_30d_avg_reads,analyst_publish_frequency,days_since_last_pub,reads
+PUB_0001,2024-10-16,Analyst_14,Mid,Fixed Income,Morning Brief,Email,EMEA,Tier 1,1543,1,7,0,38,0,1,90,6,0,0,0,0,14,3288,1313,638,459,594,Weekly,21,1119
+PUB_0002,2023-04-25,Analyst_4,Managing Director,Credit,Earnings Preview,Portal,APAC,Tier 2,1202,1,7,0,7,0,1,51,11,0,0,1,0,31,370,0,642,452,683,Bi-weekly,16,1383
+PUB_0003,2023-01-26,Analyst_18,Senior,Equity,Deep Dive,Web,Americas,Tier 3,462,1,5,1,7,1,1,23,14,0,0,1,0,11,4965,0,454,719,406,Bi-weekly,13,1442
+PUB_0004,2023-10-09,Analyst_8,Senior,Credit,Morning Brief,Email,Americas,Tier 3,2274,1,2,1,26,0,0,39,7,1,0,0,0,4,4056,504,685,533,697,Monthly,13,2255
+PUB_0005,2023-09-08,Analyst_21,Junior,Credit,Flash Note,Email,EMEA,Tier 3,569,0,0,0,26,0,0,55,19,0,1,0,0,63,271,1356,580,353,535,Bi-weekly,17,354
+PUB_0006,2023-08-17,Analyst_5,Junior,Macro,Weekly Outlook,Web,EMEA,Tier 3,931,1,1,0,19,0,0,51,8,0,0,0,0,70,373,0,663,673,707,Weekly,27,280
+PUB_0007,2023-05-23,Analyst_30,Junior,Macro,Earnings Preview,Email,APAC,Tier 3,1205,1,4,0,9,0,0,47,15,0,0,1,0,85,2406,1425,126,705,90,Weekly,7,365
+PUB_0008,2023-04-15,Analyst_9,Managing Director,Commodities,Earnings Preview,Email,APAC,Tier 3,2314,1,9,0,20,0,1,96,10,0,0,1,0,26,1258,717,278,817,298,Daily,8,1023
+PUB_0009,2024-11-23,Analyst_27,Senior,Equity,Morning Brief,Web,EMEA,Tier 2,1941,1,4,1,16,0,1,20,14,0,0,1,0,78,1806,0,346,67,338,Bi-weekly,13,724
+PUB_0010,2024-07-12,Analyst_5,Senior,Macro,Morning Brief,Email,Americas,Tier 2,504,0,9,0,17,1,1,79,9,0,1,1,0,44,1871,376,559,233,602,Weekly,23,1384
+PUB_0011,2023-03-31,Analyst_3,Junior,Commodities,Deep Dive,Email,Americas,Tier 2,881,0,0,0,22,0,0,75,6,0,1,0,1,34,521,1065,764,454,804,Bi-weekly,27,702
+PUB_0012,2024-08-27,Analyst_2,Managing Director,Equity,Earnings Preview,Portal,EMEA,Tier 3,1879,1,0,0,13,1,1,54,9,0,0,1,0,25,1309,0,622,848,652,Monthly,16,1684
+PUB_0013,2024-03-08,Analyst_6,Senior,Macro,Earnings Preview,Web,EMEA,Tier 3,1140,1,8,0,12,0,1,49,11,0,1,1,0,22,4775,0,587,180,554,Bi-weekly,29,1365
+PUB_0014,2023-02-02,Analyst_26,Mid,Credit,Deep Dive,Portal,Americas,Tier 1,2136,1,1,0,10,0,1,73,10,0,0,1,0,12,990,0,632,528,603,Weekly,4,725
+PUB_0015,2023-01-31,Analyst_10,Junior,Credit,Weekly Outlook,Web,Americas,Tier 3,1551,1,6,0,1,1,0,55,19,0,0,0,0,89,4917,0,664,842,674,Daily,8,587
+PUB_0016,2023-04-06,Analyst_20,Junior,Equity,Deep Dive,Web,Americas,Tier 3,2019,1,9,0,32,1,0,74,18,0,0,0,0,2,3367,0,375,806,385,Monthly,16,431
+PUB_0017,2023-08-12,Analyst_24,Mid,Equity,Flash Note,Email,APAC,Tier 1,1942,1,3,0,30,0,0,99,6,0,0,0,0,28,1573,1849,412,57,414,Daily,21,548
+PUB_0018,2023-08-27,Analyst_27,Senior,Macro,Flash Note,Web,Americas,Tier 3,2943,1,6,0,8,0,1,77,9,0,0,1,0,65,3343,0,718,754,693,Daily,10,1072
+PUB_0019,2024-06-01,Analyst_19,Mid,Macro,Morning Brief,Portal,Americas,Tier 3,2597,1,7,0,21,0,1,84,11,0,0,1,0,63,4578,0,408,367,448,Weekly,25,888
+PUB_0020,2024-09-08,Analyst_30,Mid,Equity,Deep Dive,Web,EMEA,Tier 1,1174,1,4,0,22,0,1,88,18,0,0,0,0,27,2281,0,755,440,744,Weekly,12,741
+PUB_0021,2023-01-28,Analyst_10,Senior,Equity,Deep Dive,Email,Americas,Tier 3,1764,1,0,0,18,1,0,70,15,0,0,1,0,86,1549,1765,373,568,410,Daily,12,852
+PUB_0022,2024-07-28,Analyst_15,Junior,Commodities,Morning Brief,Web,Americas,Tier 2,2543,0,3,0,2,0,0,41,15,0,0,1,0,35,3196,0,747,185,704,Monthly,26,565
+PUB_0023,2023-07-23,Analyst_4,Mid,Commodities,Weekly Outlook,Email,APAC,Tier 3,989,1,9,1,9,0,1,72,19,0,0,0,0,5,3356,172,375,580,345,Monthly,5,1244
+PUB_0024,2024-10-27,Analyst_15,Mid,Commodities,Deep Dive,Email,APAC,Tier 3,2310,1,2,1,3,1,1,55,9,0,0,1,0,10,3256,1962,674,700,716,Monthly,16,1748
+PUB_0025,2024-12-19,Analyst_23,Mid,Credit,Earnings Preview,Web,APAC,Tier 3,2986,1,9,1,26,0,1,87,19,0,0,0,0,37,1690,0,214,416,206,Daily,1,387
+PUB_0026,2024-07-12,Analyst_10,Senior,Credit,Deep Dive,Web,EMEA,Tier 2,1722,1,4,0,21,0,1,55,14,0,1,1,0,33,4339,0,622,538,592,Monthly,28,1343
+PUB_0027,2024-03-05,Analyst_23,Junior,Commodities,Weekly Outlook,Web,EMEA,Tier 3,2301,1,9,0,30,0,0,71,10,0,0,1,0,80,4081,0,653,738,605,Monthly,9,618
+PUB_0028,2023-08-14,Analyst_13,Senior,Commodities,Deep Dive,Email,APAC,Tier 3,971,1,9,0,28,0,1,72,13,1,0,1,0,66,1535,953,504,60,484,Monthly,12,1218
+PUB_0029,2024-04-04,Analyst_9,Senior,Equity,Earnings Preview,Email,APAC,Tier 2,1471,0,5,1,36,1,1,69,14,0,0,1,0,45,323,1516,202,602,178,Bi-weekly,5,637
+PUB_0030,2024-08-26,Analyst_17,Junior,Credit,Flash Note,Portal,Americas,Tier 3,1795,1,1,1,26,0,0,99,15,1,0,1,0,85,319,0,786,495,762,Bi-weekly,22,591
+PUB_0031,2023-10-12,Analyst_18,Senior,Commodities,Flash Note,Portal,Americas,Tier 1,1243,1,6,1,34,0,0,60,10,0,0,1,0,28,4374,0,176,163,198,Daily,20,832
+PUB_0032,2023-01-07,Analyst_16,Junior,Fixed Income,Weekly Outlook,Portal,Americas,Tier 3,2546,1,2,0,8,0,0,37,11,0,0,1,0,59,1754,0,242,741,248,Monthly,22,429
+PUB_0033,2023-06-13,Analyst_15,Junior,Macro,Weekly Outlook,Email,APAC,Tier 2,1749,1,0,1,10,0,0,41,6,0,0,0,0,53,4628,1430,676,755,722,Daily,28,922
+PUB_0034,2024-12-15,Analyst_3,Managing Director,Commodities,Earnings Preview,Portal,Americas,Tier 1,2839,0,9,0,14,0,1,85,16,0,0,1,0,68,364,0,579,245,561,Weekly,24,987
+PUB_0035,2024-03-08,Analyst_20,Managing Director,Credit,Flash Note,Web,Americas,Tier 1,1195,1,2,0,15,0,0,40,17,0,1,0,0,73,1053,0,59,786,98,Monthly,3,382
+PUB_0036,2023-12-15,Analyst_2,Senior,Commodities,Flash Note,Web,APAC,Tier 3,2489,1,8,0,17,0,0,63,12,0,1,1,0,73,4624,0,141,892,182,Weekly,5,799
+PUB_0037,2023-10-12,Analyst_29,Mid,Fixed Income,Flash Note,Web,Americas,Tier 2,1636,1,9,0,18,0,0,66,9,0,0,1,0,8,3833,0,188,372,181,Daily,2,515
+PUB_0038,2023-06-09,Analyst_14,Junior,Equity,Flash Note,Portal,APAC,Tier 3,464,1,5,0,32,0,0,58,16,0,1,1,0,84,2874,0,530,822,522,Monthly,14,574
+PUB_0039,2023-08-09,Analyst_24,Senior,Credit,Earnings Preview,Web,EMEA,Tier 1,2661,1,5,0,38,0,0,48,7,0,0,0,0,76,3224,0,498,561,478,Monthly,2,1004
+PUB_0040,2023-12-11,Analyst_11,Mid,Equity,Weekly Outlook,Email,EMEA,Tier 2,2368,0,3,0,23,1,1,73,10,1,0,1,0,9,579,311,382,677,396,Daily,13,650
+PUB_0041,2023-04-15,Analyst_20,Junior,Macro,Weekly Outlook,Email,Americas,Tier 2,1405,1,7,0,23,0,0,36,17,0,0,0,0,74,3614,1647,389,711,422,Monthly,7,859
+PUB_0042,2023-04-05,Analyst_9,Mid,Equity,Morning Brief,Web,EMEA,Tier 3,2053,1,4,1,35,1,0,99,8,0,0,0,0,67,1453,0,101,679,126,Weekly,10,261
+PUB_0043,2024-01-25,Analyst_1,Junior,Commodities,Weekly Outlook,Web,EMEA,Tier 2,2652,0,6,0,39,0,0,79,11,0,0,1,0,57,3422,0,756,214,722,Weekly,13,556
+PUB_0044,2023-04-10,Analyst_3,Managing Director,Fixed Income,Flash Note,Email,APAC,Tier 3,2238,0,8,0,15,0,0,50,13,1,0,1,0,51,3978,1104,515,301,479,Weekly,16,2013
+PUB_0045,2024-01-03,Analyst_8,Mid,Equity,Deep Dive,Web,APAC,Tier 3,670,0,4,1,24,0,0,92,12,0,0,1,0,33,989,0,767,828,750,Daily,26,560
+PUB_0046,2023-12-19,Analyst_22,Senior,Fixed Income,Flash Note,Email,Americas,Tier 3,2180,0,4,1,28,0,0,97,8,0,0,0,0,34,3954,936,524,93,553,Weekly,14,1409
+PUB_0047,2024-09-10,Analyst_27,Mid,Credit,Flash Note,Portal,APAC,Tier 2,1152,1,3,0,16,0,1,68,13,0,0,1,0,32,1024,0,450,519,403,Daily,11,489
+PUB_0048,2023-09-28,Analyst_28,Senior,Credit,Weekly Outlook,Portal,Americas,Tier 1,683,1,5,0,16,0,1,21,7,0,0,0,1,71,2270,0,488,538,509,Monthly,10,1311
+PUB_0049,2023-02-14,Analyst_19,Senior,Commodities,Morning Brief,Email,Americas,Tier 3,2231,1,1,0,39,0,0,67,15,0,0,1,0,31,2002,1264,654,230,701,Bi-weekly,6,1361
+PUB_0050,2024-04-15,Analyst_19,Junior,Commodities,Earnings Preview,Portal,APAC,Tier 1,2792,1,2,0,6,0,0,33,14,1,0,1,0,54,4973,0,706,126,744,Monthly,4,879
+PUB_0051,2024-07-03,Analyst_1,Managing Director,Commodities,Deep Dive,Portal,Americas,Tier 3,724,1,0,0,2,0,1,78,9,0,0,1,0,7,2495,0,647,423,675,Bi-weekly,21,1677
+PUB_0052,2023-05-08,Analyst_25,Senior,Fixed Income,Deep Dive,Email,EMEA,Tier 2,2508,1,1,1,13,0,1,77,6,1,0,0,0,45,128,1991,558,677,535,Daily,1,1091
+PUB_0053,2024-01-23,Analyst_22,Managing Director,Macro,Morning Brief,Web,EMEA,Tier 3,928,1,1,0,9,0,0,77,13,0,0,1,0,13,134,0,202,116,224,Monthly,7,315
+PUB_0054,2023-03-22,Analyst_27,Managing Director,Macro,Flash Note,Portal,EMEA,Tier 3,1194,1,7,1,34,0,1,70,12,0,0,1,0,7,3689,0,563,574,514,Monthly,24,2073
+PUB_0055,2024-07-19,Analyst_9,Senior,Macro,Earnings Preview,Web,APAC,Tier 3,2837,1,7,1,17,0,1,21,16,0,1,1,0,70,2770,0,552,141,518,Weekly,9,991
+PUB_0056,2023-10-28,Analyst_19,Managing Director,Credit,Earnings Preview,Web,EMEA,Tier 2,2674,1,1,1,27,0,1,60,18,0,0,0,0,76,3465,0,725,807,732,Daily,8,1344
+PUB_0057,2024-10-05,Analyst_2,Junior,Credit,Earnings Preview,Portal,Americas,Tier 3,897,1,5,0,29,0,0,35,10,0,0,1,0,53,688,0,55,828,78,Bi-weekly,5,87
+PUB_0058,2024-09-25,Analyst_25,Junior,Macro,Weekly Outlook,Web,Americas,Tier 2,2636,0,4,1,37,0,0,23,15,0,0,1,1,20,3318,0,549,700,507,Bi-weekly,19,472
+PUB_0059,2024-01-06,Analyst_25,Junior,Commodities,Flash Note,Web,Americas,Tier 2,892,1,2,0,22,0,0,31,18,0,0,0,0,74,3238,0,710,293,690,Monthly,10,501
+PUB_0060,2024-08-14,Analyst_6,Mid,Equity,Deep Dive,Portal,APAC,Tier 3,1987,1,4,0,24,1,1,48,10,0,0,1,0,13,1003,0,766,390,781,Daily,11,666
+PUB_0061,2023-07-16,Analyst_16,Mid,Macro,Deep Dive,Portal,EMEA,Tier 3,872,1,4,0,7,0,1,26,12,0,0,1,0,74,4186,0,167,834,204,Daily,25,670
+PUB_0062,2024-12-22,Analyst_17,Mid,Equity,Flash Note,Web,APAC,Tier 3,2375,1,4,0,34,0,0,33,10,0,0,1,0,1,2269,0,534,353,545,Weekly,15,529
+PUB_0063,2023-03-13,Analyst_21,Senior,Macro,Deep Dive,Web,Americas,Tier 3,2390,1,2,0,12,0,1,31,13,1,0,1,0,60,439,0,650,447,618,Bi-weekly,6,824
+PUB_0064,2023-02-16,Analyst_15,Mid,Equity,Weekly Outlook,Web,EMEA,Tier 2,2004,1,2,0,23,1,1,24,16,0,0,1,0,16,4370,0,715,752,745,Daily,15,759
+PUB_0065,2024-11-08,Analyst_30,Mid,Commodities,Earnings Preview,Email,EMEA,Tier 2,2770,1,3,0,15,0,1,51,18,0,1,0,0,77,1814,1287,728,497,751,Weekly,5,1156
+PUB_0066,2023-08-22,Analyst_9,Senior,Credit,Deep Dive,Email,EMEA,Tier 3,476,1,6,0,33,0,1,93,11,0,0,1,0,88,4792,1520,517,146,521,Weekly,29,1791
+PUB_0067,2023-10-24,Analyst_6,Junior,Macro,Weekly Outlook,Web,APAC,Tier 2,828,1,1,0,13,0,1,62,18,0,0,0,0,47,4646,0,210,380,187,Bi-weekly,19,369
+PUB_0068,2023-03-23,Analyst_19,Senior,Macro,Earnings Preview,Portal,EMEA,Tier 1,1933,1,9,0,23,0,0,88,10,0,0,1,0,7,656,0,319,254,360,Weekly,22,644
+PUB_0069,2023-08-27,Analyst_14,Junior,Commodities,Flash Note,Email,APAC,Tier 2,1265,1,3,1,38,0,1,64,14,0,0,1,0,55,3187,1953,105,498,104,Weekly,19,569
+PUB_0070,2023-04-14,Analyst_21,Managing Director,Fixed Income,Flash Note,Email,EMEA,Tier 2,1817,0,3,0,32,0,1,28,16,0,1,1,0,16,3366,1682,277,467,291,Bi-weekly,10,1627
+PUB_0071,2024-01-25,Analyst_27,Senior,Macro,Weekly Outlook,Web,Americas,Tier 2,497,1,0,0,35,0,0,68,7,0,0,0,0,68,3667,0,198,698,150,Monthly,12,631
+PUB_0072,2023-10-12,Analyst_16,Junior,Equity,Weekly Outlook,Email,APAC,Tier 2,2957,0,9,0,1,1,0,52,6,0,0,0,0,11,2156,795,95,126,123,Weekly,22,391
+PUB_0073,2024-04-09,Analyst_3,Junior,Commodities,Weekly Outlook,Web,EMEA,Tier 1,1152,1,7,0,5,0,1,37,13,0,0,1,0,37,3999,0,193,598,194,Weekly,4,461
+PUB_0074,2024-10-12,Analyst_16,Senior,Fixed Income,Deep Dive,Portal,APAC,Tier 1,1837,1,0,0,13,0,0,28,17,0,0,0,0,17,1116,0,799,847,758,Monthly,18,1388
+PUB_0075,2024-01-09,Analyst_12,Senior,Macro,Flash Note,Web,EMEA,Tier 3,2369,0,7,0,5,0,1,81,8,0,0,0,0,25,2162,0,681,474,651,Weekly,16,997
+PUB_0076,2023-06-16,Analyst_14,Senior,Macro,Deep Dive,Portal,Americas,Tier 2,1380,0,6,1,32,0,0,76,19,0,1,0,0,36,938,0,389,478,375,Bi-weekly,8,552
+PUB_0077,2024-01-15,Analyst_11,Senior,Credit,Deep Dive,Email,Americas,Tier 2,397,1,8,0,21,0,0,48,16,1,0,1,0,69,1737,905,462,534,426,Bi-weekly,4,1297
+PUB_0078,2023-12-30,Analyst_11,Junior,Fixed Income,Earnings Preview,Email,Americas,Tier 3,2203,1,7,0,24,0,0,97,17,0,0,0,1,40,4421,1559,781,864,817,Weekly,25,1090
+PUB_0079,2023-08-03,Analyst_22,Mid,Commodities,Weekly Outlook,Email,EMEA,Tier 2,734,0,4,0,18,0,0,44,17,0,0,0,0,78,3596,1517,569,184,596,Bi-weekly,23,1215
+PUB_0080,2024-11-17,Analyst_4,Junior,Equity,Deep Dive,Email,APAC,Tier 3,936,1,7,1,21,1,1,34,17,0,0,0,0,41,1913,1639,393,703,421,Bi-weekly,12,849
+PUB_0081,2023-10-01,Analyst_28,Managing Director,Macro,Earnings Preview,Portal,APAC,Tier 3,887,0,9,0,10,0,0,25,12,0,0,1,0,89,3579,0,436,303,459,Weekly,2,1335
+PUB_0082,2024-12-19,Analyst_6,Senior,Commodities,Morning Brief,Email,Americas,Tier 1,643,1,2,0,24,0,0,61,15,0,0,1,0,75,1551,1846,522,609,480,Daily,4,880
+PUB_0083,2024-11-30,Analyst_11,Mid,Credit,Earnings Preview,Web,Americas,Tier 2,1617,1,9,0,21,0,0,48,18,0,0,0,0,40,2413,0,324,304,317,Monthly,5,479
+PUB_0084,2024-10-25,Analyst_14,Junior,Macro,Morning Brief,Portal,Americas,Tier 3,2279,1,6,0,25,0,0,98,16,0,1,1,0,46,1614,0,402,695,390,Weekly,3,314
+PUB_0085,2023-03-15,Analyst_23,Mid,Fixed Income,Morning Brief,Portal,EMEA,Tier 3,870,1,3,0,23,0,0,23,13,0,0,1,0,13,1331,0,115,851,69,Bi-weekly,9,412
+PUB_0086,2024-09-15,Analyst_16,Mid,Commodities,Morning Brief,Email,APAC,Tier 2,910,1,4,0,22,1,1,76,18,0,0,0,0,0,1745,1639,128,769,102,Monthly,29,722
+PUB_0087,2024-10-12,Analyst_10,Senior,Equity,Morning Brief,Email,EMEA,Tier 3,2027,1,8,0,4,1,0,68,18,0,0,0,0,16,3099,265,647,548,652,Weekly,21,1703
+PUB_0088,2023-06-25,Analyst_22,Senior,Credit,Weekly Outlook,Portal,Americas,Tier 1,2590,0,6,0,34,0,0,63,11,0,0,1,1,54,3540,0,685,662,724,Bi-weekly,18,1442
+PUB_0089,2024-06-30,Analyst_13,Managing Director,Commodities,Deep Dive,Web,Americas,Tier 3,2154,0,3,0,6,0,0,99,17,0,0,0,1,52,4156,0,251,533,264,Monthly,11,1256
+PUB_0090,2023-09-08,Analyst_27,Mid,Macro,Deep Dive,Web,EMEA,Tier 2,2908,0,5,0,28,0,0,94,15,0,1,1,0,30,405,0,711,95,732,Weekly,3,497
+PUB_0091,2023-06-17,Analyst_25,Junior,Equity,Morning Brief,Email,Americas,Tier 3,1259,1,9,0,31,0,0,33,19,0,0,0,0,61,3636,1015,607,492,642,Weekly,25,669
+PUB_0092,2024-04-18,Analyst_18,Senior,Macro,Deep Dive,Email,APAC,Tier 3,2379,0,6,0,35,0,0,22,14,0,0,1,0,7,1823,1950,162,631,163,Monthly,23,987
+PUB_0093,2024-01-24,Analyst_2,Senior,Macro,Morning Brief,Email,Americas,Tier 3,2738,1,9,1,39,0,1,81,12,0,0,1,0,29,1789,1301,140,697,178,Daily,2,807
+PUB_0094,2023-10-04,Analyst_15,Senior,Fixed Income,Deep Dive,Portal,APAC,Tier 2,2624,1,8,1,23,0,1,83,15,0,0,1,0,76,1617,0,190,841,215,Daily,9,699
+PUB_0095,2024-10-17,Analyst_3,Senior,Fixed Income,Earnings Preview,Web,Americas,Tier 2,831,1,3,0,6,0,1,64,10,0,0,1,0,79,4017,0,338,628,296,Monthly,14,1024
+PUB_0096,2024-12-05,Analyst_11,Mid,Macro,Weekly Outlook,Portal,EMEA,Tier 1,1477,1,9,0,16,0,0,77,13,0,0,1,0,65,519,0,779,53,738,Bi-weekly,4,891
+PUB_0097,2024-07-24,Analyst_9,Senior,Credit,Flash Note,Portal,Americas,Tier 2,2730,1,2,0,2,1,0,39,7,0,0,0,0,44,3036,0,638,785,597,Monthly,29,1448
+PUB_0098,2023-08-13,Analyst_11,Mid,Fixed Income,Morning Brief,Web,Americas,Tier 1,1391,1,7,0,24,0,0,77,12,0,0,1,0,17,3962,0,460,50,482,Daily,9,630
+PUB_0099,2024-12-02,Analyst_4,Junior,Fixed Income,Earnings Preview,Portal,EMEA,Tier 3,2201,1,0,0,17,1,1,76,9,1,0,1,0,44,4329,0,426,339,437,Daily,13,585
+PUB_0100,2023-11-29,Analyst_25,Junior,Fixed Income,Earnings Preview,Email,Americas,Tier 2,1183,1,8,1,1,0,1,96,14,0,0,1,0,18,1550,536,433,158,472,Daily,18,626
+PUB_0101,2023-02-27,Analyst_13,Junior,Fixed Income,Weekly Outlook,Portal,EMEA,Tier 1,2561,1,0,0,6,0,0,87,17,1,0,0,0,76,3196,0,201,826,249,Bi-weekly,15,523
+PUB_0102,2023-08-23,Analyst_28,Senior,Equity,Weekly Outlook,Portal,EMEA,Tier 3,1978,0,1,0,5,1,0,97,6,0,0,0,0,67,3361,0,676,624,716,Bi-weekly,28,1431
+PUB_0103,2023-02-02,Analyst_17,Mid,Macro,Morning Brief,Web,APAC,Tier 3,2723,1,7,0,29,0,1,71,12,0,0,1,0,82,1264,0,368,509,377,Weekly,10,474
+PUB_0104,2023-11-20,Analyst_27,Senior,Equity,Morning Brief,Portal,Americas,Tier 3,2560,1,8,0,12,0,1,56,11,1,0,1,0,49,1969,0,418,315,462,Daily,16,727
+PUB_0105,2024-02-15,Analyst_1,Managing Director,Commodities,Earnings Preview,Portal,Americas,Tier 3,2426,0,6,0,39,0,1,27,13,0,0,1,0,24,1919,0,655,187,623,Bi-weekly,12,1606
+PUB_0106,2023-10-02,Analyst_22,Mid,Commodities,Earnings Preview,Email,Americas,Tier 1,2049,1,2,0,3,0,1,63,10,1,0,1,0,37,2805,770,609,483,596,Weekly,20,1124
+PUB_0107,2023-03-09,Analyst_28,Mid,Commodities,Weekly Outlook,Portal,APAC,Tier 2,2975,0,6,0,1,0,1,24,6,0,0,0,0,35,3615,0,752,93,707,Daily,5,950
+PUB_0108,2023-08-05,Analyst_18,Senior,Equity,Morning Brief,Email,Americas,Tier 3,2951,1,5,1,27,1,0,88,6,0,0,0,0,67,1442,136,511,559,475,Monthly,2,1293
+PUB_0109,2024-08-03,Analyst_15,Mid,Macro,Morning Brief,Web,APAC,Tier 3,1081,0,1,0,24,0,1,50,14,0,0,1,0,55,2326,0,61,311,103,Daily,10,164
+PUB_0110,2023-11-19,Analyst_14,Junior,Commodities,Earnings Preview,Portal,APAC,Tier 1,2405,1,2,1,19,0,1,64,15,0,0,1,0,38,1179,0,205,777,201,Bi-weekly,1,470
+PUB_0111,2023-08-06,Analyst_2,Mid,Fixed Income,Flash Note,Web,Americas,Tier 3,1180,1,9,1,8,0,1,28,11,0,0,1,0,62,4306,0,733,682,727,Monthly,7,1343
+PUB_0112,2024-11-02,Analyst_7,Junior,Commodities,Earnings Preview,Email,Americas,Tier 2,746,1,9,0,2,0,0,51,15,0,0,1,0,6,4663,740,526,201,480,Weekly,26,860
+PUB_0113,2024-05-26,Analyst_17,Managing Director,Credit,Flash Note,Web,EMEA,Tier 2,2413,1,4,0,30,0,0,52,10,0,0,1,0,57,2879,0,450,262,477,Weekly,17,1055
+PUB_0114,2024-02-10,Analyst_12,Senior,Fixed Income,Morning Brief,Email,APAC,Tier 2,2083,1,9,0,30,0,0,86,6,0,0,0,0,79,2628,1062,226,283,228,Weekly,16,928
+PUB_0115,2024-10-20,Analyst_20,Senior,Fixed Income,Earnings Preview,Email,APAC,Tier 3,1577,1,3,1,39,0,0,49,11,0,0,1,0,58,913,574,390,672,405,Monthly,27,1031
+PUB_0116,2024-04-14,Analyst_25,Managing Director,Fixed Income,Weekly Outlook,Email,APAC,Tier 3,2291,0,1,0,32,0,1,95,11,0,0,1,0,47,2131,496,106,410,117,Weekly,27,911
+PUB_0117,2023-05-27,Analyst_16,Senior,Commodities,Deep Dive,Email,APAC,Tier 1,1367,1,3,0,1,0,0,48,8,0,0,0,0,4,422,349,497,369,469,Bi-weekly,24,940
+PUB_0118,2023-09-29,Analyst_21,Junior,Fixed Income,Morning Brief,Portal,APAC,Tier 3,1877,1,7,0,38,0,0,22,18,0,1,0,1,86,3069,0,252,271,245,Monthly,3,298
+PUB_0119,2023-05-23,Analyst_15,Managing Director,Credit,Morning Brief,Email,EMEA,Tier 2,1311,1,4,0,13,0,1,76,13,0,0,1,0,35,1003,1710,746,787,747,Monthly,14,2511
+PUB_0120,2023-09-10,Analyst_25,Senior,Equity,Earnings Preview,Email,EMEA,Tier 1,2574,1,4,1,11,0,0,49,19,0,0,0,0,87,1641,424,682,259,677,Weekly,10,1274
+PUB_0121,2024-07-28,Analyst_2,Senior,Credit,Deep Dive,Portal,APAC,Tier 3,1073,1,9,0,10,1,0,28,6,0,0,0,0,24,3603,0,787,445,755,Bi-weekly,22,1663
+PUB_0122,2024-07-05,Analyst_7,Managing Director,Macro,Deep Dive,Web,Americas,Tier 3,2114,1,2,0,26,0,0,45,6,0,1,0,0,44,2753,0,251,632,288,Monthly,7,927
+PUB_0123,2023-09-27,Analyst_9,Mid,Fixed Income,Deep Dive,Email,Americas,Tier 3,2948,1,7,0,20,0,1,21,11,0,0,1,1,18,2576,1972,379,538,412,Weekly,26,1009
+PUB_0124,2024-08-21,Analyst_18,Junior,Credit,Earnings Preview,Web,Americas,Tier 3,2726,1,5,1,17,0,0,81,15,0,0,1,0,6,3440,0,412,650,408,Weekly,17,553
+PUB_0125,2024-03-14,Analyst_5,Mid,Commodities,Earnings Preview,Portal,Americas,Tier 3,1501,0,1,0,17,0,1,22,18,0,0,0,0,57,4343,0,503,823,543,Daily,6,709
+PUB_0126,2024-08-20,Analyst_30,Mid,Macro,Flash Note,Email,APAC,Tier 3,1750,0,1,0,4,1,0,65,6,0,0,0,0,80,1241,699,405,513,406,Daily,23,583
+PUB_0127,2024-02-13,Analyst_10,Senior,Credit,Flash Note,Email,Americas,Tier 1,606,0,8,0,5,0,1,87,11,0,0,1,0,65,949,1010,265,749,238,Monthly,22,1190
+PUB_0128,2024-01-06,Analyst_15,Managing Director,Fixed Income,Flash Note,Web,Americas,Tier 2,1078,1,6,0,23,0,0,44,6,0,0,0,0,79,466,0,604,673,570,Weekly,4,987
+PUB_0129,2023-08-13,Analyst_29,Junior,Commodities,Weekly Outlook,Portal,APAC,Tier 2,2851,0,9,0,10,0,0,70,19,0,0,0,0,38,2997,0,72,501,110,Monthly,17,429
+PUB_0130,2023-05-22,Analyst_23,Senior,Fixed Income,Morning Brief,Email,Americas,Tier 2,2615,1,8,0,28,0,0,32,18,1,0,0,0,17,1189,235,204,462,199,Bi-weekly,27,615
+PUB_0131,2024-06-05,Analyst_16,Mid,Macro,Flash Note,Web,Americas,Tier 3,307,1,5,0,33,0,0,63,11,0,0,1,0,0,4141,0,235,800,248,Bi-weekly,9,654
+PUB_0132,2024-05-20,Analyst_4,Mid,Credit,Weekly Outlook,Email,Americas,Tier 2,2855,0,4,0,26,0,0,54,8,1,0,0,0,62,2138,127,298,525,342,Bi-weekly,4,654
+PUB_0133,2023-04-04,Analyst_1,Junior,Fixed Income,Weekly Outlook,Email,Americas,Tier 1,775,1,0,0,29,0,0,74,19,0,0,0,0,2,2960,1554,798,305,775,Daily,7,601
+PUB_0134,2023-02-18,Analyst_21,Mid,Macro,Earnings Preview,Email,EMEA,Tier 2,1620,1,5,0,27,0,0,28,19,0,0,0,0,20,4370,1459,183,199,182,Monthly,23,868
+PUB_0135,2023-04-23,Analyst_20,Managing Director,Commodities,Deep Dive,Portal,EMEA,Tier 3,2511,0,5,0,18,0,0,21,13,0,0,1,0,29,1954,0,370,176,383,Weekly,2,881
+PUB_0136,2023-06-06,Analyst_26,Mid,Credit,Deep Dive,Portal,EMEA,Tier 1,784,1,2,1,10,0,0,80,18,0,0,0,0,10,4783,0,439,441,416,Weekly,17,947
+PUB_0137,2024-10-04,Analyst_8,Senior,Credit,Flash Note,Email,Americas,Tier 3,2914,0,2,1,5,0,0,60,11,0,1,1,0,21,594,1690,483,880,518,Daily,24,1080
+PUB_0138,2023-06-13,Analyst_23,Senior,Macro,Morning Brief,Email,Americas,Tier 2,1204,1,2,0,10,0,1,63,18,0,0,0,0,56,3282,1449,71,529,76,Monthly,8,887
+PUB_0139,2024-11-27,Analyst_6,Mid,Credit,Morning Brief,Portal,APAC,Tier 2,858,1,2,0,21,0,1,83,16,0,0,1,0,88,1884,0,649,446,657,Monthly,23,841
+PUB_0140,2024-03-08,Analyst_10,Managing Director,Commodities,Morning Brief,Web,Americas,Tier 3,2267,1,6,0,24,0,0,50,18,0,1,0,0,2,3610,0,714,451,668,Weekly,15,1301
+PUB_0141,2024-09-02,Analyst_18,Managing Director,Commodities,Weekly Outlook,Email,APAC,Tier 3,2585,1,9,0,38,0,0,66,6,1,0,0,0,29,3886,1555,174,323,177,Weekly,15,1339
+PUB_0142,2023-03-07,Analyst_1,Mid,Credit,Weekly Outlook,Web,Americas,Tier 2,1427,1,1,0,3,0,1,21,10,0,0,1,0,87,4230,0,128,894,121,Bi-weekly,8,654
+PUB_0143,2024-01-30,Analyst_18,Mid,Fixed Income,Weekly Outlook,Portal,EMEA,Tier 3,1533,1,9,0,31,0,0,96,13,0,0,1,0,44,1098,0,100,188,91,Weekly,16,218
+PUB_0144,2024-01-26,Analyst_14,Mid,Fixed Income,Earnings Preview,Portal,Americas,Tier 3,2901,0,9,0,37,0,1,88,8,0,1,0,0,35,4569,0,777,152,798,Weekly,19,1026
+PUB_0145,2024-09-02,Analyst_3,Mid,Commodities,Weekly Outlook,Web,Americas,Tier 2,767,0,1,1,2,0,0,77,17,1,0,0,0,86,1551,0,225,291,266,Bi-weekly,11,463
+PUB_0146,2024-04-24,Analyst_8,Junior,Fixed Income,Morning Brief,Portal,EMEA,Tier 3,2733,1,2,0,2,1,1,63,11,0,0,1,0,71,1851,0,302,166,308,Daily,2,213
+PUB_0147,2024-06-25,Analyst_27,Senior,Macro,Morning Brief,Email,Americas,Tier 3,1147,1,9,0,39,0,0,93,10,0,0,1,1,63,2380,1534,295,263,291,Weekly,23,1058
+PUB_0148,2023-09-15,Analyst_30,Senior,Equity,Deep Dive,Web,Americas,Tier 3,2734,1,6,0,34,1,1,75,11,0,1,1,0,53,4900,0,788,533,813,Weekly,24,1315
+PUB_0149,2024-07-20,Analyst_4,Junior,Credit,Morning Brief,Web,Americas,Tier 3,558,1,2,0,20,0,0,62,15,0,0,1,0,67,4758,0,155,578,129,Weekly,17,299
+PUB_0150,2023-01-12,Analyst_15,Mid,Macro,Weekly Outlook,Web,Americas,Tier 3,582,1,6,0,33,0,1,53,6,0,0,0,0,49,3034,0,242,740,235,Daily,28,390
+PUB_0151,2024-11-27,Analyst_4,Managing Director,Commodities,Weekly Outlook,Email,APAC,Tier 3,1949,0,8,0,4,0,0,49,12,0,0,1,0,30,3834,858,365,273,329,Weekly,26,1826
+PUB_0152,2023-04-28,Analyst_21,Mid,Equity,Flash Note,Email,Americas,Tier 3,2198,1,9,0,11,0,0,90,14,0,1,1,0,28,3446,507,351,319,351,Weekly,16,814
+PUB_0153,2024-11-29,Analyst_27,Junior,Commodities,Earnings Preview,Portal,EMEA,Tier 3,339,1,3,0,5,0,1,89,7,0,1,0,0,58,1973,0,597,874,599,Weekly,25,590
+PUB_0154,2024-07-03,Analyst_5,Mid,Equity,Morning Brief,Web,APAC,Tier 3,2833,0,6,1,25,1,0,74,15,0,0,1,0,35,4634,0,765,183,748,Bi-weekly,15,1055
+PUB_0155,2023-10-01,Analyst_16,Managing Director,Macro,Earnings Preview,Portal,Americas,Tier 3,2567,0,8,0,37,1,1,86,10,0,0,1,0,76,3903,0,317,163,343,Monthly,13,1406
+PUB_0156,2024-10-18,Analyst_30,Mid,Equity,Morning Brief,Web,APAC,Tier 3,1314,0,7,0,34,0,0,32,15,0,1,1,0,72,2079,0,219,490,176,Daily,15,186
+PUB_0157,2023-12-15,Analyst_23,Senior,Fixed Income,Deep Dive,Portal,Americas,Tier 1,912,1,7,0,9,0,1,22,9,0,1,1,0,84,798,0,600,693,626,Monthly,27,1243
+PUB_0158,2023-04-25,Analyst_10,Senior,Macro,Deep Dive,Web,Americas,Tier 3,2215,1,8,0,6,0,0,45,11,0,0,1,0,66,1412,0,504,700,553,Weekly,4,763
+PUB_0159,2023-10-28,Analyst_17,Mid,Credit,Earnings Preview,Email,Americas,Tier 3,987,0,4,0,18,0,1,76,11,0,0,1,0,88,3062,1698,700,414,719,Weekly,16,1207
+PUB_0160,2024-03-21,Analyst_23,Senior,Commodities,Weekly Outlook,Portal,Americas,Tier 1,912,0,4,0,14,0,1,43,16,0,0,1,0,88,3038,0,341,281,386,Weekly,12,872
+PUB_0161,2023-06-11,Analyst_9,Mid,Fixed Income,Flash Note,Portal,APAC,Tier 3,2607,1,2,1,19,0,0,72,7,0,0,0,0,75,4887,0,613,507,583,Weekly,4,1015
+PUB_0162,2024-04-09,Analyst_14,Senior,Credit,Morning Brief,Portal,Americas,Tier 1,2713,1,4,1,14,1,1,89,7,0,0,0,0,10,2400,0,190,424,146,Bi-weekly,3,836
+PUB_0163,2023-01-04,Analyst_27,Senior,Equity,Morning Brief,Portal,Americas,Tier 2,2081,1,7,0,17,1,1,62,9,0,0,1,0,10,3297,0,195,653,234,Weekly,22,1042
+PUB_0164,2023-09-27,Analyst_16,Senior,Fixed Income,Flash Note,Web,Americas,Tier 3,2110,1,4,1,35,0,0,79,6,0,0,0,1,25,226,0,474,828,502,Weekly,17,582
+PUB_0165,2024-05-27,Analyst_16,Junior,Credit,Earnings Preview,Email,APAC,Tier 1,2891,1,3,0,29,1,1,77,14,1,0,1,0,52,1291,1240,363,660,368,Monthly,22,612
+PUB_0166,2023-07-02,Analyst_8,Senior,Macro,Earnings Preview,Portal,APAC,Tier 3,2996,1,7,0,17,0,0,68,19,0,0,0,0,13,2739,0,233,256,231,Weekly,18,740
+PUB_0167,2024-06-03,Analyst_15,Mid,Equity,Morning Brief,Portal,EMEA,Tier 3,1847,1,6,0,8,0,1,61,19,1,0,0,0,63,4489,0,713,569,704,Daily,25,902
+PUB_0168,2023-04-19,Analyst_18,Junior,Credit,Deep Dive,Email,Americas,Tier 2,2230,1,5,1,1,0,0,95,18,0,0,0,0,79,4016,1297,762,517,734,Daily,18,834
+PUB_0169,2024-10-02,Analyst_5,Junior,Equity,Flash Note,Web,EMEA,Tier 1,1452,0,4,0,36,0,0,85,12,0,0,1,0,9,1466,0,177,492,178,Weekly,23,99
+PUB_0170,2023-11-02,Analyst_13,Senior,Credit,Morning Brief,Web,EMEA,Tier 2,874,0,4,0,7,0,0,30,17,0,0,0,0,30,1119,0,336,370,364,Weekly,28,557
+PUB_0171,2024-10-16,Analyst_7,Senior,Commodities,Deep Dive,Portal,APAC,Tier 3,2210,0,9,0,5,0,0,37,12,0,0,1,0,35,4179,0,302,142,304,Weekly,17,965
+PUB_0172,2024-06-03,Analyst_30,Junior,Macro,Earnings Preview,Portal,EMEA,Tier 3,1312,1,1,0,24,1,1,71,8,1,0,0,0,9,4614,0,749,457,714,Weekly,12,784
+PUB_0173,2024-09-15,Analyst_20,Senior,Fixed Income,Deep Dive,Web,EMEA,Tier 3,969,1,3,0,28,0,1,65,16,0,0,1,0,25,4639,0,435,207,480,Daily,23,763
+PUB_0174,2023-07-23,Analyst_17,Mid,Credit,Weekly Outlook,Email,Americas,Tier 2,568,1,7,1,17,0,0,63,17,0,0,0,0,19,784,1279,279,148,265,Bi-weekly,21,662
+PUB_0175,2023-06-06,Analyst_24,Senior,Equity,Morning Brief,Email,EMEA,Tier 3,1583,0,7,0,37,0,0,41,8,0,0,0,0,43,3729,1213,320,274,287,Bi-weekly,24,1221
+PUB_0176,2024-01-18,Analyst_29,Junior,Macro,Flash Note,Portal,EMEA,Tier 2,1223,1,0,0,20,0,1,72,6,0,0,0,0,61,2987,0,464,490,433,Monthly,4,703
+PUB_0177,2023-06-15,Analyst_5,Senior,Fixed Income,Deep Dive,Email,APAC,Tier 3,1425,1,1,0,3,0,0,78,8,0,0,0,0,72,1562,1356,247,769,242,Monthly,12,1015
+PUB_0178,2024-07-06,Analyst_28,Mid,Equity,Earnings Preview,Portal,EMEA,Tier 1,1829,0,4,0,37,1,0,49,8,0,0,0,0,78,4186,0,372,634,323,Monthly,26,947
+PUB_0179,2024-06-27,Analyst_3,Managing Director,Macro,Deep Dive,Portal,APAC,Tier 3,2058,1,8,0,26,0,0,27,9,0,0,1,1,8,2361,0,105,450,141,Bi-weekly,23,925
+PUB_0180,2023-01-01,Analyst_9,Junior,Equity,Earnings Preview,Web,Americas,Tier 2,1894,1,9,0,15,0,0,76,9,0,0,1,0,70,4280,0,252,620,295,Bi-weekly,22,533
+PUB_0181,2024-09-05,Analyst_25,Mid,Macro,Weekly Outlook,Portal,APAC,Tier 3,546,1,6,0,8,0,0,92,8,0,0,0,0,89,2941,0,670,848,682,Daily,21,774
+PUB_0182,2023-11-28,Analyst_26,Junior,Fixed Income,Earnings Preview,Email,EMEA,Tier 2,1860,0,9,0,13,0,1,39,15,0,0,1,0,23,1867,379,677,113,629,Bi-weekly,20,878
+PUB_0183,2024-05-15,Analyst_28,Managing Director,Fixed Income,Flash Note,Email,EMEA,Tier 3,2478,0,4,0,3,0,0,44,17,0,0,0,0,11,4280,1217,653,817,648,Daily,15,2166
+PUB_0184,2023-01-20,Analyst_14,Managing Director,Equity,Weekly Outlook,Portal,Americas,Tier 3,2700,1,0,0,1,1,1,38,13,0,1,1,0,59,3660,0,187,609,185,Monthly,23,1302
+PUB_0185,2023-04-25,Analyst_11,Mid,Macro,Deep Dive,Web,APAC,Tier 1,2543,0,5,0,9,1,0,24,13,0,0,1,0,83,2212,0,471,328,421,Weekly,28,588
+PUB_0186,2024-01-07,Analyst_30,Senior,Credit,Morning Brief,Portal,EMEA,Tier 3,2239,1,7,0,31,0,0,94,18,0,0,0,0,77,4858,0,106,759,77,Bi-weekly,16,958
+PUB_0187,2023-11-11,Analyst_26,Senior,Fixed Income,Earnings Preview,Email,Americas,Tier 3,1229,1,6,1,26,0,1,98,18,0,0,0,0,85,726,1562,611,719,653,Daily,5,1268
+PUB_0188,2023-09-03,Analyst_17,Senior,Credit,Flash Note,Portal,EMEA,Tier 1,2992,1,1,0,17,1,0,91,6,0,0,0,0,15,4259,0,120,872,83,Weekly,21,903
+PUB_0189,2023-03-01,Analyst_9,Senior,Credit,Morning Brief,Portal,APAC,Tier 2,526,1,4,0,34,0,0,46,12,0,0,1,0,28,3514,0,643,568,684,Weekly,15,1372
+PUB_0190,2023-09-04,Analyst_27,Mid,Commodities,Morning Brief,Email,APAC,Tier 3,564,1,3,0,9,0,1,59,16,1,0,1,0,31,1475,901,421,297,455,Weekly,17,746
+PUB_0191,2024-08-03,Analyst_1,Junior,Equity,Weekly Outlook,Web,EMEA,Tier 1,1695,0,8,0,13,0,0,45,7,0,0,0,0,82,1281,0,666,417,660,Weekly,18,510
+PUB_0192,2023-03-22,Analyst_10,Managing Director,Equity,Deep Dive,Email,Americas,Tier 3,1757,1,9,1,5,0,1,46,6,0,0,0,0,34,590,1988,649,793,694,Daily,5,1830
+PUB_0193,2023-03-29,Analyst_24,Managing Director,Equity,Morning Brief,Web,Americas,Tier 2,945,1,0,0,13,1,0,81,8,0,0,0,1,42,3829,0,563,667,518,Weekly,13,1339
+PUB_0194,2024-05-12,Analyst_10,Senior,Macro,Flash Note,Portal,Americas,Tier 3,2558,1,5,0,1,0,1,69,9,0,0,1,0,52,3634,0,133,147,147,Weekly,19,730
+PUB_0195,2023-03-12,Analyst_27,Mid,Fixed Income,Earnings Preview,Email,Americas,Tier 1,1718,0,2,0,25,0,0,61,18,0,0,0,0,19,3396,941,92,317,62,Monthly,13,720
+PUB_0196,2024-06-29,Analyst_19,Mid,Fixed Income,Earnings Preview,Email,EMEA,Tier 3,1773,1,8,0,4,0,0,48,11,0,0,1,1,83,2040,1522,715,109,668,Weekly,18,1078
+PUB_0197,2023-05-09,Analyst_19,Senior,Commodities,Earnings Preview,Web,Americas,Tier 3,1687,1,4,1,36,0,1,58,15,0,0,1,0,7,4508,0,655,549,607,Weekly,14,1128
+PUB_0198,2023-05-12,Analyst_22,Managing Director,Commodities,Weekly Outlook,Web,Americas,Tier 3,2199,0,5,0,10,0,1,79,19,0,1,0,0,41,1982,0,182,357,161,Monthly,4,782
+PUB_0199,2024-11-06,Analyst_16,Managing Director,Commodities,Flash Note,Email,Americas,Tier 3,2804,0,8,0,28,0,0,60,10,0,0,1,0,76,3087,718,444,542,424,Weekly,4,1810
+PUB_0200,2024-05-01,Analyst_28,Senior,Credit,Morning Brief,Portal,APAC,Tier 1,1549,0,8,0,6,0,0,52,19,0,0,0,0,69,3259,0,114,460,97,Weekly,20,703
+PUB_0201,2024-07-16,Analyst_5,Senior,Equity,Flash Note,Email,EMEA,Tier 3,1281,1,7,0,27,1,0,35,9,0,0,1,0,15,4875,1090,339,189,371,Weekly,20,1443
+PUB_0202,2023-06-19,Analyst_15,Junior,Macro,Weekly Outlook,Portal,Americas,Tier 1,1454,0,8,1,12,0,1,42,13,1,0,1,0,68,4630,0,425,377,394,Bi-weekly,19,848
+PUB_0203,2023-09-29,Analyst_18,Junior,Fixed Income,Weekly Outlook,Portal,Americas,Tier 1,887,0,3,0,3,0,1,26,16,0,1,1,1,52,781,0,516,513,552,Weekly,13,532
+PUB_0204,2024-06-24,Analyst_16,Managing Director,Macro,Deep Dive,Portal,APAC,Tier 2,775,1,5,0,33,1,1,45,17,1,0,0,0,44,1173,0,262,751,265,Weekly,12,974
+PUB_0205,2024-09-13,Analyst_12,Senior,Equity,Flash Note,Portal,Americas,Tier 2,2121,1,4,0,10,1,0,31,19,0,1,0,0,50,2487,0,197,686,171,Bi-weekly,7,734
+PUB_0206,2024-03-09,Analyst_11,Junior,Equity,Earnings Preview,Web,Americas,Tier 3,1285,0,4,0,31,1,1,91,9,0,0,1,0,5,2494,0,622,212,586,Daily,25,584
+PUB_0207,2023-08-05,Analyst_18,Junior,Fixed Income,Weekly Outlook,Web,EMEA,Tier 3,2503,0,3,0,15,1,0,24,18,0,0,0,0,32,2793,0,520,109,507,Monthly,12,365
+PUB_0208,2024-07-06,Analyst_25,Senior,Credit,Weekly Outlook,Email,APAC,Tier 2,1541,0,1,0,7,0,0,88,15,0,0,1,0,78,1470,1618,198,80,170,Weekly,21,568
+PUB_0209,2024-12-07,Analyst_18,Junior,Commodities,Deep Dive,Web,APAC,Tier 2,489,0,5,0,36,0,0,68,17,0,0,0,0,14,4844,0,137,382,138,Weekly,4,265
+PUB_0210,2023-07-25,Analyst_13,Junior,Credit,Earnings Preview,Email,APAC,Tier 3,1740,1,8,0,14,0,1,45,18,0,0,0,0,13,4440,1110,373,125,388,Bi-weekly,27,758
+PUB_0211,2024-12-31,Analyst_15,Senior,Equity,Weekly Outlook,Email,Americas,Tier 2,1280,0,0,0,14,0,1,24,7,0,0,0,1,38,2256,152,445,804,451,Weekly,2,1250
+PUB_0212,2023-11-16,Analyst_30,Senior,Equity,Morning Brief,Portal,APAC,Tier 2,1998,0,6,1,3,1,0,41,8,0,0,0,0,62,2680,0,453,366,459,Monthly,2,1294
+PUB_0213,2024-02-13,Analyst_11,Senior,Credit,Earnings Preview,Email,Americas,Tier 1,2015,1,5,0,3,0,1,98,11,0,0,1,0,4,4491,1503,131,819,159,Monthly,5,1651
+PUB_0214,2024-11-18,Analyst_28,Mid,Commodities,Flash Note,Web,EMEA,Tier 3,2893,1,2,0,22,0,1,32,13,1,0,1,0,89,2259,0,690,466,691,Weekly,23,792
+PUB_0215,2024-10-27,Analyst_7,Senior,Commodities,Deep Dive,Web,EMEA,Tier 3,340,1,0,0,19,0,0,47,13,0,0,1,0,80,3348,0,335,239,319,Monthly,10,762
+PUB_0216,2024-01-18,Analyst_23,Mid,Equity,Morning Brief,Email,Americas,Tier 2,2654,1,3,0,35,1,0,52,16,0,0,1,0,51,3831,288,431,538,454,Daily,10,864
+PUB_0217,2024-03-24,Analyst_8,Mid,Commodities,Morning Brief,Portal,APAC,Tier 1,1242,1,8,0,12,0,1,42,14,0,0,1,0,15,3929,0,319,364,282,Monthly,9,960
+PUB_0218,2024-06-13,Analyst_19,Senior,Commodities,Flash Note,Email,EMEA,Tier 3,637,1,1,1,5,0,1,37,12,0,0,1,0,37,1727,694,341,345,381,Weekly,13,1138
+PUB_0219,2024-04-07,Analyst_13,Senior,Fixed Income,Deep Dive,Email,Americas,Tier 3,1637,1,2,0,10,0,0,49,18,0,0,0,0,52,3572,1198,502,550,465,Weekly,7,1523
+PUB_0220,2023-05-04,Analyst_8,Senior,Fixed Income,Weekly Outlook,Web,APAC,Tier 2,1398,1,1,0,33,0,0,45,7,0,0,0,0,86,127,0,764,226,812,Weekly,5,660
+PUB_0221,2023-09-11,Analyst_28,Senior,Macro,Deep Dive,Web,EMEA,Tier 3,2626,1,1,0,13,1,0,35,13,1,0,1,0,76,2085,0,73,849,55,Weekly,26,373
+PUB_0222,2023-08-19,Analyst_25,Senior,Credit,Weekly Outlook,Portal,Americas,Tier 1,1195,0,9,0,35,0,0,96,12,0,0,1,0,52,4253,0,360,855,361,Weekly,10,1140
+PUB_0223,2023-03-07,Analyst_14,Junior,Equity,Flash Note,Web,Americas,Tier 2,2620,1,7,0,32,1,1,58,13,0,0,1,0,45,1621,0,510,768,460,Monthly,10,570
+PUB_0224,2023-12-13,Analyst_2,Mid,Commodities,Flash Note,Email,Americas,Tier 3,2967,0,2,0,11,0,0,52,17,0,0,0,0,14,396,656,257,264,240,Monthly,6,408
+PUB_0225,2023-01-22,Analyst_11,Mid,Macro,Morning Brief,Web,Americas,Tier 2,1974,1,6,0,38,0,1,45,8,0,0,0,0,58,2281,0,766,702,734,Daily,27,688
+PUB_0226,2024-08-25,Analyst_24,Mid,Fixed Income,Morning Brief,Web,APAC,Tier 3,1230,1,7,0,24,0,0,67,12,0,0,1,0,49,3502,0,713,646,686,Daily,28,721
+PUB_0227,2024-07-21,Analyst_16,Managing Director,Commodities,Morning Brief,Web,Americas,Tier 2,588,1,2,0,35,0,0,84,15,0,0,1,0,8,2396,0,487,743,440,Monthly,19,1251
+PUB_0228,2023-08-24,Analyst_23,Mid,Credit,Flash Note,Web,Americas,Tier 2,1023,0,1,0,19,0,0,57,18,0,0,0,0,25,2697,0,587,381,572,Weekly,21,495
+PUB_0229,2024-08-25,Analyst_30,Managing Director,Fixed Income,Weekly Outlook,Portal,Americas,Tier 3,2619,1,7,0,6,0,1,21,14,0,0,1,0,2,1001,0,755,177,781,Daily,8,1301
+PUB_0230,2023-08-14,Analyst_26,Senior,Equity,Flash Note,Web,Americas,Tier 2,2253,1,2,0,35,1,0,25,8,1,0,0,0,46,1198,0,385,318,392,Weekly,1,611
+PUB_0231,2023-01-08,Analyst_13,Senior,Commodities,Flash Note,Email,EMEA,Tier 3,1389,1,6,0,4,0,1,65,19,0,0,0,0,4,1777,973,471,600,452,Weekly,28,1285
+PUB_0232,2023-03-14,Analyst_13,Senior,Macro,Morning Brief,Web,Americas,Tier 2,782,1,0,0,33,0,0,69,15,0,0,1,0,61,2981,0,799,584,757,Weekly,17,1033
+PUB_0233,2024-12-25,Analyst_22,Senior,Equity,Deep Dive,Portal,EMEA,Tier 2,1235,1,5,0,13,1,0,57,11,0,0,1,1,83,4966,0,370,803,399,Bi-weekly,7,1502
+PUB_0234,2024-10-08,Analyst_26,Mid,Commodities,Morning Brief,Portal,APAC,Tier 1,2595,1,8,0,36,0,0,37,7,0,0,0,0,83,1478,0,546,415,562,Bi-weekly,14,655
+PUB_0235,2023-03-02,Analyst_27,Junior,Commodities,Deep Dive,Portal,APAC,Tier 3,455,1,2,0,19,0,0,46,7,0,0,0,0,4,1348,0,636,668,605,Daily,21,367
+PUB_0236,2023-08-23,Analyst_21,Senior,Commodities,Weekly Outlook,Email,EMEA,Tier 2,1370,1,6,0,12,1,1,60,10,0,0,1,0,9,3835,441,212,397,235,Monthly,21,1398
+PUB_0237,2023-03-11,Analyst_5,Mid,Commodities,Weekly Outlook,Email,Americas,Tier 3,2258,0,5,0,11,0,0,91,10,0,0,1,0,79,4341,1731,590,191,601,Weekly,17,1210
+PUB_0238,2023-02-02,Analyst_16,Junior,Commodities,Earnings Preview,Web,EMEA,Tier 2,2801,1,7,0,6,0,1,93,18,0,0,0,0,62,1364,0,214,194,221,Weekly,9,231
+PUB_0239,2023-12-05,Analyst_2,Senior,Equity,Earnings Preview,Email,EMEA,Tier 3,2548,1,2,0,12,0,0,36,12,0,0,1,0,24,2007,1899,747,841,718,Weekly,17,1731
+PUB_0240,2023-03-14,Analyst_5,Junior,Credit,Earnings Preview,Email,EMEA,Tier 1,1983,1,2,1,27,1,0,81,17,0,0,0,0,43,1158,1326,615,294,631,Daily,5,552
+PUB_0241,2024-06-10,Analyst_17,Managing Director,Credit,Weekly Outlook,Web,Americas,Tier 3,423,0,3,0,25,0,0,48,7,1,0,0,0,24,2849,0,344,491,368,Weekly,26,874
+PUB_0242,2023-09-01,Analyst_19,Managing Director,Equity,Morning Brief,Email,Americas,Tier 3,2348,1,2,0,3,1,0,77,16,0,1,1,0,29,2148,910,91,752,129,Daily,25,977
+PUB_0243,2023-10-13,Analyst_11,Managing Director,Credit,Morning Brief,Web,EMEA,Tier 3,1267,1,8,0,3,0,1,89,19,0,1,0,0,13,4348,0,334,339,331,Weekly,20,1145
+PUB_0244,2024-11-16,Analyst_28,Mid,Macro,Morning Brief,Web,APAC,Tier 3,1154,1,3,0,20,0,1,97,18,0,0,0,0,85,2576,0,436,740,393,Daily,29,435
+PUB_0245,2024-05-12,Analyst_4,Junior,Macro,Flash Note,Email,EMEA,Tier 3,939,1,5,0,28,0,0,41,12,0,0,1,0,42,4116,515,187,161,209,Bi-weekly,8,572
+PUB_0246,2023-08-08,Analyst_28,Managing Director,Equity,Earnings Preview,Email,APAC,Tier 3,2538,1,7,0,23,1,0,25,10,0,0,1,0,27,4703,888,236,263,200,Bi-weekly,6,1735
+PUB_0247,2024-07-06,Analyst_28,Mid,Macro,Morning Brief,Web,APAC,Tier 1,1902,1,7,0,3,0,1,45,19,0,0,0,0,18,3297,0,765,699,746,Weekly,11,1012
+PUB_0248,2023-05-16,Analyst_15,Managing Director,Equity,Earnings Preview,Email,Americas,Tier 1,2863,1,4,0,24,0,1,58,11,0,0,1,0,41,4686,1037,480,249,482,Bi-weekly,19,2357
+PUB_0249,2024-08-07,Analyst_4,Managing Director,Macro,Earnings Preview,Web,APAC,Tier 3,741,0,4,0,6,1,1,31,13,0,0,1,0,19,3653,0,603,454,619,Monthly,4,1856
+PUB_0250,2024-08-13,Analyst_17,Managing Director,Fixed Income,Flash Note,Email,EMEA,Tier 3,2244,1,5,0,20,0,0,33,15,0,0,1,0,85,4540,1123,465,470,418,Bi-weekly,18,2173
+PUB_0251,2024-04-29,Analyst_30,Mid,Equity,Weekly Outlook,Portal,EMEA,Tier 3,2138,1,9,0,11,1,0,41,18,1,0,0,0,78,1861,0,475,56,454,Weekly,1,612
+PUB_0252,2023-09-06,Analyst_15,Mid,Commodities,Morning Brief,Email,Americas,Tier 2,2129,1,6,0,32,0,1,70,19,0,0,0,0,10,320,1704,465,574,427,Weekly,13,696
+PUB_0253,2024-04-29,Analyst_1,Managing Director,Macro,Flash Note,Portal,APAC,Tier 1,2490,1,9,0,27,0,1,42,17,1,0,0,0,53,4918,0,75,641,45,Monthly,14,1459
+PUB_0254,2024-02-21,Analyst_24,Mid,Fixed Income,Weekly Outlook,Email,EMEA,Tier 1,832,1,6,0,21,0,0,67,9,0,0,1,0,23,4723,1958,420,335,410,Daily,24,964
+PUB_0255,2023-07-14,Analyst_5,Junior,Equity,Weekly Outlook,Web,APAC,Tier 3,2574,0,3,0,13,0,1,90,18,0,1,0,0,69,2988,0,434,720,402,Weekly,1,364
+PUB_0256,2023-04-07,Analyst_14,Senior,Macro,Morning Brief,Portal,APAC,Tier 2,1636,0,5,0,22,0,1,69,12,0,1,1,0,16,1764,0,105,438,102,Weekly,29,421
+PUB_0257,2023-04-10,Analyst_28,Managing Director,Commodities,Earnings Preview,Portal,Americas,Tier 2,1248,0,6,0,35,0,0,32,11,1,0,1,0,27,4086,0,302,465,337,Bi-weekly,11,1477
+PUB_0258,2024-11-05,Analyst_21,Senior,Macro,Deep Dive,Web,EMEA,Tier 2,2319,0,4,0,22,0,0,29,15,0,0,1,0,49,4676,0,683,833,695,Bi-weekly,17,1210
+PUB_0259,2024-03-17,Analyst_5,Senior,Fixed Income,Earnings Preview,Portal,EMEA,Tier 1,759,1,4,1,28,0,0,74,7,0,0,0,0,54,3077,0,155,762,124,Weekly,4,670
+PUB_0260,2023-12-29,Analyst_3,Junior,Credit,Earnings Preview,Email,EMEA,Tier 3,850,0,1,1,21,0,0,28,13,0,1,1,1,72,1971,1972,179,199,192,Daily,26,438
+PUB_0261,2024-03-09,Analyst_16,Senior,Credit,Deep Dive,Web,APAC,Tier 2,692,1,6,0,18,0,1,98,15,0,0,1,0,9,1562,0,719,477,705,Monthly,12,1139
+PUB_0262,2024-02-25,Analyst_26,Managing Director,Fixed Income,Weekly Outlook,Portal,Americas,Tier 3,2087,1,5,0,31,0,0,71,14,0,0,1,0,20,444,0,425,857,405,Daily,10,724
+PUB_0263,2024-04-23,Analyst_9,Junior,Fixed Income,Deep Dive,Email,EMEA,Tier 2,1144,1,0,0,37,0,1,21,10,0,0,1,0,57,144,584,792,342,815,Daily,6,596
+PUB_0264,2023-02-25,Analyst_11,Senior,Equity,Deep Dive,Portal,Americas,Tier 2,2557,1,3,0,21,0,1,44,15,0,0,1,0,33,2168,0,357,383,324,Weekly,25,783
+PUB_0265,2024-11-20,Analyst_20,Managing Director,Credit,Flash Note,Web,Americas,Tier 1,1438,1,2,0,14,0,0,32,9,0,0,1,0,42,1614,0,140,321,109,Bi-weekly,1,601
+PUB_0266,2024-10-31,Analyst_23,Senior,Equity,Flash Note,Email,Americas,Tier 1,945,0,2,0,25,0,0,70,11,0,0,1,0,10,2698,1134,442,92,473,Bi-weekly,7,1240
+PUB_0267,2024-10-23,Analyst_13,Senior,Macro,Flash Note,Email,APAC,Tier 2,2566,1,6,1,27,0,1,77,13,0,0,1,0,32,1101,1429,583,517,543,Monthly,26,1716
+PUB_0268,2023-04-11,Analyst_21,Senior,Fixed Income,Weekly Outlook,Email,APAC,Tier 2,2754,0,9,0,23,0,1,53,16,0,0,1,0,57,1133,1906,159,368,194,Daily,27,597
+PUB_0269,2023-03-04,Analyst_3,Mid,Equity,Deep Dive,Web,Americas,Tier 3,1766,1,3,0,31,1,1,54,8,0,0,0,0,45,2140,0,610,541,603,Weekly,21,740
+PUB_0270,2024-02-17,Analyst_28,Mid,Fixed Income,Morning Brief,Email,Americas,Tier 2,1677,1,7,0,29,0,0,22,15,0,0,1,0,60,373,73,690,576,721,Weekly,28,852
+PUB_0271,2023-12-14,Analyst_11,Senior,Equity,Deep Dive,Email,APAC,Tier 3,2905,0,8,1,30,0,0,78,16,0,0,1,0,61,2747,1366,634,809,647,Monthly,16,1879
+PUB_0272,2023-04-22,Analyst_28,Senior,Macro,Weekly Outlook,Web,EMEA,Tier 3,2897,0,2,0,26,0,0,89,16,0,0,1,0,0,1879,0,389,221,372,Weekly,24,529
+PUB_0273,2023-09-12,Analyst_22,Managing Director,Macro,Flash Note,Portal,Americas,Tier 3,441,1,4,0,20,0,1,67,6,0,0,0,0,20,4576,0,614,779,650,Daily,14,1700
+PUB_0274,2023-07-16,Analyst_28,Managing Director,Commodities,Weekly Outlook,Portal,APAC,Tier 1,2959,1,3,0,38,0,0,83,9,0,0,1,0,61,578,0,405,698,419,Bi-weekly,23,903
+PUB_0275,2023-07-14,Analyst_18,Senior,Credit,Flash Note,Portal,Americas,Tier 2,800,1,9,1,19,0,1,38,9,0,1,1,0,63,615,0,217,370,221,Weekly,20,569
+PUB_0276,2024-07-03,Analyst_13,Senior,Commodities,Weekly Outlook,Portal,EMEA,Tier 1,1139,1,5,0,27,0,0,86,6,0,0,0,0,86,4386,0,606,788,629,Weekly,20,1362
+PUB_0277,2024-04-04,Analyst_11,Senior,Credit,Morning Brief,Portal,EMEA,Tier 2,1982,0,9,1,25,0,1,92,14,0,0,1,0,72,1291,0,501,93,451,Monthly,6,1051
+PUB_0278,2023-05-24,Analyst_21,Senior,Macro,Flash Note,Web,Americas,Tier 3,1865,1,3,0,38,0,1,95,8,0,0,0,0,55,2768,0,154,581,141,Weekly,22,331
+PUB_0279,2024-03-08,Analyst_23,Senior,Equity,Flash Note,Portal,EMEA,Tier 1,2346,1,7,0,23,1,0,24,10,0,1,1,0,0,1511,0,199,680,157,Weekly,25,724
+PUB_0280,2023-07-07,Analyst_29,Senior,Fixed Income,Deep Dive,Web,Americas,Tier 2,1830,1,2,0,29,0,1,86,11,0,1,1,0,20,3380,0,195,503,239,Weekly,28,601
+PUB_0281,2023-10-13,Analyst_25,Managing Director,Macro,Weekly Outlook,Web,EMEA,Tier 3,895,1,4,0,15,0,0,30,13,0,1,1,0,21,371,0,765,795,785,Weekly,5,1098
+PUB_0282,2024-04-18,Analyst_16,Mid,Macro,Earnings Preview,Email,APAC,Tier 3,2204,1,0,0,3,0,0,87,11,0,0,1,0,53,242,458,348,897,314,Daily,24,524
+PUB_0283,2023-09-13,Analyst_28,Mid,Equity,Earnings Preview,Email,Americas,Tier 3,580,1,5,1,10,1,0,88,8,0,0,0,0,3,3432,1339,216,823,264,Bi-weekly,21,1097
+PUB_0284,2023-03-19,Analyst_18,Junior,Macro,Deep Dive,Email,Americas,Tier 1,723,1,4,0,15,0,0,20,11,0,0,1,0,64,887,1364,762,132,763,Weekly,18,806
+PUB_0285,2024-03-29,Analyst_2,Senior,Macro,Weekly Outlook,Web,APAC,Tier 2,569,0,7,0,16,0,0,82,6,0,1,0,1,50,1781,0,695,592,662,Monthly,15,1164
+PUB_0286,2024-07-17,Analyst_20,Junior,Equity,Morning Brief,Portal,EMEA,Tier 2,453,1,8,0,17,0,1,48,9,0,0,1,0,73,722,0,772,371,784,Weekly,6,663
+PUB_0287,2023-04-11,Analyst_3,Mid,Macro,Deep Dive,Portal,APAC,Tier 1,2961,1,7,0,19,0,1,31,11,0,0,1,0,62,3941,0,97,835,79,Weekly,25,671
+PUB_0288,2023-02-21,Analyst_8,Senior,Credit,Flash Note,Web,EMEA,Tier 2,2050,0,7,0,11,0,0,96,12,0,0,1,0,14,3776,0,687,283,640,Weekly,29,1153
+PUB_0289,2024-10-29,Analyst_21,Mid,Credit,Morning Brief,Email,EMEA,Tier 1,961,1,2,0,5,1,1,60,16,0,0,1,0,35,2672,657,288,589,324,Bi-weekly,19,930
+PUB_0290,2024-07-07,Analyst_22,Senior,Credit,Weekly Outlook,Email,Americas,Tier 1,2267,1,3,0,5,0,1,21,18,0,0,0,0,28,3360,1708,56,301,80,Weekly,1,795
+PUB_0291,2023-01-16,Analyst_30,Junior,Credit,Flash Note,Web,APAC,Tier 2,382,1,3,0,14,1,1,56,16,1,0,1,0,51,4812,0,513,885,514,Bi-weekly,1,771
+PUB_0292,2023-04-06,Analyst_10,Junior,Macro,Earnings Preview,Email,APAC,Tier 1,1749,0,4,1,26,0,1,64,15,0,0,1,0,45,166,1589,502,814,460,Bi-weekly,13,722
+PUB_0293,2023-08-31,Analyst_8,Senior,Fixed Income,Weekly Outlook,Web,APAC,Tier 3,1598,1,8,0,8,0,0,99,8,0,0,0,0,68,4386,0,420,498,433,Monthly,3,1153
+PUB_0294,2023-06-20,Analyst_24,Mid,Credit,Flash Note,Email,APAC,Tier 3,2631,0,8,1,5,0,0,67,14,0,0,1,0,28,4716,907,598,288,577,Bi-weekly,10,1561
+PUB_0295,2024-02-21,Analyst_3,Junior,Credit,Weekly Outlook,Web,EMEA,Tier 3,1279,1,9,0,7,0,1,43,17,0,0,0,0,46,1240,0,536,539,493,Daily,21,396
+PUB_0296,2024-05-12,Analyst_14,Senior,Macro,Flash Note,Portal,Americas,Tier 2,2520,0,0,0,16,0,0,41,17,0,0,0,0,24,2414,0,260,513,214,Bi-weekly,3,657
+PUB_0297,2024-05-07,Analyst_4,Senior,Commodities,Weekly Outlook,Portal,Americas,Tier 1,1959,1,7,0,14,0,0,30,12,0,0,1,0,79,2632,0,214,363,239,Monthly,9,815
+PUB_0298,2023-08-07,Analyst_25,Mid,Macro,Earnings Preview,Portal,APAC,Tier 1,1698,1,0,0,37,0,0,77,19,1,0,0,0,15,3680,0,174,224,186,Monthly,8,512
+PUB_0299,2024-02-15,Analyst_21,Senior,Equity,Deep Dive,Web,Americas,Tier 3,932,1,1,1,4,1,0,65,6,0,0,0,0,88,1287,0,386,755,336,Daily,3,602
+PUB_0300,2023-03-02,Analyst_23,Junior,Credit,Flash Note,Email,Americas,Tier 3,1831,1,6,0,36,0,0,48,7,0,0,0,0,40,4571,1155,241,229,205,Bi-weekly,25,668
+PUB_0301,2023-06-18,Analyst_28,Junior,Equity,Flash Note,Email,EMEA,Tier 1,1086,1,7,0,17,0,0,54,6,0,0,0,0,64,4848,1690,779,434,817,Daily,13,940
+PUB_0302,2024-01-24,Analyst_4,Senior,Credit,Earnings Preview,Email,EMEA,Tier 3,697,1,0,1,36,0,0,34,16,0,0,1,0,68,3439,1766,263,344,294,Weekly,6,1013
+PUB_0303,2023-01-03,Analyst_15,Senior,Commodities,Deep Dive,Email,Americas,Tier 1,1443,0,2,0,6,0,1,79,14,0,0,1,0,19,648,1413,623,264,610,Bi-weekly,13,1358
+PUB_0304,2024-02-04,Analyst_6,Senior,Fixed Income,Weekly Outlook,Email,APAC,Tier 2,1233,1,6,0,16,0,0,61,14,0,0,1,0,68,4187,490,377,764,368,Monthly,23,1749
+PUB_0305,2023-09-29,Analyst_23,Senior,Commodities,Flash Note,Portal,APAC,Tier 3,1760,0,8,0,29,0,0,62,12,0,1,1,1,35,172,0,430,811,425,Weekly,20,661
+PUB_0306,2024-04-10,Analyst_10,Managing Director,Macro,Deep Dive,Web,EMEA,Tier 3,2152,1,7,1,36,1,0,99,15,0,0,1,0,57,298,0,722,818,724,Monthly,20,1497
+PUB_0307,2023-10-20,Analyst_29,Senior,Macro,Weekly Outlook,Email,Americas,Tier 3,2812,0,7,0,38,0,0,93,8,0,1,0,0,47,3301,420,627,124,602,Daily,12,1046
+PUB_0308,2024-03-09,Analyst_1,Mid,Equity,Flash Note,Web,Americas,Tier 3,585,1,8,0,37,1,0,68,18,0,0,0,0,81,1881,0,288,393,298,Daily,13,331
+PUB_0309,2024-12-14,Analyst_2,Senior,Equity,Flash Note,Email,Americas,Tier 2,564,1,9,0,10,1,0,83,10,0,0,1,0,1,671,1057,581,763,597,Weekly,2,1312
+PUB_0310,2024-07-23,Analyst_11,Mid,Macro,Weekly Outlook,Web,EMEA,Tier 3,2667,1,2,1,36,0,0,51,9,0,0,1,0,79,890,0,749,191,752,Weekly,21,661
+PUB_0311,2024-11-08,Analyst_26,Mid,Macro,Earnings Preview,Web,EMEA,Tier 1,2436,0,7,0,29,0,1,83,12,0,1,1,0,28,1738,0,131,767,102,Monthly,24,366
+PUB_0312,2024-05-13,Analyst_2,Junior,Macro,Deep Dive,Web,Americas,Tier 3,1977,1,0,0,14,0,0,21,19,1,0,0,0,15,1931,0,412,248,387,Weekly,23,284
+PUB_0313,2023-06-08,Analyst_10,Junior,Credit,Flash Note,Web,APAC,Tier 2,1526,1,7,0,4,0,0,43,14,0,0,1,0,34,1955,0,554,220,586,Weekly,16,463
+PUB_0314,2023-07-14,Analyst_12,Managing Director,Commodities,Weekly Outlook,Portal,APAC,Tier 3,1120,1,6,1,36,0,0,85,17,0,1,0,0,61,1274,0,251,455,260,Weekly,23,676
+PUB_0315,2023-10-31,Analyst_12,Senior,Credit,Flash Note,Web,EMEA,Tier 2,2062,1,7,1,13,0,1,57,7,0,0,0,0,80,3840,0,553,877,541,Weekly,6,1222
+PUB_0316,2023-08-11,Analyst_14,Senior,Fixed Income,Weekly Outlook,Email,APAC,Tier 3,2681,1,0,1,18,0,1,50,18,0,1,0,0,3,3377,615,693,277,678,Monthly,19,1939
+PUB_0317,2023-03-01,Analyst_5,Mid,Credit,Flash Note,Portal,APAC,Tier 2,2569,1,5,0,33,0,1,45,13,0,0,1,0,67,278,0,86,460,56,Weekly,21,128
+PUB_0318,2024-08-16,Analyst_8,Junior,Macro,Morning Brief,Portal,Americas,Tier 3,340,1,6,0,21,0,0,48,14,0,1,1,0,50,2344,0,693,740,683,Weekly,13,551
+PUB_0319,2024-07-09,Analyst_17,Junior,Credit,Earnings Preview,Web,Americas,Tier 1,2031,1,4,0,16,0,0,86,15,0,0,1,0,88,4186,0,638,836,635,Bi-weekly,17,668
+PUB_0320,2023-03-04,Analyst_14,Mid,Equity,Deep Dive,Email,APAC,Tier 1,367,1,4,1,15,1,0,97,19,0,0,0,0,32,834,503,650,111,625,Weekly,23,784
+PUB_0321,2023-11-18,Analyst_19,Senior,Macro,Earnings Preview,Web,EMEA,Tier 2,1287,0,6,0,5,0,1,44,15,0,0,1,0,77,898,0,451,376,463,Bi-weekly,9,701
+PUB_0322,2023-02-28,Analyst_22,Senior,Commodities,Earnings Preview,Web,Americas,Tier 1,2099,0,2,0,6,1,0,67,14,0,0,1,0,23,887,0,755,765,781,Daily,17,1032
+PUB_0323,2023-02-21,Analyst_26,Senior,Credit,Deep Dive,Web,APAC,Tier 3,2861,0,5,0,38,0,1,84,19,0,0,0,0,74,2895,0,225,182,210,Daily,29,300
+PUB_0324,2024-08-21,Analyst_6,Mid,Macro,Earnings Preview,Email,Americas,Tier 2,1921,0,6,0,3,1,1,72,15,0,0,1,0,24,4404,743,594,633,567,Monthly,2,1730
+PUB_0325,2024-05-03,Analyst_6,Managing Director,Equity,Morning Brief,Web,Americas,Tier 3,1955,1,0,0,12,0,1,86,19,0,1,0,0,27,4688,0,619,639,658,Bi-weekly,19,1611
+PUB_0326,2024-05-29,Analyst_6,Senior,Equity,Weekly Outlook,Email,APAC,Tier 2,1578,1,1,0,36,1,0,37,12,0,0,1,0,6,3184,927,516,238,486,Weekly,19,1322
+PUB_0327,2024-06-27,Analyst_3,Senior,Credit,Deep Dive,Web,APAC,Tier 1,994,0,3,0,33,1,1,28,14,0,0,1,1,35,3018,0,250,405,217,Bi-weekly,24,805
+PUB_0328,2023-06-11,Analyst_20,Senior,Macro,Weekly Outlook,Web,EMEA,Tier 3,2824,1,7,0,36,0,0,57,14,0,0,1,0,9,831,0,589,120,553,Monthly,7,792
+PUB_0329,2023-02-28,Analyst_28,Mid,Commodities,Flash Note,Web,APAC,Tier 3,1385,0,9,0,33,0,0,40,19,0,0,0,0,35,1229,0,596,312,624,Weekly,22,463
+PUB_0330,2024-06-04,Analyst_13,Mid,Fixed Income,Morning Brief,Web,Americas,Tier 2,2779,1,5,0,31,0,0,84,8,0,0,0,0,82,3546,0,686,355,641,Daily,10,684
+PUB_0331,2023-03-24,Analyst_20,Mid,Equity,Weekly Outlook,Email,EMEA,Tier 3,1993,1,0,0,21,1,1,40,9,0,1,1,0,17,1705,1469,443,607,435,Weekly,10,826
+PUB_0332,2023-07-10,Analyst_22,Senior,Fixed Income,Weekly Outlook,Web,APAC,Tier 3,2615,1,9,0,27,0,0,46,7,1,0,0,0,5,3878,0,91,273,71,Daily,27,512
+PUB_0333,2023-03-12,Analyst_8,Junior,Commodities,Deep Dive,Portal,Americas,Tier 2,1358,0,4,0,27,0,0,89,15,0,0,1,0,6,2845,0,646,377,623,Daily,20,490
+PUB_0334,2024-09-01,Analyst_16,Junior,Credit,Flash Note,Email,EMEA,Tier 3,1078,1,6,0,8,0,0,63,8,0,0,0,0,11,3270,973,442,811,399,Monthly,9,849
+PUB_0335,2023-03-11,Analyst_30,Junior,Equity,Deep Dive,Email,EMEA,Tier 3,793,1,5,0,37,1,1,47,16,0,0,1,0,40,4789,1194,749,637,727,Daily,17,918
+PUB_0336,2024-11-22,Analyst_19,Junior,Fixed Income,Flash Note,Portal,EMEA,Tier 3,1885,1,8,0,32,0,1,64,16,0,1,1,0,62,3033,0,672,123,642,Bi-weekly,27,646
+PUB_0337,2023-08-29,Analyst_5,Managing Director,Equity,Deep Dive,Portal,Americas,Tier 1,1792,1,7,0,26,1,1,36,10,0,0,1,0,24,1315,0,490,560,520,Weekly,15,1279
+PUB_0338,2024-02-18,Analyst_8,Senior,Fixed Income,Weekly Outlook,Email,Americas,Tier 3,2090,1,3,0,2,0,0,59,10,0,0,1,0,80,424,459,666,191,703,Weekly,2,1242
+PUB_0339,2023-05-03,Analyst_15,Mid,Macro,Weekly Outlook,Email,EMEA,Tier 1,960,0,4,1,12,0,0,22,11,0,0,1,0,52,1950,359,555,634,562,Bi-weekly,4,1101
+PUB_0340,2024-08-06,Analyst_21,Junior,Macro,Morning Brief,Portal,Americas,Tier 1,1648,1,6,0,22,0,0,95,18,0,0,0,0,32,1590,0,369,151,378,Weekly,19,383
+PUB_0341,2023-09-10,Analyst_9,Mid,Credit,Weekly Outlook,Web,EMEA,Tier 2,1627,1,7,0,17,0,0,95,12,0,0,1,0,86,993,0,602,655,601,Daily,17,556
+PUB_0342,2024-08-15,Analyst_15,Mid,Commodities,Earnings Preview,Portal,EMEA,Tier 2,1599,1,4,0,7,0,1,85,12,0,0,1,0,72,1490,0,264,630,313,Daily,5,479
+PUB_0343,2024-08-31,Analyst_9,Junior,Equity,Weekly Outlook,Web,Americas,Tier 3,2286,0,8,0,4,1,0,65,6,0,0,0,0,5,3489,0,120,114,100,Bi-weekly,7,333
+PUB_0344,2023-02-10,Analyst_22,Mid,Commodities,Earnings Preview,Portal,Americas,Tier 3,2344,1,9,0,37,0,0,49,19,0,1,0,0,61,4339,0,617,242,613,Weekly,18,759
+PUB_0345,2024-09-26,Analyst_1,Mid,Fixed Income,Weekly Outlook,Email,EMEA,Tier 3,2228,1,3,0,38,0,0,88,7,0,0,0,1,65,4579,269,285,111,268,Daily,21,590
+PUB_0346,2023-03-25,Analyst_29,Senior,Credit,Earnings Preview,Portal,Americas,Tier 2,1647,1,3,0,32,0,1,28,17,0,0,0,1,8,2363,0,330,581,281,Monthly,22,827
+PUB_0347,2024-03-05,Analyst_26,Senior,Macro,Earnings Preview,Email,APAC,Tier 2,1358,1,7,0,11,0,0,30,14,0,0,1,0,66,3532,779,666,290,682,Monthly,27,1915
+PUB_0348,2024-11-04,Analyst_15,Junior,Macro,Weekly Outlook,Web,EMEA,Tier 2,1276,1,0,1,1,0,0,88,15,1,0,1,0,15,2471,0,211,764,254,Weekly,7,321
+PUB_0349,2024-08-20,Analyst_29,Mid,Credit,Earnings Preview,Portal,EMEA,Tier 3,781,0,7,0,25,1,1,85,7,0,0,0,0,88,3186,0,240,459,261,Daily,17,630
+PUB_0350,2024-08-01,Analyst_10,Senior,Equity,Morning Brief,Web,Americas,Tier 1,1027,1,4,0,24,1,0,50,11,0,0,1,0,87,4412,0,58,349,59,Bi-weekly,7,707
+PUB_0351,2024-06-19,Analyst_22,Senior,Commodities,Flash Note,Portal,Americas,Tier 3,2827,1,0,0,17,0,1,52,16,0,0,1,0,54,1615,0,109,244,65,Bi-weekly,4,404
+PUB_0352,2023-11-20,Analyst_18,Managing Director,Fixed Income,Earnings Preview,Portal,Americas,Tier 3,1331,1,3,0,8,0,0,58,16,1,0,1,0,39,3017,0,274,503,299,Daily,8,968
+PUB_0353,2023-09-25,Analyst_6,Senior,Commodities,Earnings Preview,Web,APAC,Tier 2,642,1,1,1,27,0,1,65,6,1,0,0,1,25,2452,0,749,623,717,Daily,13,1011
+PUB_0354,2023-07-29,Analyst_3,Junior,Macro,Morning Brief,Portal,Americas,Tier 3,1747,1,3,0,18,1,0,56,8,0,0,0,0,37,1267,0,631,668,670,Bi-weekly,4,648
+PUB_0355,2024-11-16,Analyst_15,Junior,Credit,Morning Brief,Email,EMEA,Tier 2,2679,1,7,1,27,1,0,79,7,0,0,0,0,34,210,454,336,686,377,Monthly,6,541
+PUB_0356,2023-11-18,Analyst_12,Senior,Macro,Deep Dive,Web,Americas,Tier 3,2785,0,4,0,22,0,1,50,8,0,0,0,0,86,4427,0,218,350,182,Bi-weekly,25,768
+PUB_0357,2023-09-02,Analyst_19,Junior,Macro,Flash Note,Web,Americas,Tier 3,2521,1,0,0,16,0,0,30,10,0,0,1,0,67,3755,0,111,828,138,Weekly,5,301
+PUB_0358,2023-09-29,Analyst_10,Senior,Fixed Income,Deep Dive,Email,EMEA,Tier 2,2906,1,6,0,2,0,0,21,16,0,1,1,1,58,3893,1501,398,505,395,Weekly,12,1368
+PUB_0359,2024-02-10,Analyst_21,Managing Director,Equity,Earnings Preview,Web,EMEA,Tier 2,826,1,0,0,5,1,0,46,15,0,0,1,0,13,1855,0,491,251,454,Bi-weekly,4,1212
+PUB_0360,2023-05-15,Analyst_14,Senior,Equity,Morning Brief,Portal,APAC,Tier 3,2196,0,8,0,18,1,1,21,11,1,0,1,0,46,1677,0,63,723,15,Daily,24,548
+PUB_0361,2024-11-18,Analyst_23,Mid,Fixed Income,Earnings Preview,Email,Americas,Tier 3,958,1,2,0,3,0,0,40,14,1,0,1,0,70,1396,1843,213,351,212,Weekly,29,560
+PUB_0362,2024-10-22,Analyst_9,Senior,Credit,Weekly Outlook,Portal,APAC,Tier 2,2373,1,2,0,27,0,1,77,17,0,0,0,0,71,3874,0,469,673,511,Weekly,9,1168
+PUB_0363,2023-11-04,Analyst_15,Mid,Commodities,Flash Note,Portal,EMEA,Tier 3,1119,0,5,0,17,0,1,24,16,0,0,1,0,41,2320,0,569,386,572,Weekly,4,821
+PUB_0364,2024-04-13,Analyst_28,Senior,Credit,Weekly Outlook,Portal,EMEA,Tier 3,2952,1,9,1,16,0,1,71,15,0,0,1,0,50,1072,0,715,81,670,Weekly,19,1096
+PUB_0365,2023-11-20,Analyst_10,Managing Director,Commodities,Morning Brief,Portal,EMEA,Tier 3,705,0,5,0,6,0,0,64,17,1,0,0,0,18,1130,0,597,147,595,Bi-weekly,24,1264
+PUB_0366,2023-03-16,Analyst_7,Mid,Equity,Morning Brief,Portal,EMEA,Tier 1,2579,1,5,0,7,1,0,39,17,0,0,0,0,65,2693,0,609,808,581,Bi-weekly,14,873
+PUB_0367,2023-01-10,Analyst_13,Managing Director,Macro,Morning Brief,Portal,EMEA,Tier 3,2880,0,0,0,14,0,1,80,18,0,0,0,0,46,4092,0,646,822,687,Monthly,5,2183
+PUB_0368,2024-04-14,Analyst_28,Managing Director,Macro,Flash Note,Email,APAC,Tier 3,1873,0,4,0,38,0,0,57,9,0,0,1,0,64,4713,965,77,240,104,Bi-weekly,18,1406
+PUB_0369,2024-09-28,Analyst_16,Junior,Credit,Deep Dive,Email,Americas,Tier 1,2111,1,5,0,15,0,0,39,12,0,0,1,1,41,1013,715,757,590,784,Weekly,10,848
+PUB_0370,2024-07-30,Analyst_4,Junior,Fixed Income,Earnings Preview,Web,EMEA,Tier 2,804,1,7,1,33,0,0,44,11,0,0,1,0,37,2281,0,495,97,464,Weekly,25,529
+PUB_0371,2023-04-13,Analyst_8,Junior,Commodities,Earnings Preview,Email,Americas,Tier 3,478,1,0,1,27,0,0,21,7,0,0,0,0,12,3297,759,257,299,283,Weekly,19,510
+PUB_0372,2023-03-17,Analyst_13,Junior,Macro,Earnings Preview,Email,EMEA,Tier 1,431,0,4,0,29,0,0,51,15,0,1,1,0,43,1562,1693,519,275,559,Daily,12,430
+PUB_0373,2024-07-04,Analyst_19,Junior,Credit,Earnings Preview,Email,APAC,Tier 3,2146,1,2,1,37,1,0,45,16,0,0,1,0,23,2478,584,765,321,774,Monthly,18,1028
+PUB_0374,2023-08-07,Analyst_12,Senior,Fixed Income,Earnings Preview,Email,APAC,Tier 2,1778,1,1,0,5,0,1,89,16,1,0,1,0,29,3554,603,153,714,201,Daily,17,1043
+PUB_0375,2024-06-02,Analyst_19,Junior,Equity,Deep Dive,Email,APAC,Tier 2,2695,1,7,0,29,1,0,60,16,0,0,1,0,69,3653,1622,791,534,785,Weekly,24,1065
+PUB_0376,2023-09-29,Analyst_10,Mid,Fixed Income,Weekly Outlook,Email,APAC,Tier 3,2887,1,6,0,32,0,0,86,13,0,1,1,1,37,1407,377,475,377,485,Weekly,11,701
+PUB_0377,2023-05-16,Analyst_23,Senior,Equity,Flash Note,Web,Americas,Tier 2,1071,1,9,0,6,1,0,20,12,0,0,1,0,22,1289,0,150,846,155,Weekly,3,673
+PUB_0378,2023-12-24,Analyst_10,Junior,Credit,Weekly Outlook,Email,APAC,Tier 2,1729,1,6,0,2,0,0,70,12,0,0,1,0,73,787,1238,590,229,541,Bi-weekly,23,889
+PUB_0379,2023-03-12,Analyst_1,Senior,Fixed Income,Weekly Outlook,Portal,APAC,Tier 2,2423,1,4,0,6,0,0,24,19,0,0,0,0,56,4761,0,688,863,682,Weekly,17,1502
+PUB_0380,2023-09-08,Analyst_27,Mid,Credit,Earnings Preview,Web,APAC,Tier 3,878,0,8,0,4,0,1,32,13,0,1,1,0,78,1307,0,571,714,560,Weekly,1,595
+PUB_0381,2024-01-14,Analyst_22,Junior,Equity,Earnings Preview,Email,EMEA,Tier 1,1815,1,4,0,29,1,1,38,17,0,0,0,0,22,1994,1591,155,795,128,Weekly,15,474
+PUB_0382,2023-10-19,Analyst_13,Senior,Macro,Deep Dive,Portal,APAC,Tier 2,493,1,1,0,25,0,0,31,17,0,0,0,0,35,1911,0,728,72,706,Monthly,28,1183
+PUB_0383,2023-06-11,Analyst_9,Senior,Macro,Flash Note,Email,Americas,Tier 3,2307,1,2,1,9,0,0,67,18,0,0,0,0,56,3283,706,326,655,342,Weekly,9,1097
+PUB_0384,2024-03-24,Analyst_1,Managing Director,Equity,Morning Brief,Portal,EMEA,Tier 2,1485,0,3,0,3,1,0,44,19,0,0,0,0,0,3897,0,114,419,131,Weekly,15,1008
+PUB_0385,2024-07-10,Analyst_19,Senior,Commodities,Weekly Outlook,Web,Americas,Tier 3,2694,1,4,0,26,0,1,76,16,0,0,1,0,71,1744,0,237,294,252,Weekly,28,454
+PUB_0386,2024-12-21,Analyst_28,Senior,Commodities,Morning Brief,Web,EMEA,Tier 2,1684,0,2,0,27,0,1,54,6,0,0,0,0,2,4068,0,366,851,399,Daily,24,871
+PUB_0387,2023-11-06,Analyst_22,Mid,Macro,Flash Note,Portal,Americas,Tier 3,2092,1,6,0,36,0,1,95,18,1,0,0,0,13,2816,0,187,209,190,Weekly,28,511
+PUB_0388,2024-09-18,Analyst_25,Junior,Macro,Weekly Outlook,Email,Americas,Tier 1,1410,1,4,0,32,0,0,24,6,0,0,0,0,80,290,738,392,422,394,Bi-weekly,29,430
+PUB_0389,2024-10-31,Analyst_24,Senior,Fixed Income,Morning Brief,Email,Americas,Tier 3,2561,0,4,0,1,0,1,41,13,0,0,1,0,33,1435,1006,154,334,182,Bi-weekly,3,621
+PUB_0390,2024-06-25,Analyst_2,Senior,Fixed Income,Morning Brief,Web,EMEA,Tier 2,2236,1,5,0,16,0,0,96,9,0,0,1,1,69,4903,0,595,570,593,Bi-weekly,22,1369
+PUB_0391,2023-01-09,Analyst_30,Managing Director,Macro,Deep Dive,Portal,Americas,Tier 2,2920,1,6,0,11,0,0,76,10,1,0,1,0,68,3206,0,429,499,410,Daily,27,1240
+PUB_0392,2024-11-14,Analyst_20,Mid,Commodities,Flash Note,Web,Americas,Tier 1,1079,1,9,0,26,0,1,66,13,0,0,1,0,50,478,0,159,746,169,Weekly,19,399
+PUB_0393,2024-07-21,Analyst_24,Mid,Fixed Income,Flash Note,Portal,EMEA,Tier 1,561,1,9,0,1,0,1,73,10,0,0,1,0,28,4582,0,594,856,585,Daily,13,1002
+PUB_0394,2023-11-03,Analyst_16,Senior,Equity,Flash Note,Web,Americas,Tier 2,1029,1,7,0,26,0,0,22,15,0,1,1,0,81,3929,0,403,696,353,Daily,12,683
+PUB_0395,2024-11-10,Analyst_27,Mid,Fixed Income,Weekly Outlook,Web,EMEA,Tier 2,582,0,8,0,28,0,0,72,9,0,0,1,0,47,715,0,792,671,804,Weekly,20,649
+PUB_0396,2023-04-17,Analyst_29,Managing Director,Fixed Income,Deep Dive,Portal,APAC,Tier 3,1790,1,3,1,9,0,0,50,17,1,0,0,0,78,2430,0,366,630,350,Weekly,1,1049
+PUB_0397,2023-05-18,Analyst_29,Managing Director,Fixed Income,Earnings Preview,Web,Americas,Tier 2,661,1,4,0,22,0,0,88,11,0,0,1,0,78,1854,0,315,185,315,Bi-weekly,21,752
+PUB_0398,2023-09-28,Analyst_10,Mid,Credit,Weekly Outlook,Email,EMEA,Tier 2,740,1,4,1,8,0,0,52,18,0,0,0,1,15,563,967,743,145,763,Bi-weekly,17,1032
+PUB_0399,2023-04-29,Analyst_25,Senior,Equity,Flash Note,Portal,APAC,Tier 3,2440,1,7,0,27,0,1,91,17,0,0,0,0,56,1066,0,114,168,108,Monthly,13,510
+PUB_0400,2023-04-20,Analyst_26,Senior,Macro,Weekly Outlook,Portal,Americas,Tier 3,1944,1,8,1,39,0,1,69,10,0,0,1,0,9,4367,0,382,423,408,Bi-weekly,1,1314
+PUB_0401,2024-07-20,Analyst_8,Junior,Commodities,Morning Brief,Portal,APAC,Tier 1,1166,1,6,0,19,0,1,35,19,0,0,0,0,18,3258,0,562,323,576,Daily,10,611
+PUB_0402,2023-06-09,Analyst_20,Managing Director,Commodities,Weekly Outlook,Portal,Americas,Tier 1,1747,1,4,0,25,0,1,95,12,0,1,1,0,66,3724,0,182,899,145,Weekly,15,1107
+PUB_0403,2023-10-06,Analyst_26,Senior,Macro,Weekly Outlook,Web,EMEA,Tier 1,441,0,2,1,38,1,0,96,19,0,1,0,0,35,789,0,641,226,683,Weekly,27,660
+PUB_0404,2023-10-16,Analyst_12,Senior,Credit,Flash Note,Email,APAC,Tier 3,1614,1,0,0,21,0,1,58,15,1,0,1,0,3,2722,1844,589,798,541,Weekly,27,1567
+PUB_0405,2024-09-11,Analyst_8,Mid,Commodities,Morning Brief,Web,APAC,Tier 3,1755,1,8,0,24,1,0,65,12,0,0,1,0,74,2312,0,784,833,757,Daily,7,663
+PUB_0406,2023-08-04,Analyst_21,Managing Director,Fixed Income,Flash Note,Email,APAC,Tier 2,2175,1,4,0,24,0,0,66,18,0,1,0,0,32,482,1120,584,326,598,Daily,28,1075
+PUB_0407,2023-12-18,Analyst_7,Mid,Commodities,Morning Brief,Email,APAC,Tier 3,2147,1,8,0,19,0,0,63,9,1,0,1,0,27,2356,1414,545,187,542,Weekly,22,997
+PUB_0408,2023-07-28,Analyst_20,Junior,Equity,Morning Brief,Portal,Americas,Tier 3,2012,1,9,1,2,1,0,28,17,0,1,0,0,79,3910,0,670,181,629,Bi-weekly,18,805
+PUB_0409,2024-12-04,Analyst_9,Managing Director,Equity,Morning Brief,Portal,EMEA,Tier 3,1000,0,3,0,14,0,1,69,18,0,0,0,0,8,3603,0,668,93,630,Bi-weekly,16,1878
+PUB_0410,2024-10-11,Analyst_22,Junior,Macro,Flash Note,Portal,APAC,Tier 3,1297,1,4,0,32,0,1,96,10,0,1,1,0,74,1512,0,706,172,755,Weekly,14,521
+PUB_0411,2023-09-28,Analyst_25,Mid,Credit,Morning Brief,Email,EMEA,Tier 2,2396,1,3,0,32,0,0,79,18,0,0,0,1,5,1683,475,418,185,440,Weekly,27,639
+PUB_0412,2024-06-01,Analyst_24,Managing Director,Credit,Deep Dive,Email,Americas,Tier 1,1625,1,1,0,28,0,1,34,8,0,0,0,0,48,471,475,700,416,663,Weekly,28,1610
+PUB_0413,2024-05-15,Analyst_25,Managing Director,Commodities,Deep Dive,Portal,EMEA,Tier 2,1180,0,0,0,39,0,0,55,9,0,0,1,0,75,710,0,148,422,197,Bi-weekly,18,477
+PUB_0414,2023-09-15,Analyst_22,Senior,Credit,Earnings Preview,Email,EMEA,Tier 1,1513,0,7,0,13,0,1,82,19,0,1,0,0,21,215,840,366,175,325,Daily,27,602
+PUB_0415,2023-02-22,Analyst_22,Senior,Credit,Deep Dive,Web,Americas,Tier 2,1459,0,3,0,12,0,0,88,9,0,0,1,0,47,546,0,172,488,161,Bi-weekly,7,347
+PUB_0416,2023-04-05,Analyst_27,Mid,Commodities,Earnings Preview,Portal,APAC,Tier 3,854,1,4,0,8,0,0,99,8,0,0,0,0,20,1491,0,369,836,341,Weekly,17,588
+PUB_0417,2024-10-11,Analyst_5,Mid,Equity,Deep Dive,Web,Americas,Tier 1,703,0,5,1,15,1,0,60,18,0,1,0,0,32,3424,0,642,625,690,Daily,29,814
+PUB_0418,2024-03-09,Analyst_21,Mid,Fixed Income,Flash Note,Web,APAC,Tier 1,1191,1,7,0,26,1,1,93,15,0,0,1,0,80,1440,0,544,857,548,Daily,18,675
+PUB_0419,2023-10-11,Analyst_4,Senior,Macro,Earnings Preview,Web,Americas,Tier 2,901,1,7,0,12,0,0,43,10,0,0,1,0,55,4610,0,506,793,518,Daily,12,986
+PUB_0420,2023-02-15,Analyst_29,Senior,Equity,Weekly Outlook,Web,EMEA,Tier 3,2130,0,6,0,27,1,1,68,10,0,0,1,0,28,3039,0,571,100,591,Weekly,8,997
+PUB_0421,2023-01-04,Analyst_21,Senior,Credit,Weekly Outlook,Portal,APAC,Tier 2,640,1,3,0,18,0,0,37,16,0,0,1,0,52,3799,0,569,186,560,Bi-weekly,22,1208
+PUB_0422,2023-12-08,Analyst_21,Senior,Credit,Deep Dive,Web,Americas,Tier 2,2268,1,5,0,36,0,1,26,12,0,1,1,0,39,1173,0,766,207,814,Weekly,2,863
+PUB_0423,2023-05-14,Analyst_2,Junior,Commodities,Weekly Outlook,Portal,Americas,Tier 1,1003,1,3,1,27,0,1,23,9,0,0,1,0,73,4913,0,364,105,379,Weekly,7,632
+PUB_0424,2024-10-14,Analyst_10,Mid,Macro,Deep Dive,Portal,Americas,Tier 1,617,1,6,0,9,0,0,88,18,1,0,0,0,17,3669,0,758,642,786,Monthly,4,1290
+PUB_0425,2023-09-26,Analyst_26,Junior,Fixed Income,Deep Dive,Web,APAC,Tier 3,2965,1,0,1,39,0,0,79,9,0,0,1,1,46,3250,0,759,793,781,Weekly,18,652
+PUB_0426,2023-06-15,Analyst_15,Senior,Commodities,Weekly Outlook,Email,EMEA,Tier 3,1686,1,4,0,1,0,1,74,14,0,0,1,0,12,1705,1973,591,477,587,Daily,28,1252
+PUB_0427,2024-03-28,Analyst_2,Mid,Commodities,Weekly Outlook,Email,Americas,Tier 1,2729,1,9,0,7,0,1,35,11,0,0,1,1,26,4757,592,528,492,558,Weekly,6,1446
+PUB_0428,2024-07-18,Analyst_19,Managing Director,Fixed Income,Morning Brief,Web,Americas,Tier 3,2580,1,9,0,26,0,1,48,9,0,0,1,0,61,2394,0,69,375,70,Bi-weekly,27,581
+PUB_0429,2024-12-23,Analyst_12,Mid,Fixed Income,Earnings Preview,Web,EMEA,Tier 3,2100,0,3,0,7,0,0,42,7,1,0,0,0,73,3762,0,609,689,576,Bi-weekly,9,796
+PUB_0430,2024-03-13,Analyst_24,Junior,Credit,Deep Dive,Email,EMEA,Tier 3,1667,1,6,0,7,0,0,33,11,0,0,1,0,44,4582,1174,179,687,207,Weekly,27,701
+PUB_0431,2024-07-28,Analyst_5,Junior,Commodities,Weekly Outlook,Portal,EMEA,Tier 2,1872,1,8,1,8,0,1,98,7,0,0,0,0,2,4897,0,342,878,309,Monthly,9,893
+PUB_0432,2023-01-10,Analyst_3,Senior,Equity,Earnings Preview,Portal,EMEA,Tier 2,1116,1,4,0,16,1,0,68,10,0,0,1,0,21,1083,0,181,129,154,Bi-weekly,14,480
+PUB_0433,2023-04-25,Analyst_30,Senior,Equity,Weekly Outlook,Portal,Americas,Tier 2,852,0,3,1,3,1,0,52,11,0,0,1,0,26,451,0,405,523,377,Daily,8,680
+PUB_0434,2023-03-19,Analyst_10,Junior,Commodities,Weekly Outlook,Portal,Americas,Tier 3,1155,1,8,0,10,0,0,44,9,0,0,1,0,54,1824,0,103,426,64,Bi-weekly,19,338
+PUB_0435,2024-12-08,Analyst_11,Junior,Fixed Income,Morning Brief,Web,APAC,Tier 1,2112,0,4,0,7,0,1,40,19,0,0,0,0,66,2051,0,436,382,408,Daily,3,331
+PUB_0436,2023-06-02,Analyst_24,Senior,Macro,Deep Dive,Email,Americas,Tier 1,482,1,8,0,21,1,1,36,18,0,1,0,0,32,1379,464,314,224,284,Bi-weekly,18,859
+PUB_0437,2024-07-12,Analyst_14,Junior,Fixed Income,Deep Dive,Web,Americas,Tier 2,1874,1,7,0,37,0,0,42,8,0,1,0,0,1,2007,0,264,706,277,Weekly,5,250
+PUB_0438,2023-02-06,Analyst_6,Senior,Fixed Income,Flash Note,Web,EMEA,Tier 3,696,0,3,1,31,0,0,76,12,1,0,1,0,74,4948,0,509,490,548,Bi-weekly,14,1204
+PUB_0439,2024-01-14,Analyst_7,Senior,Macro,Morning Brief,Portal,APAC,Tier 2,2027,1,6,0,23,0,0,77,7,0,0,0,0,45,1124,0,507,175,528,Weekly,28,809
+PUB_0440,2024-08-19,Analyst_5,Junior,Fixed Income,Earnings Preview,Email,EMEA,Tier 3,1817,1,4,0,27,0,0,33,18,1,0,0,0,73,645,1787,92,743,135,Monthly,4,297
+PUB_0441,2024-07-19,Analyst_26,Junior,Macro,Morning Brief,Email,Americas,Tier 3,1206,1,9,0,22,0,0,39,16,0,1,1,0,32,4274,1573,635,268,618,Weekly,7,874
+PUB_0442,2023-06-01,Analyst_18,Managing Director,Commodities,Earnings Preview,Portal,Americas,Tier 1,1656,1,3,0,39,0,1,49,19,0,0,0,0,57,2481,0,327,327,278,Bi-weekly,20,1039
+PUB_0443,2024-03-16,Analyst_29,Mid,Macro,Deep Dive,Web,Americas,Tier 3,2474,0,4,0,27,0,0,38,11,0,0,1,0,6,988,0,179,534,197,Weekly,25,350
+PUB_0444,2023-05-11,Analyst_12,Mid,Equity,Flash Note,Web,APAC,Tier 2,300,0,4,0,4,1,0,72,18,0,0,0,0,14,1205,0,399,644,379,Monthly,28,624
+PUB_0445,2023-02-12,Analyst_17,Senior,Macro,Flash Note,Web,EMEA,Tier 3,318,1,8,0,24,0,1,75,9,0,0,1,0,25,2649,0,755,190,801,Bi-weekly,12,1253
+PUB_0446,2023-11-12,Analyst_17,Managing Director,Fixed Income,Deep Dive,Email,APAC,Tier 1,883,1,8,0,23,0,0,96,11,0,0,1,0,10,2090,1162,593,895,610,Weekly,2,2131
+PUB_0447,2024-01-09,Analyst_30,Managing Director,Commodities,Weekly Outlook,Web,Americas,Tier 3,755,0,5,0,19,0,0,42,9,0,0,1,0,37,4098,0,155,656,174,Monthly,11,1233
+PUB_0448,2023-02-10,Analyst_9,Senior,Macro,Morning Brief,Web,Americas,Tier 3,2336,1,3,0,3,0,0,81,9,0,1,1,0,26,3875,0,765,755,801,Weekly,14,1311
+PUB_0449,2024-01-02,Analyst_27,Mid,Fixed Income,Flash Note,Web,EMEA,Tier 3,1432,1,1,0,27,0,0,52,9,0,0,1,0,6,2912,0,50,159,18,Bi-weekly,22,283
+PUB_0450,2023-08-04,Analyst_6,Junior,Macro,Weekly Outlook,Web,EMEA,Tier 3,2792,1,2,0,3,0,1,37,14,0,1,1,0,0,1020,0,633,101,654,Bi-weekly,23,494
+PUB_0451,2024-11-29,Analyst_9,Senior,Commodities,Earnings Preview,Web,EMEA,Tier 2,2252,1,1,0,28,0,0,92,12,0,1,1,0,73,4745,0,481,664,443,Daily,16,704
+PUB_0452,2023-09-13,Analyst_30,Senior,Commodities,Flash Note,Portal,EMEA,Tier 3,2949,1,4,0,17,0,0,52,8,0,0,0,0,20,2161,0,355,662,369,Monthly,20,860
+PUB_0453,2024-11-13,Analyst_27,Mid,Equity,Earnings Preview,Portal,Americas,Tier 3,2450,1,5,0,31,1,1,51,8,0,0,0,0,78,4587,0,576,703,531,Weekly,29,995
+PUB_0454,2023-04-16,Analyst_16,Managing Director,Commodities,Weekly Outlook,Email,APAC,Tier 3,1287,1,4,0,10,0,1,80,11,0,0,1,0,29,3739,1994,102,762,122,Daily,6,1309
+PUB_0455,2023-12-29,Analyst_26,Junior,Fixed Income,Earnings Preview,Email,EMEA,Tier 1,819,1,1,0,22,0,0,73,11,0,1,1,1,7,3265,1646,569,368,545,Monthly,23,914
+PUB_0456,2024-07-27,Analyst_10,Mid,Commodities,Weekly Outlook,Email,EMEA,Tier 3,1158,0,4,0,30,1,0,36,9,0,0,1,0,87,4535,1178,379,248,407,Bi-weekly,4,1146
+PUB_0457,2024-02-21,Analyst_24,Junior,Commodities,Earnings Preview,Web,EMEA,Tier 3,473,0,8,0,21,0,1,38,14,0,0,1,0,82,2744,0,607,845,608,Daily,15,392
+PUB_0458,2024-09-27,Analyst_28,Mid,Fixed Income,Morning Brief,Portal,Americas,Tier 3,1666,1,3,1,36,0,0,89,9,0,1,1,1,2,4952,0,374,778,421,Daily,24,765
+PUB_0459,2023-06-08,Analyst_11,Junior,Fixed Income,Flash Note,Web,Americas,Tier 2,2778,1,9,0,23,0,1,53,14,0,0,1,0,54,1145,0,163,95,199,Bi-weekly,25,239
+PUB_0460,2023-08-31,Analyst_26,Junior,Commodities,Flash Note,Web,EMEA,Tier 3,1026,1,1,0,38,0,1,44,9,0,0,1,0,14,3656,0,196,554,193,Daily,1,169
+PUB_0461,2023-06-16,Analyst_4,Junior,Commodities,Weekly Outlook,Web,Americas,Tier 2,2010,1,2,0,12,0,1,87,7,0,1,0,0,35,2781,0,215,589,252,Monthly,7,468
+PUB_0462,2023-07-01,Analyst_15,Senior,Macro,Earnings Preview,Portal,APAC,Tier 3,2175,1,2,0,25,0,0,93,7,0,0,0,0,5,3299,0,428,563,456,Bi-weekly,25,964
+PUB_0463,2024-02-27,Analyst_3,Senior,Commodities,Deep Dive,Web,Americas,Tier 1,1981,1,8,0,20,1,0,93,10,0,0,1,0,41,1038,0,188,66,236,Weekly,12,403
+PUB_0464,2023-01-26,Analyst_5,Senior,Equity,Flash Note,Portal,Americas,Tier 3,1647,1,3,0,7,1,1,30,9,0,0,1,0,49,541,0,678,364,695,Weekly,10,1074
+PUB_0465,2023-07-03,Analyst_25,Managing Director,Equity,Earnings Preview,Portal,EMEA,Tier 3,1289,1,0,0,29,1,0,35,12,1,0,1,0,17,2650,0,348,485,341,Weekly,5,1128
+PUB_0466,2023-12-07,Analyst_8,Mid,Equity,Earnings Preview,Email,APAC,Tier 1,2986,1,0,0,29,1,0,80,19,0,0,0,0,82,4325,1681,325,437,291,Weekly,12,784
+PUB_0467,2024-02-26,Analyst_28,Mid,Equity,Morning Brief,Email,Americas,Tier 3,719,1,6,0,13,0,0,99,16,1,0,1,0,49,696,107,227,126,271,Bi-weekly,18,471
+PUB_0468,2024-11-16,Analyst_22,Managing Director,Commodities,Deep Dive,Web,EMEA,Tier 2,893,0,6,0,3,0,0,26,10,0,0,1,0,29,1605,0,403,420,390,Monthly,10,1105
+PUB_0469,2023-09-12,Analyst_24,Mid,Macro,Flash Note,Email,APAC,Tier 3,2832,1,1,0,2,1,1,35,11,0,0,1,0,76,961,361,203,214,162,Weekly,6,578
+PUB_0470,2023-10-01,Analyst_22,Managing Director,Fixed Income,Morning Brief,Web,EMEA,Tier 3,2074,1,8,0,16,0,0,35,15,0,0,1,0,38,2740,0,250,658,253,Weekly,28,914
+PUB_0471,2023-06-13,Analyst_13,Junior,Commodities,Deep Dive,Portal,EMEA,Tier 3,2759,1,8,0,30,0,1,59,9,0,0,1,0,11,3831,0,164,666,204,Weekly,12,505
+PUB_0472,2024-12-19,Analyst_28,Managing Director,Credit,Flash Note,Web,Americas,Tier 3,1235,1,4,0,38,0,0,31,18,0,0,0,0,58,1651,0,720,73,675,Bi-weekly,7,1019
+PUB_0473,2023-04-21,Analyst_26,Junior,Commodities,Morning Brief,Portal,Americas,Tier 3,1407,1,2,1,6,0,0,54,17,0,1,0,0,75,3336,0,603,761,558,Bi-weekly,18,620
+PUB_0474,2024-01-27,Analyst_18,Managing Director,Equity,Deep Dive,Web,APAC,Tier 2,1436,0,2,0,7,0,0,40,7,0,0,0,0,43,1836,0,117,84,118,Bi-weekly,2,406
+PUB_0475,2023-02-09,Analyst_12,Senior,Credit,Flash Note,Email,APAC,Tier 2,631,1,2,0,5,0,1,69,18,0,0,0,0,87,1549,1832,494,563,458,Daily,10,1096
+PUB_0476,2024-04-26,Analyst_3,Managing Director,Commodities,Deep Dive,Portal,APAC,Tier 3,2388,1,5,0,7,0,1,62,15,0,1,1,0,3,364,0,494,850,511,Monthly,15,1352
+PUB_0477,2023-08-16,Analyst_26,Junior,Macro,Earnings Preview,Email,EMEA,Tier 3,2093,0,3,1,34,0,0,36,14,0,0,1,0,35,2759,284,375,893,381,Weekly,12,658
+PUB_0478,2023-07-24,Analyst_13,Senior,Macro,Weekly Outlook,Email,Americas,Tier 3,1258,0,7,0,32,0,1,51,15,1,0,1,0,47,2821,692,757,510,762,Bi-weekly,26,1993
+PUB_0479,2024-04-16,Analyst_1,Managing Director,Credit,Weekly Outlook,Web,Americas,Tier 3,404,1,4,0,13,0,0,60,12,0,0,1,0,13,1562,0,651,187,607,Bi-weekly,17,1029
+PUB_0480,2023-12-25,Analyst_9,Senior,Fixed Income,Earnings Preview,Portal,EMEA,Tier 2,501,0,0,0,30,0,1,25,9,1,0,1,1,80,4352,0,672,898,672,Bi-weekly,4,1746
+PUB_0481,2023-11-09,Analyst_18,Senior,Credit,Deep Dive,Portal,EMEA,Tier 3,2797,0,8,0,25,0,1,46,8,0,0,0,0,48,1545,0,408,623,415,Weekly,7,846
+PUB_0482,2023-08-22,Analyst_4,Senior,Macro,Earnings Preview,Web,APAC,Tier 1,2142,0,0,1,21,0,1,39,15,0,0,1,0,66,2398,0,194,860,207,Bi-weekly,9,739
+PUB_0483,2023-08-17,Analyst_15,Mid,Credit,Weekly Outlook,Email,Americas,Tier 2,2166,1,5,0,21,0,1,44,19,0,0,0,0,86,3025,851,324,758,299,Daily,19,667
+PUB_0484,2023-01-25,Analyst_12,Senior,Equity,Weekly Outlook,Portal,EMEA,Tier 1,2296,1,0,0,28,0,0,85,8,0,0,0,0,76,1732,0,558,620,565,Bi-weekly,28,920
+PUB_0485,2024-11-06,Analyst_22,Senior,Equity,Deep Dive,Portal,EMEA,Tier 2,1589,1,2,1,20,1,0,28,14,0,0,1,0,8,2474,0,228,314,208,Daily,27,663
+PUB_0486,2023-07-17,Analyst_24,Managing Director,Fixed Income,Weekly Outlook,Email,APAC,Tier 2,1209,1,9,0,34,0,0,72,10,1,0,1,0,20,612,1368,526,382,541,Weekly,23,1581
+PUB_0487,2024-02-13,Analyst_22,Junior,Credit,Earnings Preview,Email,APAC,Tier 2,509,1,4,0,5,0,0,80,18,0,0,0,0,71,315,161,463,237,504,Daily,7,386
+PUB_0488,2023-12-03,Analyst_9,Mid,Credit,Deep Dive,Email,APAC,Tier 3,862,1,9,0,18,0,1,57,8,0,0,0,0,80,3431,1161,202,112,164,Bi-weekly,23,894
+PUB_0489,2023-10-13,Analyst_19,Managing Director,Credit,Earnings Preview,Email,APAC,Tier 2,1863,1,6,0,39,0,0,22,10,0,1,1,0,15,2272,1813,153,869,120,Weekly,2,1167
+PUB_0490,2023-03-13,Analyst_13,Managing Director,Credit,Deep Dive,Email,Americas,Tier 2,1070,1,9,0,11,0,1,89,7,1,0,0,0,15,3253,525,124,328,167,Bi-weekly,6,1371
+PUB_0491,2023-10-13,Analyst_27,Mid,Fixed Income,Weekly Outlook,Email,Americas,Tier 2,2801,1,7,0,17,0,0,74,16,0,1,1,0,27,1806,353,177,591,201,Bi-weekly,18,548
+PUB_0492,2023-12-26,Analyst_21,Senior,Macro,Flash Note,Email,APAC,Tier 2,928,1,8,0,22,0,0,20,9,0,0,1,1,50,2206,1378,760,220,722,Bi-weekly,6,1746
+PUB_0493,2024-10-18,Analyst_12,Mid,Commodities,Deep Dive,Web,Americas,Tier 2,1928,0,5,0,37,0,1,89,15,0,1,1,0,55,1667,0,715,552,688,Daily,13,412
+PUB_0494,2024-06-05,Analyst_4,Junior,Fixed Income,Deep Dive,Email,Americas,Tier 1,2001,1,8,1,20,0,0,64,7,0,0,0,0,79,2308,257,617,582,623,Bi-weekly,26,857
+PUB_0495,2024-02-14,Analyst_22,Mid,Macro,Flash Note,Web,EMEA,Tier 3,686,1,7,0,6,1,1,66,7,0,0,0,0,56,2431,0,394,348,372,Weekly,19,592
+PUB_0496,2024-11-26,Analyst_8,Mid,Macro,Weekly Outlook,Portal,Americas,Tier 3,2235,1,8,1,34,1,0,98,17,0,0,0,0,51,2253,0,580,250,585,Daily,2,635
+PUB_0497,2024-07-03,Analyst_16,Senior,Macro,Earnings Preview,Email,Americas,Tier 3,2643,0,9,0,14,0,1,45,13,0,0,1,0,45,1228,1859,208,184,211,Weekly,12,764
+PUB_0498,2023-12-06,Analyst_1,Junior,Credit,Morning Brief,Web,APAC,Tier 2,2605,1,3,0,23,0,0,33,6,0,0,0,0,77,3610,0,587,321,541,Weekly,15,420
+PUB_0499,2023-01-29,Analyst_20,Managing Director,Fixed Income,Flash Note,Web,APAC,Tier 2,1404,1,8,1,20,0,0,73,19,0,0,0,0,37,4423,0,475,584,459,Daily,14,1206
+PUB_0500,2023-04-29,Analyst_29,Managing Director,Macro,Morning Brief,Web,APAC,Tier 3,567,1,6,0,13,0,1,90,12,0,0,1,0,83,3753,0,730,491,698,Weekly,6,1563
+PUB_0501,2023-09-25,Analyst_18,Senior,Commodities,Weekly Outlook,Portal,EMEA,Tier 2,2766,1,4,0,32,0,1,65,10,1,0,1,1,47,2465,0,72,136,76,Daily,18,330
+PUB_0502,2023-07-02,Analyst_11,Senior,Commodities,Deep Dive,Web,EMEA,Tier 2,2582,1,4,0,26,0,0,50,16,0,0,1,0,40,4997,0,96,80,122,Weekly,5,539
+PUB_0503,2024-08-17,Analyst_30,Mid,Equity,Deep Dive,Portal,APAC,Tier 1,2156,1,0,0,14,1,0,78,13,0,0,1,0,58,3021,0,574,170,592,Weekly,18,694
+PUB_0504,2023-09-29,Analyst_20,Senior,Macro,Weekly Outlook,Email,EMEA,Tier 2,2298,1,1,0,36,0,0,48,6,0,1,0,1,66,4667,1946,778,118,771,Weekly,3,1844
+PUB_0505,2023-02-09,Analyst_8,Senior,Fixed Income,Earnings Preview,Portal,EMEA,Tier 2,1680,0,9,1,8,0,0,36,16,0,0,1,0,73,1179,0,755,695,782,Monthly,3,1573
+PUB_0506,2023-04-22,Analyst_21,Junior,Credit,Earnings Preview,Email,Americas,Tier 2,1536,1,2,0,22,0,1,33,12,0,0,1,0,83,3611,304,193,876,180,Weekly,22,632
+PUB_0507,2024-09-02,Analyst_3,Managing Director,Equity,Weekly Outlook,Email,Americas,Tier 3,873,1,7,0,22,1,1,55,10,1,0,1,0,65,2841,501,634,545,645,Weekly,22,2245
+PUB_0508,2024-03-20,Analyst_21,Senior,Macro,Weekly Outlook,Web,Americas,Tier 2,348,1,5,0,16,0,0,77,9,0,0,1,0,26,3120,0,717,195,688,Weekly,10,1048
+PUB_0509,2023-12-20,Analyst_27,Managing Director,Credit,Weekly Outlook,Web,APAC,Tier 3,1450,1,9,0,27,0,0,43,12,0,0,1,0,31,328,0,638,382,660,Weekly,19,938
+PUB_0510,2023-11-18,Analyst_15,Senior,Fixed Income,Weekly Outlook,Portal,APAC,Tier 3,522,1,4,0,10,0,1,82,15,0,0,1,0,55,270,0,468,530,457,Daily,3,584
+PUB_0511,2024-03-22,Analyst_30,Senior,Fixed Income,Weekly Outlook,Web,APAC,Tier 3,1731,1,0,0,25,0,0,44,7,0,1,0,0,9,394,0,730,312,705,Daily,29,426
+PUB_0512,2024-09-12,Analyst_23,Mid,Equity,Weekly Outlook,Email,EMEA,Tier 3,1828,1,8,0,31,1,1,78,17,0,0,0,0,39,4384,1209,134,342,88,Monthly,12,998
+PUB_0513,2024-06-07,Analyst_10,Managing Director,Equity,Deep Dive,Web,Americas,Tier 3,2119,1,2,0,21,1,0,51,6,0,1,0,0,16,525,0,465,478,507,Bi-weekly,29,791
+PUB_0514,2023-04-29,Analyst_21,Managing Director,Macro,Morning Brief,Portal,Americas,Tier 1,2624,1,2,1,27,0,1,37,6,0,0,0,0,57,1018,0,743,135,746,Bi-weekly,16,1432
+PUB_0515,2024-01-30,Analyst_14,Junior,Credit,Earnings Preview,Portal,APAC,Tier 1,1761,1,1,0,17,0,0,56,16,0,0,1,0,5,3353,0,531,65,566,Monthly,17,549
+PUB_0516,2024-08-13,Analyst_4,Junior,Commodities,Morning Brief,Web,APAC,Tier 1,1430,0,3,0,33,0,1,45,17,0,0,0,0,38,598,0,505,777,503,Monthly,7,323
+PUB_0517,2023-07-14,Analyst_5,Mid,Credit,Deep Dive,Web,APAC,Tier 3,1981,1,1,0,31,1,0,28,6,0,1,0,0,17,2909,0,346,677,298,Bi-weekly,13,479
+PUB_0518,2023-09-18,Analyst_2,Senior,Fixed Income,Flash Note,Email,APAC,Tier 3,2767,1,8,0,26,0,0,83,17,1,0,0,0,72,925,1000,161,167,202,Bi-weekly,24,563
+PUB_0519,2023-02-15,Analyst_2,Managing Director,Fixed Income,Morning Brief,Web,APAC,Tier 2,2958,1,9,0,21,1,1,91,10,0,0,1,0,71,3879,0,279,319,266,Weekly,2,1092
+PUB_0520,2024-12-26,Analyst_10,Junior,Macro,Flash Note,Portal,APAC,Tier 3,674,1,6,1,36,1,0,39,15,0,0,1,1,88,1958,0,145,444,108,Daily,4,172
+PUB_0521,2024-03-22,Analyst_16,Senior,Commodities,Deep Dive,Portal,APAC,Tier 1,2420,1,7,0,1,0,0,73,12,0,1,1,0,41,2218,0,729,211,725,Weekly,10,1204
+PUB_0522,2023-01-02,Analyst_4,Mid,Macro,Earnings Preview,Email,Americas,Tier 3,2321,1,2,1,4,0,0,49,7,1,0,0,0,3,245,491,427,749,390,Weekly,7,714
+PUB_0523,2024-06-16,Analyst_4,Managing Director,Fixed Income,Flash Note,Web,EMEA,Tier 2,1353,1,5,0,4,0,0,72,15,0,0,1,0,19,4665,0,205,153,229,Monthly,24,1177
+PUB_0524,2024-07-05,Analyst_8,Senior,Fixed Income,Deep Dive,Email,EMEA,Tier 1,2189,0,9,1,26,1,1,82,13,0,1,1,0,27,3677,1930,470,702,492,Weekly,17,1742
+PUB_0525,2024-12-04,Analyst_29,Senior,Credit,Weekly Outlook,Web,Americas,Tier 2,2123,0,5,0,4,0,1,30,9,0,0,1,0,39,292,0,154,216,141,Bi-weekly,20,388
+PUB_0526,2024-11-17,Analyst_18,Mid,Commodities,Earnings Preview,Email,Americas,Tier 2,1774,0,0,1,9,0,0,50,17,0,0,0,0,64,3988,259,754,349,767,Weekly,6,1274
+PUB_0527,2023-07-21,Analyst_5,Mid,Credit,Weekly Outlook,Email,EMEA,Tier 2,2542,1,5,0,30,0,1,68,8,0,1,0,0,43,151,562,379,77,372,Daily,19,380
+PUB_0528,2024-01-08,Analyst_13,Mid,Credit,Earnings Preview,Portal,APAC,Tier 2,1479,1,2,0,4,0,0,38,15,1,0,1,0,22,2510,0,488,473,507,Weekly,5,754
+PUB_0529,2024-03-17,Analyst_15,Junior,Macro,Earnings Preview,Email,EMEA,Tier 3,1364,1,2,1,5,0,1,31,16,0,0,1,0,56,1920,1650,181,833,195,Weekly,10,577
+PUB_0530,2023-03-13,Analyst_12,Managing Director,Credit,Morning Brief,Email,Americas,Tier 2,2370,1,2,0,23,0,0,34,13,1,0,1,0,46,3064,1074,431,611,405,Weekly,9,1694
+PUB_0531,2024-11-11,Analyst_22,Senior,Equity,Earnings Preview,Portal,EMEA,Tier 2,659,1,9,0,16,1,0,50,7,1,0,0,0,12,2621,0,187,205,152,Weekly,27,811
+PUB_0532,2023-12-05,Analyst_24,Managing Director,Equity,Morning Brief,Email,APAC,Tier 3,2907,0,9,0,22,0,0,62,16,0,0,1,0,15,1969,1030,319,373,283,Daily,13,1096
+PUB_0533,2024-09-30,Analyst_23,Managing Director,Credit,Flash Note,Portal,Americas,Tier 3,2341,1,7,1,37,0,0,56,16,1,0,1,1,89,2668,0,599,397,646,Weekly,19,1590
+PUB_0534,2023-11-18,Analyst_18,Senior,Commodities,Earnings Preview,Email,Americas,Tier 2,1441,1,4,0,8,0,0,98,18,0,0,0,0,54,1967,877,445,170,475,Bi-weekly,21,1176
+PUB_0535,2024-11-10,Analyst_14,Senior,Credit,Flash Note,Web,EMEA,Tier 2,1935,0,3,0,33,0,0,48,8,0,0,0,0,64,2838,0,606,701,558,Weekly,24,901
+PUB_0536,2023-05-08,Analyst_19,Managing Director,Fixed Income,Earnings Preview,Portal,Americas,Tier 1,1703,0,8,0,38,0,1,45,17,1,0,0,0,80,3369,0,513,577,529,Weekly,6,1603
+PUB_0537,2023-11-04,Analyst_24,Senior,Fixed Income,Morning Brief,Web,EMEA,Tier 1,2243,0,8,0,16,0,0,21,8,0,0,0,0,15,3299,0,724,870,710,Daily,4,963
+PUB_0538,2024-06-03,Analyst_24,Mid,Commodities,Weekly Outlook,Portal,EMEA,Tier 3,978,0,0,1,5,1,1,34,15,1,0,1,0,36,2679,0,499,610,529,Daily,24,806
+PUB_0539,2023-11-13,Analyst_5,Mid,Macro,Earnings Preview,Email,Americas,Tier 1,2787,1,1,0,16,0,0,23,16,1,0,1,0,51,4105,445,380,213,384,Weekly,27,875
+PUB_0540,2024-11-13,Analyst_29,Junior,Equity,Deep Dive,Portal,Americas,Tier 2,306,0,7,0,7,1,1,69,6,0,0,0,0,9,340,0,302,111,289,Weekly,3,493
+PUB_0541,2024-02-23,Analyst_14,Managing Director,Equity,Weekly Outlook,Email,EMEA,Tier 3,2768,1,4,1,1,1,1,57,11,0,1,1,0,37,3540,1826,730,389,742,Weekly,3,2629
+PUB_0542,2023-12-01,Analyst_21,Senior,Macro,Morning Brief,Web,Americas,Tier 1,1891,1,6,0,9,0,1,42,7,0,1,0,0,43,4731,0,334,715,284,Monthly,4,1145
+PUB_0543,2024-02-17,Analyst_4,Mid,Credit,Deep Dive,Email,Americas,Tier 3,1132,1,0,0,18,0,1,78,6,0,0,0,0,73,1507,594,323,361,343,Daily,25,493
+PUB_0544,2024-12-14,Analyst_27,Senior,Commodities,Flash Note,Portal,APAC,Tier 2,2906,1,9,0,3,0,1,94,7,0,0,0,0,53,3602,0,69,425,108,Daily,5,702
+PUB_0545,2023-10-30,Analyst_16,Senior,Credit,Morning Brief,Email,Americas,Tier 3,2110,1,4,0,24,0,0,47,17,1,0,0,0,50,4138,1307,288,395,256,Weekly,8,1179
+PUB_0546,2024-07-21,Analyst_20,Mid,Macro,Weekly Outlook,Portal,EMEA,Tier 2,1213,1,2,0,28,0,1,85,11,0,0,1,0,51,182,0,319,199,320,Weekly,16,259
+PUB_0547,2023-05-11,Analyst_14,Junior,Commodities,Flash Note,Email,EMEA,Tier 3,2311,1,9,0,10,0,0,27,19,0,0,0,0,69,3868,1627,467,634,446,Weekly,22,823
+PUB_0548,2023-07-16,Analyst_9,Senior,Equity,Flash Note,Email,Americas,Tier 3,1742,0,1,0,9,1,0,48,9,0,0,1,0,58,1050,1507,359,630,363,Bi-weekly,3,1021
+PUB_0549,2024-03-06,Analyst_2,Senior,Equity,Morning Brief,Web,APAC,Tier 1,1750,1,1,0,13,1,0,30,11,0,0,1,0,12,710,0,80,226,43,Bi-weekly,24,280
+PUB_0550,2024-11-11,Analyst_23,Senior,Credit,Weekly Outlook,Portal,Americas,Tier 3,1802,0,8,0,35,0,1,37,17,1,0,0,0,40,4769,0,153,403,115,Daily,12,699
+PUB_0551,2024-01-24,Analyst_12,Senior,Fixed Income,Morning Brief,Web,Americas,Tier 3,425,1,3,0,23,0,0,74,14,0,0,1,0,11,3705,0,731,563,764,Monthly,25,1310
+PUB_0552,2024-11-24,Analyst_7,Managing Director,Macro,Deep Dive,Portal,APAC,Tier 3,2742,0,3,0,17,0,0,69,18,0,0,0,0,49,4654,0,235,358,274,Daily,8,1041
+PUB_0553,2023-06-28,Analyst_15,Senior,Macro,Deep Dive,Portal,Americas,Tier 3,1116,1,6,0,7,0,0,33,15,0,0,1,1,56,3383,0,177,168,153,Bi-weekly,13,718
+PUB_0554,2024-09-22,Analyst_15,Senior,Credit,Earnings Preview,Portal,EMEA,Tier 3,2129,1,9,0,16,0,1,93,17,0,0,0,0,49,2273,0,259,568,297,Bi-weekly,4,786
+PUB_0555,2024-08-05,Analyst_8,Managing Director,Macro,Flash Note,Web,APAC,Tier 2,875,1,9,0,36,0,0,28,15,1,0,1,0,56,3584,0,463,816,421,Bi-weekly,14,1409
+PUB_0556,2023-11-05,Analyst_28,Mid,Equity,Earnings Preview,Web,APAC,Tier 2,2672,1,1,0,20,0,0,30,13,0,0,1,0,53,1622,0,330,527,320,Weekly,14,295
+PUB_0557,2024-02-20,Analyst_12,Junior,Credit,Weekly Outlook,Web,EMEA,Tier 3,1715,1,2,0,24,0,0,82,6,0,0,0,0,65,2701,0,302,463,299,Weekly,13,169
+PUB_0558,2024-07-15,Analyst_4,Junior,Equity,Deep Dive,Web,Americas,Tier 2,1229,0,2,0,5,1,1,95,18,1,0,0,0,7,2757,0,68,636,29,Weekly,27,340
+PUB_0559,2023-01-01,Analyst_22,Senior,Commodities,Earnings Preview,Web,Americas,Tier 3,1763,1,5,0,6,0,1,86,13,0,0,1,0,62,2259,0,761,400,720,Daily,6,823
+PUB_0560,2023-11-08,Analyst_12,Senior,Commodities,Deep Dive,Web,APAC,Tier 3,1132,1,2,0,28,0,1,72,14,0,0,1,0,8,2549,0,781,555,736,Daily,17,833
+PUB_0561,2023-10-21,Analyst_18,Senior,Fixed Income,Deep Dive,Email,EMEA,Tier 2,1354,1,4,0,5,0,1,58,11,0,0,1,0,59,3930,1997,185,244,168,Weekly,4,1278
+PUB_0562,2023-08-04,Analyst_29,Mid,Macro,Deep Dive,Web,APAC,Tier 2,1948,1,3,1,39,0,0,97,15,0,1,1,0,62,221,0,272,236,273,Weekly,8,218
+PUB_0563,2024-03-16,Analyst_21,Junior,Commodities,Morning Brief,Web,Americas,Tier 3,2200,1,2,1,38,0,1,75,10,0,0,1,0,71,4468,0,52,499,42,Bi-weekly,17,321
+PUB_0564,2024-08-16,Analyst_12,Junior,Macro,Earnings Preview,Portal,Americas,Tier 2,1757,1,7,0,2,0,0,47,11,0,1,1,0,2,1417,0,285,545,317,Daily,3,405
+PUB_0565,2024-09-13,Analyst_2,Mid,Equity,Flash Note,Portal,EMEA,Tier 3,1699,1,9,0,39,1,0,94,18,0,1,0,0,72,4593,0,514,564,469,Bi-weekly,17,956
+PUB_0566,2024-11-01,Analyst_13,Senior,Credit,Earnings Preview,Portal,APAC,Tier 2,742,0,2,0,21,1,0,58,11,0,1,1,0,12,2618,0,277,745,228,Daily,9,752
+PUB_0567,2023-11-26,Analyst_9,Mid,Commodities,Flash Note,Web,APAC,Tier 3,2422,0,5,0,37,0,0,44,14,0,0,1,0,8,1330,0,703,896,667,Monthly,2,731
+PUB_0568,2024-04-21,Analyst_7,Mid,Credit,Earnings Preview,Portal,Americas,Tier 1,856,0,6,0,18,0,1,40,9,0,0,1,0,88,1233,0,548,322,514,Weekly,25,768
+PUB_0569,2024-03-28,Analyst_4,Managing Director,Commodities,Earnings Preview,Email,EMEA,Tier 3,1478,1,6,0,12,0,0,29,7,0,0,0,1,51,1401,1245,570,101,535,Weekly,13,1377
+PUB_0570,2024-03-28,Analyst_28,Mid,Macro,Deep Dive,Email,Americas,Tier 2,2337,1,1,0,17,0,1,62,16,0,0,1,1,61,4134,662,751,312,728,Monthly,20,1512
+PUB_0571,2024-11-22,Analyst_27,Senior,Commodities,Flash Note,Portal,EMEA,Tier 3,662,1,2,0,37,0,0,34,16,0,1,1,0,7,2010,0,726,417,760,Weekly,2,1043
+PUB_0572,2023-08-07,Analyst_15,Senior,Commodities,Flash Note,Portal,Americas,Tier 1,2795,1,9,0,38,1,0,67,14,1,0,1,0,44,1605,0,188,182,209,Daily,20,497
+PUB_0573,2024-06-07,Analyst_3,Mid,Equity,Flash Note,Web,Americas,Tier 3,1557,1,9,0,15,1,0,40,7,0,1,0,0,52,3285,0,325,274,284,Weekly,28,492
+PUB_0574,2024-04-29,Analyst_22,Senior,Fixed Income,Earnings Preview,Portal,EMEA,Tier 3,2141,1,3,0,7,0,1,79,15,1,0,1,0,62,2016,0,340,359,299,Weekly,11,771
+PUB_0575,2023-06-23,Analyst_7,Managing Director,Equity,Flash Note,Portal,Americas,Tier 2,2609,1,6,0,14,1,1,69,14,0,1,1,0,80,3648,0,102,622,61,Weekly,27,1001
+PUB_0576,2024-11-05,Analyst_21,Managing Director,Credit,Earnings Preview,Portal,EMEA,Tier 1,2150,0,1,0,1,0,0,42,7,0,0,0,0,56,2857,0,736,65,758,Weekly,26,1577
+PUB_0577,2023-03-28,Analyst_21,Junior,Macro,Morning Brief,Portal,APAC,Tier 1,2472,0,2,0,38,0,0,32,17,0,0,0,1,53,2056,0,159,790,136,Monthly,22,333
+PUB_0578,2023-10-18,Analyst_20,Managing Director,Macro,Deep Dive,Web,EMEA,Tier 3,1210,1,6,0,3,0,0,88,13,0,0,1,0,18,278,0,764,244,737,Bi-weekly,15,1246
+PUB_0579,2024-06-11,Analyst_1,Mid,Commodities,Weekly Outlook,Web,EMEA,Tier 3,544,1,6,0,37,0,1,23,14,0,0,1,0,66,996,0,697,812,665,Daily,11,483
+PUB_0580,2024-11-10,Analyst_2,Mid,Macro,Morning Brief,Portal,Americas,Tier 2,841,1,9,0,31,0,1,97,17,0,0,0,0,45,1651,0,53,492,99,Bi-weekly,23,304
+PUB_0581,2024-10-10,Analyst_26,Mid,Fixed Income,Flash Note,Email,Americas,Tier 2,2832,1,2,0,13,0,0,91,15,0,0,1,0,9,591,954,716,352,733,Weekly,3,861
+PUB_0582,2024-09-26,Analyst_11,Managing Director,Fixed Income,Deep Dive,Web,Americas,Tier 2,2469,1,0,1,18,1,1,28,14,0,0,1,1,17,160,0,733,97,738,Weekly,3,1092
+PUB_0583,2023-12-10,Analyst_8,Mid,Commodities,Deep Dive,Email,EMEA,Tier 3,2472,0,2,1,17,0,0,54,15,0,0,1,0,11,1177,1595,96,796,112,Weekly,28,480
+PUB_0584,2023-04-06,Analyst_5,Mid,Commodities,Deep Dive,Web,Americas,Tier 2,1872,0,4,0,17,0,0,40,14,0,0,1,0,48,2995,0,143,170,134,Bi-weekly,26,428
+PUB_0585,2023-08-29,Analyst_26,Senior,Credit,Deep Dive,Web,Americas,Tier 3,2517,1,6,0,11,0,1,77,7,0,0,0,0,22,4260,0,609,548,570,Weekly,12,1169
+PUB_0586,2024-11-19,Analyst_19,Mid,Commodities,Flash Note,Portal,APAC,Tier 1,423,1,3,0,20,0,0,37,9,0,0,1,0,61,3783,0,262,881,229,Bi-weekly,24,804
+PUB_0587,2023-11-14,Analyst_7,Junior,Equity,Deep Dive,Web,APAC,Tier 3,2993,1,0,1,10,1,0,91,12,0,0,1,0,10,685,0,485,611,457,Daily,5,268
+PUB_0588,2023-08-19,Analyst_3,Junior,Equity,Weekly Outlook,Web,EMEA,Tier 2,2031,1,5,0,29,1,0,62,17,0,0,0,0,72,4060,0,557,518,590,Monthly,20,637
+PUB_0589,2023-07-23,Analyst_27,Junior,Equity,Weekly Outlook,Web,EMEA,Tier 2,1085,1,1,1,34,1,0,25,7,0,0,0,0,55,3870,0,700,90,655,Bi-weekly,7,410
+PUB_0590,2023-05-31,Analyst_25,Junior,Fixed Income,Deep Dive,Portal,APAC,Tier 3,2343,1,2,0,17,0,1,97,6,0,0,0,0,87,634,0,254,505,256,Weekly,7,258
+PUB_0591,2023-01-26,Analyst_18,Junior,Macro,Earnings Preview,Portal,EMEA,Tier 3,2548,1,3,0,13,0,1,86,8,0,0,0,0,88,3562,0,430,583,477,Bi-weekly,13,644
+PUB_0592,2023-02-17,Analyst_7,Senior,Credit,Flash Note,Portal,EMEA,Tier 3,2716,1,5,1,39,0,1,31,17,0,1,0,0,54,4111,0,122,420,113,Weekly,9,702
+PUB_0593,2023-09-08,Analyst_19,Junior,Commodities,Weekly Outlook,Web,APAC,Tier 1,1096,1,5,0,27,0,0,31,9,0,1,1,0,24,3498,0,565,231,580,Daily,25,499
+PUB_0594,2024-05-01,Analyst_7,Mid,Credit,Weekly Outlook,Email,APAC,Tier 1,376,1,6,0,26,0,0,85,13,0,0,1,0,8,2255,963,125,566,104,Daily,21,529
+PUB_0595,2024-09-17,Analyst_27,Managing Director,Fixed Income,Weekly Outlook,Email,EMEA,Tier 3,358,1,4,0,28,0,0,21,11,0,0,1,0,11,1104,782,126,706,84,Daily,13,667
+PUB_0596,2023-03-16,Analyst_28,Mid,Commodities,Morning Brief,Portal,EMEA,Tier 3,2778,0,6,0,13,0,0,34,16,0,0,1,0,10,2599,0,459,639,499,Bi-weekly,12,812
+PUB_0597,2024-04-11,Analyst_8,Senior,Commodities,Morning Brief,Email,Americas,Tier 2,2985,1,1,0,12,0,1,42,7,0,0,0,0,37,426,1638,663,280,654,Weekly,13,1346
+PUB_0598,2024-02-29,Analyst_11,Junior,Fixed Income,Weekly Outlook,Email,EMEA,Tier 1,1823,1,0,0,28,0,1,48,14,0,0,1,0,27,4803,209,155,858,138,Weekly,24,701
+PUB_0599,2024-10-06,Analyst_25,Junior,Macro,Earnings Preview,Portal,Americas,Tier 1,2236,1,9,0,2,0,0,26,19,0,0,0,0,7,2806,0,600,397,589,Daily,10,604
+PUB_0600,2024-08-12,Analyst_5,Junior,Commodities,Flash Note,Web,APAC,Tier 3,2456,1,7,0,37,0,1,47,7,1,0,0,0,73,101,0,525,528,562,Weekly,1,262
+PUB_0601,2023-07-19,Analyst_26,Junior,Macro,Flash Note,Portal,APAC,Tier 1,1601,1,0,1,34,0,1,33,18,0,0,0,0,88,1133,0,324,258,290,Weekly,25,261
+PUB_0602,2024-12-14,Analyst_29,Mid,Fixed Income,Weekly Outlook,Web,APAC,Tier 2,367,1,1,0,23,0,0,63,17,0,0,0,0,46,2581,0,137,724,115,Bi-weekly,8,265
+PUB_0603,2024-01-29,Analyst_20,Junior,Credit,Weekly Outlook,Portal,APAC,Tier 2,2652,1,9,0,29,0,1,49,10,1,0,1,0,35,224,0,772,729,821,Monthly,22,828
+PUB_0604,2024-05-21,Analyst_1,Junior,Commodities,Flash Note,Email,EMEA,Tier 2,2232,0,5,0,35,1,0,51,17,0,0,0,0,49,1204,745,126,327,125,Weekly,16,229
+PUB_0605,2024-02-14,Analyst_9,Junior,Macro,Earnings Preview,Portal,EMEA,Tier 1,664,1,0,0,11,0,0,89,9,0,0,1,0,8,2799,0,126,798,151,Weekly,13,315
+PUB_0606,2023-09-07,Analyst_28,Mid,Commodities,Morning Brief,Email,Americas,Tier 2,1120,1,9,0,33,0,0,25,18,0,0,0,0,59,1961,572,491,737,535,Weekly,3,882
+PUB_0607,2023-06-01,Analyst_5,Mid,Macro,Morning Brief,Portal,APAC,Tier 1,1702,1,2,1,11,0,0,46,12,0,0,1,0,71,3020,0,589,102,587,Bi-weekly,3,854
+PUB_0608,2024-11-02,Analyst_5,Mid,Commodities,Weekly Outlook,Web,EMEA,Tier 3,2690,1,6,0,9,1,0,43,13,0,0,1,0,66,228,0,294,59,316,Daily,24,259
+PUB_0609,2024-12-05,Analyst_18,Senior,Commodities,Flash Note,Web,Americas,Tier 2,1246,1,7,0,14,0,0,53,10,0,0,1,0,52,537,0,627,707,637,Weekly,5,780
+PUB_0610,2023-01-06,Analyst_9,Senior,Commodities,Morning Brief,Web,Americas,Tier 2,1877,1,3,0,9,0,0,59,15,0,1,1,0,81,4946,0,431,788,463,Bi-weekly,26,1113
+PUB_0611,2023-04-20,Analyst_26,Junior,Credit,Earnings Preview,Web,Americas,Tier 3,1677,1,2,0,39,0,1,66,19,0,0,0,0,16,2648,0,766,797,761,Daily,11,417
+PUB_0612,2024-03-11,Analyst_6,Senior,Commodities,Weekly Outlook,Web,APAC,Tier 3,1739,1,0,1,3,0,1,98,19,1,0,0,0,52,3229,0,619,513,614,Weekly,7,1036
+PUB_0613,2023-08-13,Analyst_4,Senior,Macro,Deep Dive,Web,Americas,Tier 2,1061,0,8,0,29,0,1,94,10,0,0,1,0,27,1321,0,762,803,728,Bi-weekly,21,1152
+PUB_0614,2023-06-30,Analyst_22,Junior,Credit,Weekly Outlook,Portal,APAC,Tier 2,640,1,9,0,19,0,0,43,7,0,1,0,1,62,1001,0,786,866,801,Daily,24,595
+PUB_0615,2024-12-13,Analyst_28,Managing Director,Equity,Deep Dive,Email,Americas,Tier 2,682,1,5,0,36,1,0,84,13,0,1,1,0,14,3268,1221,191,632,145,Weekly,10,1400
+PUB_0616,2024-06-14,Analyst_1,Managing Director,Macro,Weekly Outlook,Portal,Americas,Tier 3,1303,1,5,0,32,0,0,37,19,0,1,0,0,18,4586,0,417,207,420,Weekly,10,1273
+PUB_0617,2024-04-20,Analyst_5,Junior,Macro,Flash Note,Portal,Americas,Tier 3,1856,0,8,0,7,0,0,63,7,0,0,0,0,85,4018,0,133,68,98,Weekly,20,383
+PUB_0618,2023-02-21,Analyst_1,Mid,Equity,Flash Note,Portal,EMEA,Tier 3,599,1,0,0,28,1,0,95,15,0,0,1,0,69,1167,0,192,104,222,Daily,2,241
+PUB_0619,2024-07-24,Analyst_12,Senior,Credit,Flash Note,Email,APAC,Tier 3,438,1,5,0,18,0,1,76,17,0,0,0,0,46,126,861,401,776,441,Monthly,3,1079
+PUB_0620,2023-09-13,Analyst_26,Senior,Commodities,Flash Note,Web,Americas,Tier 3,658,0,4,0,5,0,1,47,11,0,0,1,0,70,647,0,594,770,550,Daily,8,719
+PUB_0621,2023-05-05,Analyst_26,Junior,Macro,Earnings Preview,Portal,APAC,Tier 2,1135,1,5,0,23,0,1,90,13,0,1,1,0,47,2768,0,201,70,158,Bi-weekly,11,403
+PUB_0622,2024-04-12,Analyst_8,Mid,Equity,Earnings Preview,Portal,APAC,Tier 1,1822,1,7,1,22,1,0,42,11,0,1,1,0,72,666,0,207,331,228,Daily,13,425
+PUB_0623,2023-05-17,Analyst_19,Mid,Commodities,Deep Dive,Email,Americas,Tier 3,1927,1,4,1,26,0,0,53,9,0,0,1,0,19,803,1497,495,810,531,Weekly,7,958
+PUB_0624,2024-04-20,Analyst_11,Mid,Credit,Earnings Preview,Portal,Americas,Tier 3,2282,1,1,0,12,0,1,30,18,0,0,0,0,36,4380,0,702,589,747,Daily,13,720
+PUB_0625,2024-11-14,Analyst_1,Senior,Macro,Weekly Outlook,Portal,EMEA,Tier 1,1603,1,1,0,19,0,0,54,9,0,0,1,0,74,3240,0,352,466,383,Daily,2,663
+PUB_0626,2024-06-27,Analyst_6,Mid,Commodities,Flash Note,Portal,Americas,Tier 3,2830,1,9,0,1,0,0,61,11,0,0,1,1,1,1690,0,673,857,660,Daily,6,921
+PUB_0627,2024-07-26,Analyst_9,Mid,Commodities,Morning Brief,Web,APAC,Tier 2,1208,1,4,0,3,0,0,47,19,0,1,0,0,63,4794,0,705,772,708,Weekly,9,771
+PUB_0628,2024-09-01,Analyst_2,Senior,Fixed Income,Morning Brief,Portal,APAC,Tier 2,1434,0,2,0,27,0,0,97,18,0,0,0,0,85,905,0,499,334,524,Weekly,20,636
+PUB_0629,2023-11-21,Analyst_5,Junior,Equity,Morning Brief,Web,EMEA,Tier 1,2486,0,9,0,18,1,0,43,9,0,0,1,0,35,3891,0,770,581,734,Daily,25,645
+PUB_0630,2024-03-29,Analyst_24,Mid,Commodities,Weekly Outlook,Portal,Americas,Tier 2,1295,1,2,1,30,0,1,27,13,0,1,1,1,4,1457,0,273,581,314,Monthly,2,598
+PUB_0631,2024-09-19,Analyst_14,Senior,Credit,Morning Brief,Web,APAC,Tier 3,2782,0,7,1,2,0,1,72,14,0,0,1,0,63,3325,0,92,560,91,Weekly,18,742
+PUB_0632,2024-05-31,Analyst_17,Managing Director,Fixed Income,Morning Brief,Email,APAC,Tier 2,2856,1,6,0,5,0,0,91,6,0,1,0,0,6,3718,1211,313,891,318,Weekly,16,1850
+PUB_0633,2024-03-12,Analyst_4,Senior,Commodities,Deep Dive,Portal,APAC,Tier 3,2620,1,0,0,29,0,0,23,18,0,0,0,0,69,2226,0,52,445,96,Weekly,25,391
+PUB_0634,2024-07-15,Analyst_24,Senior,Commodities,Weekly Outlook,Portal,APAC,Tier 3,2451,1,4,0,33,0,1,24,9,1,0,1,0,21,2560,0,686,169,644,Weekly,12,1104
+PUB_0635,2024-04-01,Analyst_3,Junior,Credit,Weekly Outlook,Email,APAC,Tier 3,1537,1,8,0,20,0,0,68,9,1,0,1,0,73,645,1465,317,146,274,Bi-weekly,7,551
+PUB_0636,2023-06-12,Analyst_16,Mid,Fixed Income,Morning Brief,Web,Americas,Tier 2,2084,1,3,0,30,0,0,49,7,1,0,0,0,45,2828,0,645,169,613,Weekly,7,612
+PUB_0637,2024-05-01,Analyst_15,Senior,Fixed Income,Weekly Outlook,Email,EMEA,Tier 2,464,1,0,0,5,0,0,91,11,0,0,1,0,39,3834,853,65,586,65,Weekly,17,884
+PUB_0638,2024-04-05,Analyst_25,Mid,Equity,Deep Dive,Web,Americas,Tier 1,1298,1,7,1,21,1,0,82,8,0,1,0,0,60,2662,0,383,202,404,Weekly,13,664
+PUB_0639,2023-09-23,Analyst_12,Mid,Commodities,Deep Dive,Email,EMEA,Tier 3,2867,0,4,0,15,0,1,66,12,0,0,1,0,45,2179,104,513,294,560,Bi-weekly,11,998
+PUB_0640,2023-09-11,Analyst_17,Mid,Equity,Flash Note,Portal,APAC,Tier 3,1607,1,1,0,20,0,1,45,18,1,0,0,0,83,2741,0,108,821,114,Daily,6,342
+PUB_0641,2024-10-14,Analyst_19,Junior,Fixed Income,Deep Dive,Web,EMEA,Tier 2,2864,1,0,0,8,0,0,76,16,1,0,1,0,27,3214,0,226,565,243,Weekly,29,320
+PUB_0642,2023-10-11,Analyst_4,Mid,Equity,Flash Note,Portal,EMEA,Tier 3,956,1,2,0,31,0,0,56,16,0,0,1,0,86,2026,0,112,442,92,Daily,23,139
+PUB_0643,2024-06-17,Analyst_15,Mid,Credit,Morning Brief,Portal,EMEA,Tier 2,2960,1,8,0,12,0,0,26,10,1,0,1,0,34,716,0,610,192,562,Weekly,27,630
+PUB_0644,2024-05-11,Analyst_17,Mid,Macro,Flash Note,Email,Americas,Tier 3,2511,0,0,1,21,0,0,59,9,0,0,1,0,0,3744,1621,356,553,404,Daily,14,931
+PUB_0645,2024-10-03,Analyst_8,Junior,Credit,Flash Note,Portal,Americas,Tier 1,2209,1,3,0,30,0,1,58,10,0,0,1,0,28,1303,0,295,843,327,Monthly,6,459
+PUB_0646,2023-09-02,Analyst_20,Managing Director,Fixed Income,Morning Brief,Web,APAC,Tier 3,2346,1,7,0,27,0,1,81,13,0,0,1,0,8,1859,0,338,896,330,Bi-weekly,6,1052
+PUB_0647,2023-10-09,Analyst_2,Senior,Credit,Flash Note,Portal,EMEA,Tier 1,2411,1,7,0,26,0,0,97,8,1,0,0,0,8,2665,0,381,269,359,Weekly,2,889
+PUB_0648,2024-03-26,Analyst_24,Senior,Fixed Income,Deep Dive,Email,EMEA,Tier 3,1440,1,9,0,33,0,1,72,19,0,0,0,1,21,3274,367,576,888,535,Weekly,22,1649
+PUB_0649,2023-03-21,Analyst_26,Senior,Credit,Morning Brief,Email,EMEA,Tier 3,2189,1,7,1,26,1,1,23,12,0,0,1,0,62,3181,1950,304,209,265,Weekly,20,1159
+PUB_0650,2024-12-31,Analyst_30,Mid,Commodities,Weekly Outlook,Web,EMEA,Tier 3,566,1,9,0,26,0,1,44,19,0,0,0,1,65,2730,0,653,125,648,Weekly,25,774
+PUB_0651,2023-10-20,Analyst_28,Junior,Commodities,Flash Note,Email,APAC,Tier 1,2145,1,7,1,36,0,0,26,11,0,1,1,0,79,3261,514,559,660,538,Weekly,15,839
+PUB_0652,2023-08-29,Analyst_22,Senior,Credit,Deep Dive,Portal,Americas,Tier 2,2008,1,3,0,1,0,0,47,17,0,0,0,0,57,4421,0,767,741,810,Daily,28,1295
+PUB_0653,2023-10-06,Analyst_17,Senior,Equity,Weekly Outlook,Web,Americas,Tier 2,2593,1,7,0,15,1,1,88,6,0,1,0,0,69,769,0,655,688,686,Monthly,17,1079
+PUB_0654,2023-12-10,Analyst_10,Senior,Fixed Income,Morning Brief,Web,EMEA,Tier 2,2742,0,8,0,1,0,0,86,18,0,0,0,0,54,3268,0,786,81,823,Weekly,29,1110
+PUB_0655,2023-11-24,Analyst_15,Mid,Commodities,Morning Brief,Web,Americas,Tier 1,1810,1,6,0,11,0,1,39,12,0,1,1,0,12,2221,0,512,826,493,Monthly,8,899
+PUB_0656,2024-07-07,Analyst_21,Junior,Fixed Income,Morning Brief,Web,EMEA,Tier 3,775,1,1,0,2,0,1,30,19,0,0,0,0,18,4178,0,248,383,270,Daily,5,349
+PUB_0657,2023-03-24,Analyst_1,Mid,Commodities,Deep Dive,Web,APAC,Tier 3,1276,1,8,0,1,0,1,86,18,0,1,0,0,78,4251,0,320,574,316,Weekly,17,698
+PUB_0658,2023-05-22,Analyst_2,Mid,Macro,Weekly Outlook,Portal,APAC,Tier 2,1507,1,7,0,31,0,0,26,12,1,0,1,0,32,819,0,795,489,832,Daily,20,796
+PUB_0659,2023-06-04,Analyst_16,Senior,Credit,Morning Brief,Web,Americas,Tier 2,1343,1,4,0,16,0,1,42,19,0,0,0,0,73,2700,0,607,401,619,Bi-weekly,1,1030
+PUB_0660,2023-08-25,Analyst_28,Senior,Commodities,Deep Dive,Web,EMEA,Tier 2,2260,1,2,0,22,0,0,80,17,0,1,0,0,64,3698,0,113,388,88,Weekly,22,411
+PUB_0661,2024-01-28,Analyst_13,Mid,Credit,Earnings Preview,Email,APAC,Tier 3,857,1,6,0,18,0,1,90,6,0,0,0,0,59,4769,788,279,449,231,Bi-weekly,18,1009
+PUB_0662,2024-12-11,Analyst_14,Managing Director,Macro,Deep Dive,Web,Americas,Tier 2,1317,1,1,0,17,0,0,53,14,0,0,1,0,11,766,0,298,445,270,Bi-weekly,15,708
+PUB_0663,2023-06-06,Analyst_22,Senior,Fixed Income,Earnings Preview,Email,APAC,Tier 3,1905,0,2,0,30,0,0,38,11,0,0,1,0,42,383,1765,295,251,319,Bi-weekly,5,614
+PUB_0664,2024-12-24,Analyst_4,Mid,Credit,Weekly Outlook,Portal,APAC,Tier 2,1182,0,8,0,10,0,1,77,17,0,0,0,0,16,4003,0,636,579,659,Bi-weekly,7,1130
+PUB_0665,2023-08-08,Analyst_16,Junior,Commodities,Morning Brief,Portal,EMEA,Tier 3,2494,1,3,0,35,0,0,28,7,0,0,0,0,67,3665,0,206,142,205,Bi-weekly,18,173
+PUB_0666,2023-03-07,Analyst_23,Junior,Macro,Morning Brief,Portal,Americas,Tier 3,965,0,3,0,21,0,0,67,10,0,0,1,0,28,2334,0,784,841,769,Bi-weekly,6,749
+PUB_0667,2024-02-29,Analyst_30,Mid,Commodities,Flash Note,Portal,EMEA,Tier 2,2967,0,2,0,16,0,1,60,18,0,0,0,0,54,4693,0,751,407,713,Weekly,22,1030
+PUB_0668,2024-02-22,Analyst_15,Junior,Macro,Morning Brief,Email,Americas,Tier 3,2071,1,4,0,6,0,0,67,16,0,0,1,0,6,1565,282,613,445,591,Bi-weekly,21,614
+PUB_0669,2023-12-05,Analyst_3,Junior,Macro,Weekly Outlook,Web,APAC,Tier 1,1163,1,2,0,3,0,1,64,9,0,0,1,0,43,229,0,137,877,124,Monthly,5,348
+PUB_0670,2024-07-09,Analyst_29,Mid,Commodities,Deep Dive,Email,EMEA,Tier 3,881,1,8,1,21,0,0,44,12,0,0,1,0,76,4834,306,362,109,388,Weekly,19,1033
+PUB_0671,2024-04-22,Analyst_3,Junior,Credit,Weekly Outlook,Portal,EMEA,Tier 2,994,0,2,0,13,0,1,97,13,1,0,1,0,4,2160,0,115,526,154,Monthly,10,585
+PUB_0672,2024-03-01,Analyst_11,Managing Director,Fixed Income,Morning Brief,Email,EMEA,Tier 3,1551,1,1,0,18,0,1,44,16,0,1,1,0,59,3772,1811,711,775,744,Daily,15,2105
+PUB_0673,2023-03-05,Analyst_20,Junior,Fixed Income,Deep Dive,Portal,EMEA,Tier 3,1910,0,4,0,24,0,0,38,19,0,0,0,0,5,2594,0,69,661,23,Weekly,10,166
+PUB_0674,2023-07-31,Analyst_5,Senior,Macro,Weekly Outlook,Web,Americas,Tier 3,1539,1,5,0,27,0,0,58,16,1,0,1,0,6,1092,0,82,50,51,Daily,27,112
+PUB_0675,2024-03-06,Analyst_3,Mid,Commodities,Morning Brief,Portal,Americas,Tier 3,2754,1,0,1,4,0,0,98,6,0,0,0,0,45,2221,0,607,604,634,Daily,16,749
+PUB_0676,2024-02-03,Analyst_5,Managing Director,Macro,Morning Brief,Web,EMEA,Tier 2,698,1,5,0,22,0,0,99,10,0,0,1,0,56,2684,0,122,360,85,Bi-weekly,12,667
+PUB_0677,2024-08-21,Analyst_9,Junior,Fixed Income,Morning Brief,Web,EMEA,Tier 1,2246,1,9,1,24,0,0,46,8,0,0,0,0,53,4296,0,392,217,349,Monthly,18,589
+PUB_0678,2024-12-13,Analyst_20,Mid,Macro,Flash Note,Email,Americas,Tier 2,1014,0,2,1,10,0,1,93,6,0,1,0,0,45,2323,457,182,241,179,Bi-weekly,23,711
+PUB_0679,2023-01-21,Analyst_21,Managing Director,Macro,Flash Note,Email,Americas,Tier 1,1003,1,3,0,2,0,0,82,17,0,0,0,0,9,4622,1342,104,83,66,Monthly,1,1448
+PUB_0680,2024-08-12,Analyst_19,Managing Director,Fixed Income,Flash Note,Email,EMEA,Tier 3,2846,1,5,0,6,1,0,87,8,1,0,0,0,3,3288,1742,110,83,83,Weekly,16,1153
+PUB_0681,2024-01-25,Analyst_18,Senior,Credit,Deep Dive,Email,Americas,Tier 2,2014,1,7,0,18,0,1,38,19,0,0,0,0,66,3337,415,569,737,597,Daily,22,1467
+PUB_0682,2024-05-03,Analyst_23,Mid,Macro,Weekly Outlook,Web,EMEA,Tier 3,2272,0,8,0,17,1,0,47,11,0,1,1,0,24,4236,0,321,466,335,Weekly,6,698
+PUB_0683,2023-01-07,Analyst_11,Junior,Credit,Deep Dive,Web,EMEA,Tier 3,381,1,5,0,38,0,0,97,19,0,0,0,0,86,4624,0,295,757,330,Bi-weekly,3,395
+PUB_0684,2023-12-27,Analyst_13,Senior,Macro,Deep Dive,Portal,EMEA,Tier 3,903,1,6,0,23,0,0,52,12,0,0,1,1,77,443,0,225,207,208,Daily,2,381
+PUB_0685,2023-11-02,Analyst_20,Managing Director,Commodities,Morning Brief,Web,APAC,Tier 1,2270,1,4,0,30,0,0,29,13,0,0,1,0,60,4561,0,677,806,677,Monthly,28,2055
+PUB_0686,2024-02-04,Analyst_17,Senior,Macro,Earnings Preview,Email,EMEA,Tier 3,2010,1,8,0,21,1,1,49,18,0,0,0,0,37,4804,1232,366,549,318,Bi-weekly,2,1756
+PUB_0687,2024-03-05,Analyst_10,Senior,Macro,Earnings Preview,Web,Americas,Tier 3,2346,1,3,0,10,0,1,41,16,0,0,1,0,31,4923,0,754,415,793,Monthly,13,1569
+PUB_0688,2024-07-05,Analyst_15,Mid,Equity,Morning Brief,Portal,APAC,Tier 2,1202,1,9,1,13,1,0,22,9,0,1,1,0,22,2376,0,711,389,738,Weekly,9,1123
+PUB_0689,2024-07-13,Analyst_17,Senior,Commodities,Earnings Preview,Email,Americas,Tier 3,664,1,5,0,12,0,0,94,8,0,0,0,0,36,3301,1033,180,384,187,Weekly,16,907
+PUB_0690,2024-09-09,Analyst_20,Junior,Commodities,Deep Dive,Email,Americas,Tier 3,462,1,4,1,9,0,0,67,10,1,0,1,0,2,988,1810,151,632,172,Bi-weekly,27,619
+PUB_0691,2023-08-14,Analyst_14,Mid,Credit,Weekly Outlook,Web,Americas,Tier 1,2858,1,0,0,4,0,0,21,14,1,0,1,0,12,2143,0,359,376,363,Bi-weekly,5,453
+PUB_0692,2024-05-14,Analyst_4,Mid,Credit,Flash Note,Web,EMEA,Tier 2,2163,1,4,0,39,0,1,95,18,0,0,0,0,33,1441,0,341,163,370,Weekly,23,274
+PUB_0693,2023-08-13,Analyst_26,Senior,Macro,Deep Dive,Portal,Americas,Tier 2,415,1,4,0,24,0,0,73,11,0,0,1,0,87,3820,0,771,846,762,Monthly,28,1606
+PUB_0694,2023-10-07,Analyst_23,Mid,Fixed Income,Deep Dive,Email,Americas,Tier 1,2684,1,8,0,34,0,0,25,14,0,0,1,0,64,2983,979,544,467,514,Monthly,21,1240
+PUB_0695,2024-03-22,Analyst_4,Junior,Macro,Weekly Outlook,Web,Americas,Tier 2,1180,1,0,0,39,0,0,59,11,0,1,1,0,75,4312,0,410,517,369,Daily,7,208
+PUB_0696,2024-05-12,Analyst_28,Senior,Equity,Earnings Preview,Portal,APAC,Tier 1,1139,1,4,0,5,1,1,21,7,0,0,0,0,7,2515,0,387,192,393,Daily,13,902
+PUB_0697,2023-01-30,Analyst_21,Mid,Macro,Weekly Outlook,Email,EMEA,Tier 1,2494,1,6,1,15,1,1,92,18,1,0,0,0,82,1217,1169,628,658,602,Weekly,20,1154
+PUB_0698,2024-02-03,Analyst_21,Senior,Equity,Deep Dive,Email,EMEA,Tier 1,1646,1,5,0,4,0,1,21,10,0,0,1,0,8,4363,1780,59,358,64,Weekly,24,1215
+PUB_0699,2023-12-11,Analyst_29,Junior,Macro,Morning Brief,Web,APAC,Tier 3,2790,1,5,0,39,1,1,93,17,1,0,0,0,27,3101,0,98,450,85,Bi-weekly,29,213
+PUB_0700,2024-11-15,Analyst_25,Mid,Credit,Morning Brief,Web,Americas,Tier 2,1336,1,6,1,8,0,0,74,16,0,1,1,0,77,1838,0,536,369,571,Daily,27,611
+PUB_0701,2024-11-26,Analyst_18,Senior,Macro,Deep Dive,Email,APAC,Tier 3,1242,0,5,0,24,0,0,91,14,0,0,1,0,17,1464,441,672,261,682,Bi-weekly,26,1505
+PUB_0702,2024-02-19,Analyst_24,Junior,Credit,Morning Brief,Email,APAC,Tier 2,2024,1,4,0,28,0,0,79,13,1,0,1,0,41,2808,401,370,366,366,Bi-weekly,13,651
+PUB_0703,2023-06-19,Analyst_28,Mid,Fixed Income,Earnings Preview,Portal,EMEA,Tier 2,2634,1,9,0,27,0,1,25,12,1,0,1,0,40,4890,0,780,234,783,Weekly,27,1262
+PUB_0704,2024-04-23,Analyst_7,Junior,Fixed Income,Weekly Outlook,Email,EMEA,Tier 2,1437,0,4,1,1,0,1,38,6,0,0,0,0,69,1024,1739,618,254,613,Weekly,26,807
+PUB_0705,2023-05-11,Analyst_14,Junior,Commodities,Flash Note,Web,APAC,Tier 2,2827,1,8,0,34,0,0,46,9,0,0,1,0,32,251,0,674,413,691,Weekly,7,363
+PUB_0706,2024-09-29,Analyst_15,Managing Director,Macro,Weekly Outlook,Email,Americas,Tier 1,321,1,7,0,17,0,1,20,17,0,0,0,1,88,685,1743,182,265,135,Daily,10,727
+PUB_0707,2024-06-30,Analyst_29,Mid,Commodities,Flash Note,Email,EMEA,Tier 3,2049,0,9,0,37,0,1,52,12,0,0,1,1,76,1012,826,632,295,675,Weekly,15,850
+PUB_0708,2023-01-28,Analyst_8,Senior,Macro,Deep Dive,Portal,Americas,Tier 2,982,1,3,1,38,0,1,59,16,0,0,1,0,53,2421,0,132,288,147,Monthly,21,651
+PUB_0709,2024-02-08,Analyst_14,Mid,Fixed Income,Deep Dive,Web,EMEA,Tier 3,2133,1,3,0,26,0,0,51,12,0,0,1,0,86,595,0,106,854,148,Weekly,27,60
+PUB_0710,2024-08-29,Analyst_11,Senior,Equity,Flash Note,Portal,Americas,Tier 3,2667,1,9,1,24,0,1,88,11,0,0,1,0,35,3895,0,425,440,417,Weekly,6,1191
+PUB_0711,2024-07-31,Analyst_27,Senior,Commodities,Morning Brief,Web,Americas,Tier 1,425,1,4,0,39,0,0,36,13,0,0,1,0,84,2248,0,398,569,409,Weekly,5,689
+PUB_0712,2024-11-09,Analyst_15,Senior,Commodities,Deep Dive,Web,Americas,Tier 1,576,0,2,0,21,0,1,27,16,0,0,1,0,55,656,0,320,639,369,Weekly,23,553
+PUB_0713,2023-01-28,Analyst_13,Mid,Fixed Income,Earnings Preview,Web,APAC,Tier 3,2299,0,7,0,30,0,1,76,18,0,0,0,0,16,1652,0,532,885,566,Weekly,28,592
+PUB_0714,2023-03-27,Analyst_14,Mid,Fixed Income,Earnings Preview,Web,EMEA,Tier 2,1527,1,6,0,13,0,0,61,11,1,0,1,1,9,2220,0,160,326,194,Bi-weekly,2,501
+PUB_0715,2024-10-20,Analyst_24,Mid,Equity,Earnings Preview,Web,Americas,Tier 1,2541,1,4,1,37,1,1,28,15,0,0,1,0,86,3185,0,125,251,159,Daily,21,297
+PUB_0716,2024-03-14,Analyst_4,Managing Director,Commodities,Earnings Preview,Email,Americas,Tier 3,995,1,9,0,3,0,1,54,8,0,0,0,0,43,3604,1255,207,263,160,Monthly,15,1687
+PUB_0717,2023-05-19,Analyst_11,Senior,Fixed Income,Flash Note,Email,APAC,Tier 1,1609,0,2,0,32,0,0,90,9,0,1,1,0,1,256,899,581,655,595,Daily,26,871
+PUB_0718,2024-04-17,Analyst_14,Managing Director,Fixed Income,Morning Brief,Portal,APAC,Tier 3,356,1,4,0,35,0,0,98,19,0,0,0,0,13,834,0,692,527,703,Monthly,16,1451
+PUB_0719,2023-07-06,Analyst_11,Junior,Equity,Flash Note,Email,Americas,Tier 3,318,0,2,0,19,1,0,72,8,0,0,0,0,40,4754,131,378,557,417,Monthly,19,912
+PUB_0720,2023-02-21,Analyst_22,Senior,Equity,Deep Dive,Portal,Americas,Tier 2,2611,0,9,0,14,1,1,73,6,0,0,0,0,1,3376,0,171,124,122,Weekly,9,750
+PUB_0721,2023-09-24,Analyst_9,Managing Director,Credit,Earnings Preview,Web,EMEA,Tier 1,412,1,4,0,22,0,1,44,15,0,0,1,0,18,254,0,90,718,48,Daily,29,324
+PUB_0722,2024-01-24,Analyst_12,Junior,Macro,Earnings Preview,Email,EMEA,Tier 1,841,1,0,0,17,0,0,86,10,0,0,1,0,79,1096,544,216,714,222,Weekly,22,227
+PUB_0723,2023-12-02,Analyst_5,Junior,Credit,Earnings Preview,Web,APAC,Tier 2,2994,1,5,0,4,0,0,81,6,0,0,0,0,88,2394,0,691,191,685,Bi-weekly,29,480
+PUB_0724,2023-08-05,Analyst_22,Senior,Equity,Deep Dive,Portal,APAC,Tier 1,878,1,9,0,19,1,0,74,6,0,0,0,0,0,4726,0,72,639,39,Monthly,26,1042
+PUB_0725,2024-04-10,Analyst_30,Senior,Fixed Income,Weekly Outlook,Email,EMEA,Tier 3,1388,1,3,0,37,0,0,65,7,0,0,0,0,1,3005,1124,328,371,325,Weekly,19,1017
+PUB_0726,2023-12-01,Analyst_16,Senior,Equity,Flash Note,Email,EMEA,Tier 1,324,1,3,0,2,1,0,43,18,0,1,0,0,26,4924,1334,518,743,509,Weekly,7,1756
+PUB_0727,2023-12-12,Analyst_3,Junior,Commodities,Morning Brief,Portal,EMEA,Tier 2,1872,1,7,0,15,1,0,65,9,0,0,1,0,1,1277,0,449,510,439,Bi-weekly,4,572
+PUB_0728,2024-01-24,Analyst_3,Senior,Fixed Income,Deep Dive,Email,EMEA,Tier 3,2348,1,1,0,2,0,0,41,11,0,0,1,0,50,253,1672,58,756,82,Monthly,3,494
+PUB_0729,2023-10-12,Analyst_27,Mid,Credit,Weekly Outlook,Portal,Americas,Tier 3,1872,1,3,1,11,0,0,30,13,0,0,1,0,9,4287,0,62,719,100,Bi-weekly,24,802
+PUB_0730,2024-03-07,Analyst_3,Junior,Credit,Weekly Outlook,Portal,Americas,Tier 3,440,1,1,0,23,0,1,67,18,0,0,0,0,18,1816,0,101,195,140,Monthly,29,222
+PUB_0731,2023-09-16,Analyst_3,Junior,Credit,Morning Brief,Email,Americas,Tier 2,2067,0,0,1,10,0,1,27,8,0,0,0,0,79,3302,1290,258,103,265,Weekly,20,490
+PUB_0732,2023-03-25,Analyst_14,Senior,Fixed Income,Deep Dive,Email,APAC,Tier 3,947,1,9,1,3,0,1,58,6,0,0,0,1,12,2957,927,599,405,648,Bi-weekly,11,1824
+PUB_0733,2024-04-26,Analyst_4,Senior,Macro,Weekly Outlook,Portal,EMEA,Tier 2,2535,0,2,0,5,0,1,54,8,0,1,0,0,47,886,0,661,326,652,Bi-weekly,1,1027
+PUB_0734,2023-01-20,Analyst_24,Senior,Macro,Earnings Preview,Web,Americas,Tier 2,500,1,7,0,3,0,0,68,17,0,1,0,0,55,4468,0,754,870,738,Bi-weekly,6,1383
+PUB_0735,2024-07-06,Analyst_24,Mid,Macro,Morning Brief,Web,EMEA,Tier 1,556,1,5,1,38,0,0,65,8,0,0,0,0,71,4372,0,451,644,438,Weekly,26,559
+PUB_0736,2023-02-23,Analyst_12,Managing Director,Equity,Earnings Preview,Email,EMEA,Tier 3,846,0,6,0,13,0,0,57,10,0,0,1,0,55,3867,913,240,449,256,Weekly,11,1643
+PUB_0737,2023-12-25,Analyst_26,Mid,Equity,Morning Brief,Email,APAC,Tier 2,2541,0,1,0,19,1,1,27,16,1,0,1,1,49,2978,1629,100,717,90,Weekly,27,800
+PUB_0738,2023-08-18,Analyst_5,Senior,Commodities,Flash Note,Web,Americas,Tier 1,1101,1,5,0,35,0,1,73,17,0,1,0,0,44,742,0,442,565,490,Weekly,1,603
+PUB_0739,2024-10-27,Analyst_18,Mid,Fixed Income,Flash Note,Portal,Americas,Tier 2,1241,1,7,0,24,0,1,56,17,0,0,0,0,88,4762,0,702,548,701,Weekly,21,1041
+PUB_0740,2023-03-12,Analyst_2,Mid,Commodities,Deep Dive,Portal,EMEA,Tier 2,713,0,7,0,24,0,1,59,9,0,0,1,0,58,765,0,729,360,764,Bi-weekly,7,917
+PUB_0741,2024-10-29,Analyst_19,Mid,Equity,Weekly Outlook,Web,Americas,Tier 3,2314,1,3,0,17,1,1,53,18,0,0,0,0,38,3526,0,670,320,691,Weekly,6,698
+PUB_0742,2023-02-11,Analyst_18,Mid,Fixed Income,Earnings Preview,Email,Americas,Tier 3,1681,1,5,0,10,0,0,98,9,0,0,1,0,20,3883,1658,768,625,796,Daily,14,1291
+PUB_0743,2023-02-01,Analyst_18,Senior,Credit,Weekly Outlook,Email,EMEA,Tier 3,1398,1,4,0,2,0,0,36,14,0,0,1,0,54,3801,828,349,498,343,Bi-weekly,2,1359
+PUB_0744,2023-09-11,Analyst_11,Senior,Fixed Income,Flash Note,Email,EMEA,Tier 1,1209,1,8,0,23,0,0,52,12,1,0,1,0,56,1169,1267,671,161,691,Monthly,27,1653
+PUB_0745,2023-07-24,Analyst_22,Mid,Equity,Earnings Preview,Web,APAC,Tier 2,487,1,7,0,6,1,0,66,9,1,0,1,0,40,2449,0,245,288,213,Weekly,4,466
+PUB_0746,2023-01-21,Analyst_4,Managing Director,Credit,Deep Dive,Web,Americas,Tier 2,2315,1,1,0,2,0,1,71,8,0,0,0,0,69,4603,0,466,193,432,Weekly,11,1344
+PUB_0747,2024-09-28,Analyst_14,Mid,Credit,Weekly Outlook,Web,EMEA,Tier 1,1613,1,6,1,21,0,0,99,11,0,0,1,1,81,1312,0,713,423,727,Monthly,15,889
+PUB_0748,2023-06-06,Analyst_12,Senior,Fixed Income,Morning Brief,Portal,Americas,Tier 2,2392,1,6,0,35,0,0,28,8,0,0,0,0,48,1252,0,469,69,511,Monthly,18,768
+PUB_0749,2023-09-02,Analyst_28,Managing Director,Macro,Morning Brief,Portal,Americas,Tier 3,2430,0,0,0,29,0,0,52,11,0,0,1,0,43,2611,0,689,625,715,Weekly,27,1566
+PUB_0750,2023-05-10,Analyst_22,Senior,Equity,Earnings Preview,Portal,EMEA,Tier 1,1446,0,0,0,7,0,0,79,16,0,0,1,0,34,243,0,666,338,671,Daily,1,742
+PUB_0751,2024-04-29,Analyst_25,Junior,Equity,Morning Brief,Portal,Americas,Tier 2,657,0,3,0,29,0,0,96,18,1,0,0,0,4,2589,0,571,642,613,Weekly,3,590
+PUB_0752,2024-11-16,Analyst_14,Managing Director,Macro,Morning Brief,Web,Americas,Tier 2,1851,1,4,0,37,1,0,40,16,0,0,1,0,70,3328,0,405,246,395,Bi-weekly,3,1081
+PUB_0753,2023-04-28,Analyst_28,Senior,Commodities,Flash Note,Web,APAC,Tier 1,1389,1,3,1,23,0,0,77,18,0,1,0,0,73,4682,0,197,431,188,Daily,28,554
+PUB_0754,2024-07-31,Analyst_30,Mid,Commodities,Deep Dive,Portal,Americas,Tier 2,1980,1,6,0,33,0,1,88,18,0,0,0,0,73,3305,0,414,630,369,Weekly,7,687
+PUB_0755,2023-08-12,Analyst_24,Junior,Equity,Morning Brief,Email,APAC,Tier 3,2722,1,2,1,8,0,0,29,17,0,0,0,0,50,4343,1202,413,747,431,Weekly,1,912
+PUB_0756,2024-04-21,Analyst_2,Senior,Macro,Morning Brief,Web,APAC,Tier 3,461,1,6,0,12,0,1,25,14,0,0,1,0,56,3242,0,701,728,748,Monthly,25,1495
+PUB_0757,2024-12-17,Analyst_10,Senior,Macro,Weekly Outlook,Web,EMEA,Tier 3,2669,0,7,0,10,0,1,32,11,0,0,1,0,57,3404,0,751,766,775,Weekly,11,1328
+PUB_0758,2023-09-20,Analyst_20,Senior,Credit,Earnings Preview,Web,Americas,Tier 2,749,1,5,0,15,0,1,84,17,0,0,0,0,35,1457,0,451,541,473,Weekly,6,757
+PUB_0759,2024-01-13,Analyst_10,Managing Director,Commodities,Flash Note,Email,Americas,Tier 1,1797,1,5,1,24,0,1,39,9,0,0,1,0,9,2813,1914,655,213,644,Monthly,20,2625
+PUB_0760,2023-06-21,Analyst_12,Senior,Commodities,Earnings Preview,Email,APAC,Tier 2,1336,1,7,0,26,1,0,76,10,0,0,1,0,49,4285,1293,541,655,531,Weekly,3,1830
+PUB_0761,2024-09-12,Analyst_4,Junior,Credit,Weekly Outlook,Web,EMEA,Tier 2,2531,1,7,0,39,0,0,65,18,0,0,0,0,36,1457,0,278,298,236,Weekly,19,122
+PUB_0762,2024-09-13,Analyst_19,Mid,Fixed Income,Weekly Outlook,Email,APAC,Tier 3,2458,1,6,1,3,0,0,27,11,0,1,1,0,19,4394,800,624,117,581,Bi-weekly,2,1331
+PUB_0763,2023-04-28,Analyst_17,Mid,Commodities,Weekly Outlook,Email,APAC,Tier 1,2250,1,5,0,2,1,0,29,16,0,1,1,0,12,4733,1032,586,70,579,Weekly,18,1281
+PUB_0764,2023-06-17,Analyst_7,Senior,Credit,Morning Brief,Email,APAC,Tier 2,2855,1,5,0,6,0,1,92,8,0,0,0,0,74,3292,673,317,880,324,Bi-weekly,12,1403
+PUB_0765,2023-11-15,Analyst_5,Junior,Macro,Earnings Preview,Portal,Americas,Tier 1,1613,1,9,1,21,0,1,86,13,0,0,1,0,18,400,0,454,561,470,Daily,29,475
+PUB_0766,2023-04-21,Analyst_22,Senior,Fixed Income,Earnings Preview,Email,Americas,Tier 2,2642,1,5,0,9,0,0,30,9,0,1,1,0,55,823,66,60,646,22,Daily,10,332
+PUB_0767,2024-08-15,Analyst_16,Senior,Equity,Earnings Preview,Email,Americas,Tier 3,1538,0,7,0,10,1,0,31,13,0,0,1,0,44,3110,1658,369,439,337,Monthly,5,1668
+PUB_0768,2023-01-27,Analyst_8,Managing Director,Macro,Deep Dive,Portal,Americas,Tier 2,1273,1,0,0,36,1,0,29,15,0,1,1,0,59,167,0,762,585,809,Weekly,9,1257
+PUB_0769,2023-11-16,Analyst_28,Mid,Fixed Income,Flash Note,Email,EMEA,Tier 2,931,0,4,0,3,0,1,44,15,0,0,1,0,67,3936,1671,175,160,220,Bi-weekly,2,931
+PUB_0770,2024-08-12,Analyst_4,Senior,Credit,Morning Brief,Portal,APAC,Tier 2,1890,1,2,0,24,0,1,68,8,1,0,0,0,56,4093,0,355,644,353,Weekly,2,991
+PUB_0771,2024-11-24,Analyst_12,Junior,Macro,Flash Note,Portal,EMEA,Tier 2,1350,0,7,0,22,0,1,68,15,0,0,1,0,53,2606,0,751,509,780,Daily,28,516
+PUB_0772,2024-01-20,Analyst_28,Senior,Fixed Income,Morning Brief,Email,APAC,Tier 3,1888,1,5,0,14,0,1,30,12,0,0,1,0,36,1637,1707,560,127,609,Bi-weekly,6,1314
+PUB_0773,2024-02-11,Analyst_18,Junior,Equity,Earnings Preview,Email,APAC,Tier 3,2668,1,1,0,27,1,0,81,16,0,0,1,0,82,497,1789,138,483,169,Weekly,29,300
+PUB_0774,2023-07-23,Analyst_12,Mid,Macro,Deep Dive,Web,EMEA,Tier 3,1993,1,6,1,33,0,0,55,18,0,0,0,0,36,4815,0,404,429,431,Weekly,10,683
+PUB_0775,2023-03-19,Analyst_4,Senior,Macro,Deep Dive,Portal,EMEA,Tier 3,736,0,6,1,22,0,0,58,17,0,0,0,0,13,3457,0,677,701,656,Daily,18,1212
+PUB_0776,2024-08-29,Analyst_25,Junior,Commodities,Earnings Preview,Portal,APAC,Tier 2,1856,0,4,0,29,0,0,72,14,0,0,1,0,43,1263,0,401,489,416,Weekly,12,369
+PUB_0777,2024-12-08,Analyst_9,Mid,Fixed Income,Flash Note,Email,Americas,Tier 3,1376,0,7,0,19,0,1,97,9,0,0,1,0,82,4925,250,738,832,764,Bi-weekly,4,1682
+PUB_0778,2024-10-04,Analyst_19,Senior,Fixed Income,Weekly Outlook,Web,Americas,Tier 2,1604,0,4,1,19,0,0,75,13,0,1,1,0,41,655,0,63,388,103,Bi-weekly,22,381
+PUB_0779,2023-09-06,Analyst_8,Senior,Commodities,Earnings Preview,Portal,APAC,Tier 2,2378,0,0,0,6,0,1,20,8,0,0,0,0,0,3761,0,306,473,314,Bi-weekly,21,1009
+PUB_0780,2023-04-15,Analyst_26,Senior,Credit,Morning Brief,Web,APAC,Tier 3,2684,1,8,0,19,1,0,75,12,0,0,1,0,22,1851,0,258,218,260,Bi-weekly,17,682
+PUB_0781,2024-12-14,Analyst_14,Senior,Credit,Flash Note,Portal,EMEA,Tier 1,482,0,3,1,13,1,0,23,8,0,0,0,0,63,3041,0,330,758,331,Weekly,15,1076
+PUB_0782,2023-11-05,Analyst_28,Senior,Commodities,Weekly Outlook,Portal,EMEA,Tier 3,2891,0,1,0,26,0,0,49,17,0,0,0,0,27,2757,0,492,311,522,Weekly,6,710
+PUB_0783,2024-12-01,Analyst_18,Mid,Macro,Deep Dive,Email,Americas,Tier 2,1769,1,3,0,22,0,0,31,12,0,0,1,0,3,2895,1337,438,776,418,Bi-weekly,16,1035
+PUB_0784,2024-09-06,Analyst_25,Mid,Equity,Morning Brief,Portal,Americas,Tier 3,1779,1,8,0,21,1,1,54,19,0,1,0,0,40,2429,0,666,628,630,Weekly,17,774
+PUB_0785,2023-05-04,Analyst_27,Junior,Credit,Deep Dive,Email,EMEA,Tier 3,1889,1,1,0,36,0,0,96,16,0,0,1,0,59,2059,352,532,278,501,Weekly,3,515
+PUB_0786,2024-08-02,Analyst_20,Managing Director,Equity,Morning Brief,Portal,Americas,Tier 3,1887,1,3,0,2,1,1,71,15,0,1,1,0,17,1701,0,196,210,150,Monthly,10,845
+PUB_0787,2023-02-12,Analyst_20,Senior,Fixed Income,Weekly Outlook,Email,Americas,Tier 3,959,1,1,0,30,0,1,50,15,0,0,1,0,62,2893,625,328,476,284,Daily,5,728
+PUB_0788,2023-12-22,Analyst_22,Mid,Fixed Income,Morning Brief,Portal,EMEA,Tier 3,459,0,4,0,27,0,0,87,16,0,1,1,0,60,1580,0,570,171,537,Daily,14,464
+PUB_0789,2024-06-29,Analyst_21,Mid,Credit,Weekly Outlook,Email,Americas,Tier 1,2759,1,2,0,7,0,1,71,16,0,0,1,1,48,1202,604,679,198,684,Weekly,26,941
+PUB_0790,2024-03-14,Analyst_18,Managing Director,Macro,Earnings Preview,Email,EMEA,Tier 2,1311,1,9,0,20,1,0,99,11,0,0,1,0,46,3376,174,655,754,679,Bi-weekly,29,2533
+PUB_0791,2024-11-08,Analyst_1,Junior,Fixed Income,Earnings Preview,Portal,APAC,Tier 1,352,0,1,0,31,0,1,26,7,0,1,0,0,38,1399,0,483,792,528,Weekly,21,533
+PUB_0792,2024-01-15,Analyst_20,Senior,Equity,Morning Brief,Email,Americas,Tier 3,2755,1,8,0,23,1,1,41,16,1,0,1,0,88,3979,1343,193,160,233,Weekly,13,1137
+PUB_0793,2023-03-12,Analyst_30,Senior,Macro,Flash Note,Web,EMEA,Tier 2,1345,0,4,0,13,0,1,94,8,0,0,0,0,81,1635,0,338,706,377,Monthly,26,770
+PUB_0794,2024-06-02,Analyst_22,Senior,Credit,Deep Dive,Web,Americas,Tier 3,1353,0,9,1,17,0,0,75,11,0,0,1,0,5,177,0,435,270,429,Bi-weekly,6,658
+PUB_0795,2024-10-25,Analyst_27,Junior,Fixed Income,Morning Brief,Web,APAC,Tier 1,2607,1,4,0,4,0,0,77,19,0,1,0,0,82,2931,0,63,113,40,Bi-weekly,12,71
+PUB_0796,2023-12-16,Analyst_23,Managing Director,Credit,Morning Brief,Email,APAC,Tier 1,1528,1,0,0,14,0,0,83,9,0,0,1,0,52,3510,181,306,687,305,Daily,26,1289
+PUB_0797,2023-01-13,Analyst_9,Managing Director,Macro,Deep Dive,Portal,APAC,Tier 3,1794,1,5,0,20,0,0,31,11,0,1,1,0,75,2821,0,395,779,346,Weekly,8,1327
+PUB_0798,2024-03-06,Analyst_1,Senior,Macro,Morning Brief,Web,EMEA,Tier 1,1789,0,6,0,13,0,1,26,6,0,0,0,0,24,3727,0,747,845,780,Weekly,5,1297
+PUB_0799,2024-05-16,Analyst_6,Senior,Macro,Deep Dive,Web,EMEA,Tier 1,1335,1,0,0,3,0,1,74,15,0,0,1,0,64,1632,0,394,403,411,Daily,15,564
+PUB_0800,2023-04-19,Analyst_9,Managing Director,Commodities,Weekly Outlook,Portal,APAC,Tier 1,2250,1,8,0,26,0,0,81,17,0,0,0,0,4,337,0,449,523,475,Daily,27,661
+PUB_0801,2024-03-19,Analyst_23,Senior,Commodities,Flash Note,Email,Americas,Tier 3,1149,1,7,0,26,0,0,92,6,0,0,0,0,64,2096,1074,256,797,229,Weekly,16,863
+PUB_0802,2024-01-06,Analyst_25,Junior,Equity,Earnings Preview,Email,Americas,Tier 3,653,1,7,0,18,1,0,96,8,0,0,0,0,7,3527,380,221,534,218,Weekly,1,656
+PUB_0803,2024-10-12,Analyst_10,Senior,Macro,Earnings Preview,Portal,APAC,Tier 2,1398,0,6,1,32,0,0,74,13,0,0,1,0,38,377,0,513,62,507,Bi-weekly,16,782
+PUB_0804,2024-04-15,Analyst_30,Senior,Macro,Flash Note,Portal,APAC,Tier 2,2039,0,4,0,14,0,0,55,13,1,0,1,0,42,3189,0,319,202,361,Bi-weekly,5,1028
+PUB_0805,2024-12-25,Analyst_11,Mid,Fixed Income,Deep Dive,Portal,Americas,Tier 2,1764,1,2,0,3,0,0,43,16,0,0,1,1,81,623,0,270,288,277,Daily,3,371
+PUB_0806,2023-06-06,Analyst_12,Senior,Equity,Flash Note,Email,APAC,Tier 3,1290,1,8,0,1,1,1,63,9,0,0,1,0,72,4375,1710,201,239,186,Weekly,20,1315
+PUB_0807,2024-03-21,Analyst_1,Managing Director,Equity,Deep Dive,Web,Americas,Tier 3,1564,1,6,0,26,1,0,36,11,0,0,1,0,4,4318,0,672,712,623,Daily,15,1427
+PUB_0808,2023-06-30,Analyst_6,Managing Director,Credit,Flash Note,Web,APAC,Tier 1,2184,1,9,1,24,0,0,21,13,0,1,1,1,3,3222,0,232,135,199,Weekly,13,923
+PUB_0809,2024-06-18,Analyst_28,Mid,Macro,Morning Brief,Portal,Americas,Tier 1,2109,1,9,0,35,0,1,32,12,0,0,1,0,0,4675,0,448,70,446,Weekly,24,1031
+PUB_0810,2024-10-28,Analyst_5,Junior,Fixed Income,Morning Brief,Email,APAC,Tier 1,2641,0,7,0,14,0,0,50,16,1,0,1,0,55,1897,192,121,743,78,Weekly,16,493
+PUB_0811,2023-10-04,Analyst_19,Managing Director,Credit,Flash Note,Portal,Americas,Tier 3,2556,1,5,0,3,1,1,47,12,0,0,1,0,44,2231,0,467,368,474,Monthly,23,1570
+PUB_0812,2024-09-22,Analyst_22,Senior,Commodities,Weekly Outlook,Portal,APAC,Tier 3,1411,0,4,0,13,0,1,79,18,0,0,0,0,64,915,0,332,207,296,Bi-weekly,11,571
+PUB_0813,2024-07-05,Analyst_13,Junior,Macro,Flash Note,Web,EMEA,Tier 2,1117,1,7,0,14,0,1,46,9,0,1,1,0,2,2794,0,123,530,89,Bi-weekly,21,512
+PUB_0814,2024-05-10,Analyst_3,Managing Director,Equity,Earnings Preview,Portal,APAC,Tier 1,2099,1,2,0,21,1,0,34,14,0,1,1,0,21,542,0,404,125,376,Monthly,2,901
+PUB_0815,2024-04-21,Analyst_5,Managing Director,Macro,Morning Brief,Portal,Americas,Tier 1,2260,1,6,1,26,0,0,98,17,0,0,0,0,71,3240,0,776,378,791,Bi-weekly,22,2121
+PUB_0816,2024-03-22,Analyst_24,Senior,Macro,Flash Note,Portal,Americas,Tier 3,2737,1,1,0,3,0,1,52,15,0,1,1,0,55,242,0,546,465,565,Bi-weekly,27,678
+PUB_0817,2024-08-29,Analyst_21,Senior,Commodities,Earnings Preview,Email,APAC,Tier 2,2672,0,2,0,4,0,1,39,11,0,0,1,0,17,4387,857,377,252,419,Weekly,6,1466
+PUB_0818,2023-10-02,Analyst_1,Mid,Fixed Income,Morning Brief,Web,EMEA,Tier 3,1188,0,1,0,36,0,0,61,19,1,0,0,0,24,1510,0,584,278,560,Weekly,26,347
+PUB_0819,2023-11-27,Analyst_3,Junior,Fixed Income,Weekly Outlook,Email,APAC,Tier 3,2155,0,4,0,1,0,0,31,17,1,0,0,0,47,4573,1115,629,201,615,Bi-weekly,26,1068
+PUB_0820,2023-09-09,Analyst_24,Mid,Fixed Income,Weekly Outlook,Portal,Americas,Tier 2,1480,1,6,0,33,0,0,92,16,0,0,1,0,83,634,0,496,824,494,Daily,27,542
+PUB_0821,2023-03-30,Analyst_17,Senior,Credit,Earnings Preview,Portal,Americas,Tier 2,967,1,9,0,7,0,0,42,8,0,0,0,1,30,1816,0,422,121,435,Bi-weekly,6,941
+PUB_0822,2023-10-13,Analyst_7,Junior,Fixed Income,Flash Note,Portal,APAC,Tier 1,932,1,9,0,11,0,0,91,10,0,1,1,0,29,3464,0,411,274,394,Monthly,14,791
+PUB_0823,2024-04-06,Analyst_13,Mid,Credit,Morning Brief,Email,APAC,Tier 3,2924,0,0,0,27,1,0,33,10,0,0,1,0,79,1132,602,142,522,109,Bi-weekly,25,474
+PUB_0824,2023-09-07,Analyst_14,Mid,Commodities,Weekly Outlook,Web,APAC,Tier 3,1942,1,9,1,14,0,0,44,19,0,0,0,0,65,3442,0,370,692,383,Daily,11,575
+PUB_0825,2024-04-20,Analyst_15,Senior,Macro,Earnings Preview,Email,Americas,Tier 3,436,1,8,0,22,0,1,96,10,0,0,1,0,80,1510,173,373,409,396,Weekly,8,1148
+PUB_0826,2024-08-06,Analyst_11,Managing Director,Credit,Deep Dive,Email,APAC,Tier 2,2246,1,0,1,16,0,0,50,13,0,0,1,0,9,4600,106,433,589,426,Bi-weekly,8,2272
+PUB_0827,2024-09-16,Analyst_6,Mid,Commodities,Flash Note,Web,Americas,Tier 1,1997,1,0,1,12,0,1,73,14,1,0,1,0,70,1272,0,624,860,590,Monthly,1,834
+PUB_0828,2024-11-15,Analyst_12,Mid,Credit,Deep Dive,Email,APAC,Tier 3,727,1,9,0,10,0,1,24,18,0,1,0,0,58,988,1529,785,658,793,Weekly,21,1223
+PUB_0829,2024-01-24,Analyst_10,Senior,Commodities,Flash Note,Portal,Americas,Tier 3,1775,1,7,0,24,0,0,32,14,0,0,1,0,50,3438,0,786,95,748,Bi-weekly,7,1398
+PUB_0830,2023-12-11,Analyst_24,Mid,Fixed Income,Morning Brief,Email,EMEA,Tier 2,2959,0,5,0,18,0,1,47,18,1,0,0,0,8,4617,657,395,50,396,Monthly,6,1194
+PUB_0831,2023-01-30,Analyst_11,Mid,Fixed Income,Earnings Preview,Web,Americas,Tier 3,1118,1,5,1,22,0,1,62,11,1,0,1,0,53,1741,0,152,727,161,Daily,21,531
+PUB_0832,2024-05-21,Analyst_25,Mid,Commodities,Morning Brief,Portal,EMEA,Tier 3,2488,0,8,0,9,0,0,66,11,0,0,1,0,61,571,0,264,294,255,Bi-weekly,8,406
+PUB_0833,2023-11-29,Analyst_19,Junior,Equity,Deep Dive,Email,Americas,Tier 3,1406,1,3,0,17,1,0,90,14,0,0,1,0,80,3040,1019,241,268,281,Weekly,19,400
+PUB_0834,2023-07-06,Analyst_20,Junior,Commodities,Earnings Preview,Web,EMEA,Tier 3,2524,1,7,1,38,1,0,57,9,0,0,1,0,8,646,0,721,663,734,Weekly,22,568
+PUB_0835,2024-05-14,Analyst_3,Mid,Credit,Morning Brief,Portal,APAC,Tier 3,497,1,3,0,13,0,1,86,11,0,0,1,0,8,4826,0,768,340,783,Weekly,21,1128
+PUB_0836,2023-08-06,Analyst_29,Mid,Commodities,Morning Brief,Web,Americas,Tier 3,2971,1,1,0,37,0,1,81,9,0,0,1,0,23,3697,0,243,507,226,Bi-weekly,24,557
+PUB_0837,2023-12-30,Analyst_2,Managing Director,Macro,Morning Brief,Web,EMEA,Tier 1,2295,1,7,0,6,0,0,58,16,0,0,1,1,38,2925,0,429,253,473,Bi-weekly,20,1262
+PUB_0838,2023-09-22,Analyst_5,Mid,Equity,Deep Dive,Email,EMEA,Tier 2,2748,1,6,0,21,1,1,56,6,0,1,0,0,74,3823,101,452,251,488,Weekly,8,1091
+PUB_0839,2023-12-15,Analyst_6,Senior,Commodities,Morning Brief,Email,EMEA,Tier 3,770,1,3,0,36,0,0,27,12,0,1,1,0,7,463,1623,713,615,733,Monthly,26,1560
+PUB_0840,2023-10-14,Analyst_25,Senior,Equity,Weekly Outlook,Portal,Americas,Tier 2,2565,1,8,0,7,1,0,71,19,0,0,0,0,24,2266,0,798,531,811,Bi-weekly,14,1539
+PUB_0841,2024-09-02,Analyst_20,Junior,Equity,Flash Note,Web,APAC,Tier 2,2248,1,8,0,36,0,1,52,15,1,0,1,0,65,3409,0,649,841,631,Bi-weekly,18,624
+PUB_0842,2024-12-19,Analyst_2,Senior,Commodities,Weekly Outlook,Email,APAC,Tier 2,1228,1,7,1,25,0,0,61,16,0,0,1,0,9,645,1928,60,560,21,Weekly,25,598
+PUB_0843,2023-10-10,Analyst_22,Junior,Commodities,Deep Dive,Portal,Americas,Tier 2,2310,1,0,0,11,1,1,95,17,0,0,0,0,23,3340,0,236,327,261,Daily,29,460
+PUB_0844,2024-07-23,Analyst_3,Managing Director,Fixed Income,Deep Dive,Web,Americas,Tier 3,2979,1,6,1,14,0,1,46,11,0,0,1,0,79,4829,0,775,65,743,Weekly,16,1709
+PUB_0845,2023-01-11,Analyst_9,Junior,Commodities,Morning Brief,Web,Americas,Tier 3,1205,1,4,1,29,0,1,27,14,0,0,1,0,82,2036,0,64,574,22,Monthly,9,403
+PUB_0846,2024-06-13,Analyst_15,Mid,Commodities,Earnings Preview,Email,Americas,Tier 2,2522,1,6,0,10,0,0,42,12,0,0,1,0,58,1062,1911,346,405,369,Daily,15,587
+PUB_0847,2023-07-15,Analyst_22,Junior,Fixed Income,Weekly Outlook,Email,Americas,Tier 1,322,0,8,0,5,1,1,83,18,0,0,0,0,30,3105,1954,460,405,426,Monthly,26,973
+PUB_0848,2023-03-29,Analyst_14,Managing Director,Fixed Income,Deep Dive,Email,EMEA,Tier 1,534,0,1,0,8,1,1,39,12,0,0,1,1,10,3906,1282,634,879,633,Bi-weekly,10,2867
+PUB_0849,2023-09-05,Analyst_16,Senior,Macro,Flash Note,Portal,EMEA,Tier 3,1424,1,3,0,5,0,0,35,7,0,0,0,0,5,982,0,101,648,89,Bi-weekly,29,477
+PUB_0850,2024-02-21,Analyst_20,Senior,Commodities,Deep Dive,Email,APAC,Tier 3,1228,0,3,0,24,0,0,36,17,0,0,0,0,69,3940,585,689,127,679,Bi-weekly,22,1738
+PUB_0851,2024-05-15,Analyst_15,Junior,Credit,Weekly Outlook,Email,Americas,Tier 2,822,1,1,0,26,0,0,99,16,0,0,1,0,31,970,1415,77,116,36,Weekly,16,92
+PUB_0852,2024-07-22,Analyst_14,Senior,Equity,Flash Note,Portal,EMEA,Tier 3,2108,1,2,0,6,0,1,38,14,1,0,1,0,38,4711,0,626,772,587,Bi-weekly,4,1666
+PUB_0853,2023-09-04,Analyst_9,Mid,Fixed Income,Flash Note,Portal,EMEA,Tier 3,730,1,7,1,16,0,1,27,15,1,0,1,0,47,3085,0,66,263,94,Weekly,20,535
+PUB_0854,2024-12-08,Analyst_7,Managing Director,Commodities,Morning Brief,Web,EMEA,Tier 3,1092,1,8,0,36,0,0,57,14,0,0,1,0,12,965,0,400,746,444,Bi-weekly,13,824
+PUB_0855,2024-05-02,Analyst_25,Mid,Credit,Earnings Preview,Email,APAC,Tier 3,1929,1,5,0,12,0,1,57,11,0,0,1,0,58,4409,787,477,498,441,Bi-weekly,22,1233
+PUB_0856,2024-10-23,Analyst_17,Junior,Equity,Flash Note,Email,Americas,Tier 2,2036,1,9,0,11,1,0,72,18,0,0,0,0,66,3303,779,699,482,676,Bi-weekly,5,953
+PUB_0857,2024-12-29,Analyst_4,Junior,Commodities,Morning Brief,Portal,APAC,Tier 3,832,1,1,1,3,1,1,50,8,0,0,0,1,55,2997,0,278,594,231,Bi-weekly,22,665
+PUB_0858,2024-05-17,Analyst_12,Mid,Credit,Earnings Preview,Email,EMEA,Tier 2,2046,1,1,0,37,0,0,63,6,0,1,0,0,40,2344,1099,259,164,244,Daily,7,454
+PUB_0859,2024-04-03,Analyst_14,Senior,Equity,Morning Brief,Portal,EMEA,Tier 3,1975,1,6,1,6,0,0,79,9,0,0,1,0,55,118,0,480,836,494,Daily,23,686
+PUB_0860,2023-01-18,Analyst_4,Junior,Credit,Deep Dive,Portal,APAC,Tier 3,1616,0,7,0,19,0,0,95,19,0,0,0,0,34,741,0,343,469,390,Bi-weekly,9,317
+PUB_0861,2023-04-06,Analyst_10,Senior,Fixed Income,Deep Dive,Email,EMEA,Tier 3,1212,1,7,0,18,0,0,36,19,0,0,0,0,37,3183,1075,792,548,788,Weekly,8,1708
+PUB_0862,2023-10-29,Analyst_22,Mid,Commodities,Earnings Preview,Web,APAC,Tier 3,1424,1,5,0,16,0,1,98,8,0,0,0,0,80,429,0,631,759,661,Weekly,29,620
+PUB_0863,2023-08-15,Analyst_22,Senior,Credit,Morning Brief,Portal,EMEA,Tier 1,1825,1,9,0,23,0,0,92,19,0,0,0,0,66,965,0,153,429,141,Weekly,16,356
+PUB_0864,2024-02-19,Analyst_19,Mid,Credit,Weekly Outlook,Email,Americas,Tier 2,1627,1,7,0,37,0,0,58,17,1,0,0,0,33,873,199,253,192,240,Daily,6,250
+PUB_0865,2024-12-09,Analyst_16,Mid,Commodities,Morning Brief,Web,EMEA,Tier 3,2887,1,0,0,9,0,0,61,6,1,0,0,0,75,4587,0,102,789,95,Daily,28,406
+PUB_0866,2023-09-07,Analyst_17,Senior,Equity,Weekly Outlook,Web,Americas,Tier 3,1323,1,8,0,3,0,0,67,8,0,0,0,0,87,4832,0,424,681,424,Bi-weekly,16,1121
+PUB_0867,2023-11-10,Analyst_22,Junior,Commodities,Flash Note,Web,APAC,Tier 1,1876,1,0,1,8,0,1,31,19,0,1,0,0,69,2454,0,103,73,149,Bi-weekly,6,223
+PUB_0868,2024-11-10,Analyst_10,Junior,Credit,Flash Note,Web,APAC,Tier 1,1678,0,2,0,38,0,1,37,19,0,0,0,0,10,3438,0,325,588,359,Weekly,14,197
+PUB_0869,2024-08-18,Analyst_2,Managing Director,Macro,Flash Note,Email,Americas,Tier 1,1819,0,8,1,4,0,0,98,9,0,0,1,0,26,3618,1944,384,124,359,Monthly,21,2226
+PUB_0870,2024-01-13,Analyst_8,Managing Director,Equity,Morning Brief,Email,Americas,Tier 3,1981,1,4,0,12,1,0,25,18,0,0,0,0,47,3042,517,80,802,65,Daily,1,1003
+PUB_0871,2024-04-29,Analyst_13,Mid,Credit,Earnings Preview,Email,Americas,Tier 3,2297,1,8,0,31,0,0,62,18,1,0,0,0,23,2667,119,184,584,202,Weekly,25,596
+PUB_0872,2024-07-20,Analyst_20,Mid,Macro,Weekly Outlook,Email,APAC,Tier 2,526,1,8,0,25,0,1,54,19,0,0,0,0,17,1774,250,107,722,153,Bi-weekly,9,506
+PUB_0873,2024-06-27,Analyst_2,Senior,Equity,Morning Brief,Web,Americas,Tier 2,1559,1,5,0,16,1,1,73,13,0,0,1,1,26,2783,0,154,90,104,Bi-weekly,25,714
+PUB_0874,2023-12-19,Analyst_1,Mid,Fixed Income,Flash Note,Web,Americas,Tier 3,1172,1,0,0,14,0,1,81,14,0,0,1,0,53,3480,0,315,799,317,Weekly,27,517
+PUB_0875,2024-03-11,Analyst_7,Junior,Commodities,Deep Dive,Portal,EMEA,Tier 3,1191,1,9,0,13,0,1,88,8,1,0,0,0,54,839,0,571,800,526,Monthly,24,662
+PUB_0876,2024-07-17,Analyst_10,Junior,Equity,Flash Note,Web,EMEA,Tier 2,1778,0,6,0,7,1,1,35,11,0,0,1,0,20,1645,0,545,617,531,Monthly,13,793
+PUB_0877,2023-12-05,Analyst_7,Senior,Equity,Earnings Preview,Web,Americas,Tier 3,1336,1,5,0,12,1,1,27,15,0,0,1,0,58,4664,0,302,462,253,Daily,26,758
+PUB_0878,2023-12-27,Analyst_25,Senior,Credit,Flash Note,Portal,APAC,Tier 2,2557,0,8,0,37,0,0,50,16,0,0,1,1,33,2359,0,344,464,362,Daily,29,732
+PUB_0879,2024-12-20,Analyst_5,Junior,Macro,Earnings Preview,Email,APAC,Tier 2,696,0,6,1,4,0,0,29,10,0,1,1,0,57,1235,973,717,498,756,Bi-weekly,19,985
+PUB_0880,2024-04-09,Analyst_25,Mid,Equity,Deep Dive,Email,EMEA,Tier 3,1423,1,3,0,2,1,0,75,11,0,0,1,0,47,973,1206,207,659,197,Weekly,17,610
+PUB_0881,2023-10-05,Analyst_9,Mid,Commodities,Weekly Outlook,Email,EMEA,Tier 3,2378,0,6,0,35,0,0,95,9,0,0,1,0,53,4655,932,598,707,598,Daily,11,1115
+PUB_0882,2023-11-10,Analyst_10,Senior,Equity,Flash Note,Email,Americas,Tier 3,948,0,1,0,3,1,1,89,15,0,1,1,0,17,2400,635,680,823,676,Bi-weekly,28,1840
+PUB_0883,2023-09-15,Analyst_11,Junior,Equity,Earnings Preview,Email,Americas,Tier 3,628,0,5,0,4,1,0,39,11,0,1,1,0,2,851,1347,116,485,78,Weekly,28,407
+PUB_0884,2023-08-25,Analyst_4,Junior,Credit,Weekly Outlook,Portal,APAC,Tier 3,1782,1,5,0,38,0,0,24,12,0,1,1,0,23,953,0,348,601,373,Weekly,8,260
+PUB_0885,2023-05-04,Analyst_1,Senior,Equity,Deep Dive,Portal,EMEA,Tier 1,1251,1,1,0,12,0,0,42,14,0,0,1,0,0,3832,0,512,754,530,Daily,23,1140
+PUB_0886,2023-07-17,Analyst_16,Junior,Macro,Earnings Preview,Email,EMEA,Tier 2,2305,1,3,0,19,0,0,28,15,1,0,1,0,5,2383,558,774,288,789,Bi-weekly,29,809
+PUB_0887,2023-11-20,Analyst_24,Senior,Credit,Deep Dive,Web,Americas,Tier 1,2316,1,7,0,10,0,0,77,12,1,0,1,0,18,1429,0,150,91,158,Weekly,5,496
+PUB_0888,2023-05-03,Analyst_14,Mid,Fixed Income,Deep Dive,Web,Americas,Tier 2,2968,1,7,0,1,0,1,78,11,0,0,1,0,85,577,0,105,783,122,Weekly,10,413
+PUB_0889,2024-07-02,Analyst_6,Junior,Fixed Income,Morning Brief,Web,Americas,Tier 3,2178,1,7,0,17,0,1,99,6,0,0,0,0,42,2826,0,381,757,389,Weekly,7,498
+PUB_0890,2024-12-07,Analyst_5,Mid,Credit,Weekly Outlook,Portal,Americas,Tier 3,1496,0,7,0,16,0,1,73,7,0,0,0,0,7,3191,0,442,849,482,Weekly,10,943
+PUB_0891,2023-07-09,Analyst_13,Senior,Macro,Morning Brief,Web,EMEA,Tier 1,2072,1,0,1,9,0,0,65,6,0,0,0,0,68,4330,0,792,59,751,Monthly,4,1397
+PUB_0892,2023-07-16,Analyst_18,Managing Director,Credit,Deep Dive,Portal,Americas,Tier 2,461,1,1,0,9,0,0,41,14,0,0,1,0,51,4605,0,430,796,392,Monthly,9,1845
+PUB_0893,2023-08-10,Analyst_23,Senior,Credit,Earnings Preview,Email,EMEA,Tier 3,2051,1,3,0,9,1,0,83,15,0,0,1,0,72,1369,1479,141,886,92,Weekly,27,734
+PUB_0894,2024-05-10,Analyst_8,Mid,Credit,Flash Note,Web,Americas,Tier 2,1075,1,8,1,12,0,1,27,15,0,1,1,0,46,4281,0,496,314,535,Bi-weekly,26,881
+PUB_0895,2023-10-11,Analyst_17,Senior,Credit,Morning Brief,Web,EMEA,Tier 3,2127,1,2,1,15,0,0,39,14,0,0,1,0,84,2703,0,158,630,122,Bi-weekly,14,551
+PUB_0896,2024-08-26,Analyst_18,Mid,Equity,Flash Note,Email,APAC,Tier 3,2621,1,5,0,2,1,0,70,12,1,0,1,0,27,1569,1346,366,494,361,Bi-weekly,2,819
+PUB_0897,2024-06-21,Analyst_27,Mid,Commodities,Morning Brief,Email,EMEA,Tier 3,1351,1,6,0,11,0,1,97,18,0,1,0,0,45,477,612,217,188,223,Weekly,25,336
+PUB_0898,2024-09-03,Analyst_22,Managing Director,Fixed Income,Weekly Outlook,Web,Americas,Tier 1,2673,1,7,1,11,0,0,58,7,0,0,0,0,3,1780,0,484,780,443,Daily,9,993
+PUB_0899,2023-10-17,Analyst_26,Junior,Macro,Flash Note,Web,EMEA,Tier 2,1239,1,6,0,8,0,0,56,11,0,0,1,0,87,341,0,491,245,462,Bi-weekly,21,203
+PUB_0900,2023-04-13,Analyst_12,Junior,Equity,Morning Brief,Web,EMEA,Tier 3,839,1,2,1,32,1,0,69,16,0,0,1,0,7,1019,0,267,123,305,Daily,27,249
+PUB_0901,2023-07-18,Analyst_3,Mid,Fixed Income,Deep Dive,Web,EMEA,Tier 3,2835,1,5,0,6,0,0,53,9,0,0,1,0,60,169,0,271,664,299,Daily,1,417
+PUB_0902,2023-10-31,Analyst_13,Junior,Commodities,Earnings Preview,Web,APAC,Tier 1,1121,1,4,0,20,0,0,94,6,0,0,0,0,16,4024,0,722,274,748,Bi-weekly,23,664
+PUB_0903,2023-08-21,Analyst_28,Junior,Credit,Deep Dive,Portal,APAC,Tier 3,1761,0,9,0,39,0,0,52,6,1,0,0,0,33,2186,0,577,684,534,Monthly,10,620
+PUB_0904,2024-01-05,Analyst_24,Senior,Commodities,Weekly Outlook,Web,APAC,Tier 1,1388,1,3,0,35,0,1,50,17,0,1,0,0,19,2107,0,327,151,297,Weekly,10,487
+PUB_0905,2023-07-03,Analyst_2,Mid,Fixed Income,Weekly Outlook,Web,Americas,Tier 3,655,0,0,1,8,0,1,73,10,1,0,1,0,79,900,0,618,313,652,Bi-weekly,20,666
+PUB_0906,2023-11-06,Analyst_14,Managing Director,Fixed Income,Morning Brief,Portal,APAC,Tier 2,534,1,6,1,34,0,0,63,17,1,0,0,0,73,2879,0,623,210,594,Weekly,25,1495
+PUB_0907,2023-01-15,Analyst_1,Senior,Equity,Deep Dive,Email,APAC,Tier 3,2574,1,7,0,19,1,1,53,7,0,0,0,0,33,855,770,515,282,561,Monthly,22,1279
+PUB_0908,2024-12-26,Analyst_15,Mid,Equity,Flash Note,Email,Americas,Tier 2,1848,1,1,0,7,1,0,90,9,0,0,1,1,42,2095,643,651,540,645,Weekly,29,1065
+PUB_0909,2024-06-30,Analyst_30,Mid,Macro,Morning Brief,Email,EMEA,Tier 2,2396,0,6,1,31,0,0,81,6,0,0,0,1,9,1421,1474,633,836,673,Weekly,3,1246
+PUB_0910,2023-05-10,Analyst_3,Mid,Credit,Morning Brief,Portal,Americas,Tier 1,417,1,5,0,18,0,0,42,9,0,0,1,0,29,2430,0,79,819,68,Weekly,6,410
+PUB_0911,2023-10-08,Analyst_28,Senior,Commodities,Deep Dive,Portal,EMEA,Tier 2,2401,0,4,0,14,0,1,65,16,0,0,1,0,24,209,0,408,360,379,Weekly,29,652
+PUB_0912,2023-02-16,Analyst_11,Mid,Credit,Earnings Preview,Email,Americas,Tier 3,1973,1,3,0,39,0,0,75,11,0,0,1,0,56,1116,1976,337,700,316,Daily,26,517
+PUB_0913,2023-02-25,Analyst_19,Senior,Commodities,Weekly Outlook,Email,Americas,Tier 3,2912,1,1,0,36,0,1,26,15,0,0,1,0,62,3965,906,135,276,146,Daily,6,838
+PUB_0914,2024-07-20,Analyst_14,Mid,Credit,Flash Note,Email,EMEA,Tier 2,1367,1,9,0,17,0,1,80,9,0,0,1,0,70,124,1942,283,322,305,Bi-weekly,21,684
+PUB_0915,2023-10-27,Analyst_19,Senior,Fixed Income,Weekly Outlook,Web,EMEA,Tier 2,2400,1,5,0,37,0,0,22,6,0,1,0,0,46,2938,0,796,366,790,Weekly,2,963
+PUB_0916,2024-12-15,Analyst_13,Mid,Fixed Income,Morning Brief,Portal,Americas,Tier 3,857,1,4,0,9,0,1,57,12,0,0,1,0,83,837,0,362,135,346,Bi-weekly,26,468
+PUB_0917,2023-05-10,Analyst_23,Mid,Credit,Earnings Preview,Web,APAC,Tier 3,2115,0,1,1,20,0,1,53,19,0,0,0,0,80,279,0,414,340,445,Daily,26,278
+PUB_0918,2024-10-15,Analyst_21,Managing Director,Macro,Morning Brief,Portal,Americas,Tier 3,2305,1,9,0,28,0,0,63,7,0,0,0,0,2,331,0,318,518,309,Bi-weekly,18,713
+PUB_0919,2024-05-17,Analyst_14,Senior,Fixed Income,Earnings Preview,Portal,Americas,Tier 2,697,1,6,0,20,0,0,49,14,0,1,1,0,45,2017,0,747,778,701,Weekly,23,1193
+PUB_0920,2023-04-16,Analyst_10,Junior,Macro,Deep Dive,Web,Americas,Tier 2,974,1,5,0,36,0,1,36,18,0,0,0,0,35,442,0,180,627,156,Daily,2,12
+PUB_0921,2023-01-13,Analyst_4,Managing Director,Fixed Income,Weekly Outlook,Email,APAC,Tier 3,686,1,8,0,27,0,1,78,8,0,1,0,0,25,4672,1530,400,818,419,Weekly,12,2170
+PUB_0922,2024-08-10,Analyst_13,Mid,Equity,Morning Brief,Portal,APAC,Tier 1,2458,0,9,0,8,1,0,29,13,0,0,1,0,9,2723,0,229,696,240,Daily,22,646
+PUB_0923,2023-10-19,Analyst_1,Managing Director,Equity,Earnings Preview,Web,APAC,Tier 3,2961,1,4,0,32,0,0,37,18,0,0,0,0,33,554,0,529,453,510,Bi-weekly,5,802
+PUB_0924,2024-04-25,Analyst_11,Senior,Credit,Earnings Preview,Web,EMEA,Tier 2,2364,1,8,0,1,1,0,64,13,0,0,1,0,77,4484,0,212,476,169,Bi-weekly,20,812
+PUB_0925,2024-05-05,Analyst_6,Mid,Commodities,Morning Brief,Portal,Americas,Tier 3,1183,1,8,0,17,0,0,78,8,0,0,0,0,7,4725,0,145,424,179,Weekly,7,664
+PUB_0926,2024-03-27,Analyst_26,Junior,Equity,Weekly Outlook,Email,EMEA,Tier 1,840,0,0,0,9,1,0,81,9,0,0,1,1,54,2376,976,559,616,526,Daily,24,740
+PUB_0927,2023-12-15,Analyst_20,Mid,Fixed Income,Deep Dive,Portal,APAC,Tier 3,470,0,4,0,20,0,1,78,7,0,1,0,0,9,695,0,414,804,441,Weekly,16,547
+PUB_0928,2023-07-08,Analyst_15,Senior,Fixed Income,Deep Dive,Portal,APAC,Tier 2,2756,1,8,0,32,0,1,68,9,0,0,1,0,56,3974,0,402,301,366,Weekly,20,1041
+PUB_0929,2023-02-22,Analyst_27,Senior,Equity,Flash Note,Email,Americas,Tier 3,1039,1,6,0,2,0,0,82,16,0,0,1,0,78,4630,1688,485,582,460,Bi-weekly,1,1810
+PUB_0930,2023-09-16,Analyst_23,Mid,Equity,Flash Note,Web,EMEA,Tier 1,1701,0,5,0,32,1,1,51,16,0,0,1,0,85,4597,0,132,356,134,Daily,1,428
+PUB_0931,2024-05-04,Analyst_30,Junior,Commodities,Flash Note,Web,APAC,Tier 3,2577,1,5,0,9,0,1,29,16,0,0,1,0,44,2769,0,274,479,267,Daily,17,289
+PUB_0932,2023-04-27,Analyst_12,Senior,Equity,Weekly Outlook,Email,EMEA,Tier 3,418,1,6,1,30,1,0,30,19,0,0,0,0,49,2235,596,461,724,442,Weekly,27,1279
+PUB_0933,2023-03-08,Analyst_3,Managing Director,Credit,Flash Note,Web,APAC,Tier 3,2812,1,0,1,20,0,0,89,14,0,0,1,0,63,4064,0,784,313,761,Weekly,1,1685
+PUB_0934,2024-02-15,Analyst_14,Senior,Commodities,Flash Note,Web,Americas,Tier 3,2451,1,3,0,38,0,0,81,7,0,0,0,0,1,1665,0,167,117,155,Daily,21,153
+PUB_0935,2024-05-18,Analyst_28,Junior,Equity,Weekly Outlook,Email,EMEA,Tier 3,2295,1,0,0,1,0,1,66,17,0,0,0,0,44,408,486,531,156,512,Weekly,20,404
+PUB_0936,2023-03-17,Analyst_4,Mid,Fixed Income,Flash Note,Email,Americas,Tier 3,2005,1,5,0,5,0,0,53,17,0,1,0,0,61,442,228,241,449,267,Weekly,13,357
+PUB_0937,2024-08-13,Analyst_8,Junior,Equity,Deep Dive,Web,EMEA,Tier 2,2022,1,3,1,35,0,1,36,18,0,0,0,0,13,535,0,640,628,668,Weekly,9,370
+PUB_0938,2024-10-06,Analyst_14,Managing Director,Credit,Morning Brief,Portal,Americas,Tier 3,2522,1,0,0,36,0,0,73,8,0,0,0,0,73,276,0,639,248,606,Weekly,15,955
+PUB_0939,2024-12-03,Analyst_19,Junior,Credit,Deep Dive,Web,APAC,Tier 2,1997,0,8,0,1,0,0,95,16,0,0,1,0,14,238,0,708,241,727,Bi-weekly,3,360
+PUB_0940,2023-02-24,Analyst_13,Senior,Fixed Income,Deep Dive,Email,APAC,Tier 1,1744,0,3,0,14,0,0,59,16,0,1,1,0,13,293,683,156,563,116,Daily,14,357
+PUB_0941,2023-06-05,Analyst_17,Mid,Commodities,Earnings Preview,Portal,EMEA,Tier 1,2059,1,5,0,9,0,0,38,9,1,0,1,0,30,3357,0,431,818,412,Daily,23,820
+PUB_0942,2023-06-02,Analyst_3,Senior,Fixed Income,Morning Brief,Portal,Americas,Tier 2,1824,0,6,1,30,1,1,86,10,0,1,1,0,28,3335,0,439,491,408,Weekly,11,1162
+PUB_0943,2024-07-30,Analyst_13,Senior,Equity,Deep Dive,Portal,APAC,Tier 3,964,1,7,0,24,0,1,72,6,0,0,0,0,26,1042,0,293,50,339,Weekly,24,493
+PUB_0944,2023-11-08,Analyst_28,Senior,Fixed Income,Morning Brief,Portal,Americas,Tier 3,332,0,8,0,4,0,0,83,12,0,0,1,0,84,4720,0,634,407,623,Weekly,22,1476
+PUB_0945,2023-03-29,Analyst_10,Mid,Commodities,Deep Dive,Portal,Americas,Tier 3,2402,0,8,0,14,0,1,66,19,0,0,0,1,8,3979,0,517,164,474,Bi-weekly,12,1001
+PUB_0946,2023-09-12,Analyst_24,Junior,Macro,Weekly Outlook,Portal,APAC,Tier 2,2866,1,7,0,25,0,1,25,15,0,0,1,0,19,3213,0,587,649,571,Monthly,13,802
+PUB_0947,2023-05-02,Analyst_11,Junior,Fixed Income,Weekly Outlook,Portal,Americas,Tier 2,2359,1,9,0,4,0,0,35,12,0,0,1,0,57,3062,0,259,246,277,Weekly,26,434
+PUB_0948,2024-07-25,Analyst_8,Managing Director,Commodities,Flash Note,Email,APAC,Tier 1,1851,1,2,0,25,0,1,91,14,0,0,1,0,78,4936,1392,653,653,701,Bi-weekly,13,2922
+PUB_0949,2024-03-02,Analyst_11,Managing Director,Macro,Weekly Outlook,Portal,APAC,Tier 2,1019,0,1,1,10,0,0,37,9,0,0,1,0,87,1053,0,686,323,713,Weekly,1,1349
+PUB_0950,2024-09-12,Analyst_25,Senior,Commodities,Morning Brief,Web,Americas,Tier 2,2902,0,4,0,35,0,0,71,19,0,0,0,0,48,1402,0,122,209,92,Weekly,24,207
+PUB_0951,2024-09-02,Analyst_6,Senior,Commodities,Earnings Preview,Portal,APAC,Tier 1,2720,1,0,0,7,0,0,67,19,1,0,0,0,56,3481,0,684,222,657,Monthly,10,1488
+PUB_0952,2024-09-25,Analyst_3,Senior,Macro,Flash Note,Portal,EMEA,Tier 2,783,1,2,1,13,0,1,62,11,0,0,1,1,15,2980,0,358,594,324,Bi-weekly,3,1020
+PUB_0953,2023-08-20,Analyst_17,Junior,Fixed Income,Deep Dive,Portal,APAC,Tier 3,1272,1,0,0,4,1,0,58,16,0,0,1,0,74,2287,0,745,507,712,Monthly,24,708
+PUB_0954,2024-06-19,Analyst_21,Managing Director,Macro,Weekly Outlook,Portal,APAC,Tier 3,2970,1,2,0,36,1,1,68,7,0,0,0,0,7,4987,0,748,634,795,Daily,28,1717
+PUB_0955,2024-01-25,Analyst_4,Mid,Fixed Income,Flash Note,Portal,Americas,Tier 3,606,1,3,0,14,0,1,31,17,0,0,0,0,66,645,0,759,482,720,Daily,4,747
+PUB_0956,2024-04-06,Analyst_17,Mid,Commodities,Weekly Outlook,Email,APAC,Tier 3,756,1,6,1,18,0,0,29,17,0,0,0,0,18,2027,1340,639,530,604,Weekly,16,1065
+PUB_0957,2024-03-29,Analyst_17,Senior,Fixed Income,Flash Note,Web,Americas,Tier 3,2507,1,4,0,8,0,0,90,19,0,1,0,1,66,4252,0,235,504,188,Bi-weekly,8,788
+PUB_0958,2023-11-01,Analyst_7,Junior,Credit,Morning Brief,Portal,EMEA,Tier 2,630,1,4,1,32,0,0,74,9,0,0,1,0,35,104,0,302,245,340,Daily,16,260
+PUB_0959,2024-08-25,Analyst_29,Junior,Macro,Morning Brief,Portal,APAC,Tier 3,524,1,0,0,27,0,0,20,7,0,0,0,0,88,3581,0,62,845,45,Monthly,27,248
+PUB_0960,2024-03-15,Analyst_25,Senior,Macro,Deep Dive,Email,EMEA,Tier 3,1779,1,7,0,37,1,0,68,15,0,1,1,0,59,3353,153,348,648,389,Weekly,17,1142
+PUB_0961,2023-11-09,Analyst_12,Junior,Equity,Flash Note,Web,APAC,Tier 1,1382,1,3,0,23,1,0,55,10,0,0,1,0,35,1462,0,125,358,120,Weekly,19,325
+PUB_0962,2024-08-05,Analyst_12,Senior,Commodities,Earnings Preview,Web,EMEA,Tier 2,943,1,9,0,7,0,0,40,12,1,0,1,0,10,1920,0,100,785,124,Bi-weekly,22,713
+PUB_0963,2024-09-27,Analyst_24,Mid,Commodities,Morning Brief,Portal,APAC,Tier 3,915,0,4,0,12,0,0,56,18,0,1,0,1,50,2763,0,198,605,224,Bi-weekly,15,638
+PUB_0964,2023-03-03,Analyst_27,Mid,Fixed Income,Deep Dive,Portal,Americas,Tier 2,494,0,1,0,25,0,0,43,6,0,1,0,0,79,3038,0,780,897,760,Daily,16,760
+PUB_0965,2024-09-16,Analyst_21,Mid,Credit,Flash Note,Portal,EMEA,Tier 3,788,1,0,1,3,0,0,74,15,1,0,1,0,54,1373,0,171,543,145,Monthly,15,496
+PUB_0966,2023-04-12,Analyst_27,Mid,Commodities,Deep Dive,Web,Americas,Tier 3,2504,1,8,0,26,0,1,44,15,0,0,1,0,53,3426,0,260,488,283,Weekly,25,528
+PUB_0967,2023-08-01,Analyst_5,Senior,Credit,Morning Brief,Email,Americas,Tier 1,2957,0,1,0,4,0,1,26,12,0,0,1,0,16,3759,819,329,699,302,Daily,2,1171
+PUB_0968,2024-10-02,Analyst_8,Mid,Equity,Deep Dive,Portal,EMEA,Tier 2,1549,1,5,0,36,0,0,90,15,0,0,1,0,61,3045,0,587,831,601,Monthly,11,924
+PUB_0969,2023-08-05,Analyst_4,Senior,Macro,Flash Note,Portal,APAC,Tier 2,2759,1,0,0,15,0,0,90,18,0,0,0,0,41,3118,0,734,408,708,Monthly,1,1411
+PUB_0970,2023-09-28,Analyst_5,Mid,Credit,Weekly Outlook,Email,APAC,Tier 1,1402,1,0,0,32,1,0,43,11,0,0,1,1,23,1231,935,205,85,182,Bi-weekly,15,416
+PUB_0971,2024-11-07,Analyst_9,Senior,Commodities,Earnings Preview,Email,APAC,Tier 1,1447,1,8,0,29,0,0,30,11,0,0,1,0,16,4863,610,287,83,272,Monthly,26,1555
+PUB_0972,2023-03-25,Analyst_7,Managing Director,Macro,Morning Brief,Portal,Americas,Tier 3,2818,1,3,0,10,0,0,92,17,0,0,0,1,47,2736,0,425,137,456,Bi-weekly,19,1229
+PUB_0973,2023-06-10,Analyst_6,Senior,Credit,Flash Note,Email,Americas,Tier 2,1541,0,8,0,21,0,1,31,13,0,0,1,0,83,3129,1555,131,707,86,Monthly,4,1233
+PUB_0974,2023-09-03,Analyst_20,Mid,Credit,Flash Note,Portal,EMEA,Tier 2,815,0,4,0,16,0,1,54,13,0,0,1,0,85,3119,0,541,65,556,Daily,11,767
+PUB_0975,2023-06-27,Analyst_5,Junior,Fixed Income,Deep Dive,Web,Americas,Tier 2,1925,0,6,1,19,0,0,82,11,0,0,1,1,69,4477,0,405,794,421,Bi-weekly,5,679
+PUB_0976,2024-07-19,Analyst_25,Mid,Macro,Morning Brief,Web,APAC,Tier 3,1427,1,0,1,29,0,1,87,8,0,1,0,0,6,3259,0,322,470,343,Bi-weekly,3,630
+PUB_0977,2023-03-18,Analyst_25,Senior,Credit,Weekly Outlook,Email,EMEA,Tier 2,692,0,5,0,18,1,0,76,10,0,0,1,0,13,353,503,629,602,673,Daily,13,1205
+PUB_0978,2023-06-10,Analyst_21,Junior,Fixed Income,Weekly Outlook,Email,APAC,Tier 2,930,1,7,0,16,0,0,32,7,0,0,0,0,10,428,1577,93,816,90,Weekly,10,444
+PUB_0979,2023-01-03,Analyst_3,Mid,Commodities,Earnings Preview,Web,EMEA,Tier 3,2147,1,0,0,1,0,0,42,19,0,0,0,0,11,2691,0,622,842,654,Weekly,11,704
+PUB_0980,2024-02-23,Analyst_6,Senior,Credit,Earnings Preview,Web,APAC,Tier 3,2955,1,8,0,2,0,0,58,10,0,1,1,0,4,2930,0,172,175,191,Bi-weekly,18,621
+PUB_0981,2024-04-06,Analyst_25,Mid,Fixed Income,Deep Dive,Email,Americas,Tier 1,1279,0,2,0,15,0,0,99,19,0,0,0,0,4,3144,160,398,57,425,Daily,2,639
+PUB_0982,2024-12-06,Analyst_21,Senior,Fixed Income,Morning Brief,Web,Americas,Tier 3,733,0,0,0,39,0,0,31,14,0,1,1,0,19,1520,0,757,521,773,Bi-weekly,7,802
+PUB_0983,2024-08-31,Analyst_16,Junior,Macro,Weekly Outlook,Web,APAC,Tier 2,2887,0,0,0,28,1,0,53,15,0,0,1,0,53,3501,0,379,517,376,Daily,9,297
+PUB_0984,2024-04-26,Analyst_15,Junior,Fixed Income,Morning Brief,Email,EMEA,Tier 2,577,1,5,0,1,0,0,90,6,0,1,0,0,54,2992,957,458,559,472,Weekly,10,739
+PUB_0985,2023-10-26,Analyst_25,Senior,Credit,Deep Dive,Portal,Americas,Tier 1,532,1,5,0,5,0,1,94,15,0,0,1,0,57,754,0,372,451,365,Monthly,18,856
+PUB_0986,2023-02-03,Analyst_19,Mid,Equity,Morning Brief,Email,EMEA,Tier 1,1852,0,0,0,22,1,1,50,10,0,1,1,0,78,859,1617,160,885,203,Weekly,23,633
+PUB_0987,2023-08-26,Analyst_25,Senior,Commodities,Morning Brief,Portal,APAC,Tier 3,1894,0,2,0,36,0,0,81,17,0,0,0,0,89,1898,0,138,225,150,Weekly,7,196
+PUB_0988,2023-10-23,Analyst_19,Mid,Credit,Morning Brief,Portal,APAC,Tier 2,1413,0,6,1,13,0,0,32,11,1,0,1,0,29,3071,0,482,789,477,Daily,27,938
+PUB_0989,2024-12-24,Analyst_15,Mid,Credit,Deep Dive,Web,APAC,Tier 2,2709,0,9,0,1,0,0,50,19,0,0,0,0,23,4611,0,759,884,727,Bi-weekly,7,1143
+PUB_0990,2023-10-17,Analyst_22,Senior,Commodities,Deep Dive,Web,EMEA,Tier 3,325,1,2,0,16,0,1,21,16,0,0,1,0,86,3526,0,761,416,774,Monthly,3,1329
+PUB_0991,2024-12-20,Analyst_30,Senior,Commodities,Deep Dive,Email,Americas,Tier 3,1717,1,2,0,22,0,0,34,12,0,1,1,0,72,354,604,148,537,180,Monthly,12,458
+PUB_0992,2024-04-09,Analyst_29,Senior,Fixed Income,Weekly Outlook,Email,APAC,Tier 1,2854,1,2,1,32,0,0,76,14,0,0,1,0,2,3923,1953,588,67,610,Bi-weekly,7,1766
+PUB_0993,2023-03-14,Analyst_19,Mid,Credit,Flash Note,Web,EMEA,Tier 3,2614,1,6,0,16,0,0,94,11,0,0,1,0,47,1976,0,650,105,670,Daily,17,605
+PUB_0994,2024-12-04,Analyst_21,Senior,Fixed Income,Morning Brief,Web,Americas,Tier 1,760,0,3,0,15,1,0,53,10,0,0,1,0,70,2857,0,195,84,194,Weekly,26,563
+PUB_0995,2023-08-28,Analyst_21,Mid,Macro,Earnings Preview,Portal,Americas,Tier 3,2803,1,3,1,12,0,0,87,17,1,0,0,0,21,2724,0,743,679,755,Daily,1,843
+PUB_0996,2023-09-28,Analyst_20,Junior,Fixed Income,Earnings Preview,Web,EMEA,Tier 3,1391,1,2,0,1,1,1,94,12,0,0,1,1,13,4221,0,306,843,296,Weekly,5,600
+PUB_0997,2024-10-02,Analyst_11,Managing Director,Macro,Flash Note,Email,APAC,Tier 3,1306,1,9,0,17,0,1,48,18,0,0,0,0,47,3104,228,238,815,194,Weekly,16,1597
+PUB_0998,2024-08-26,Analyst_28,Junior,Equity,Morning Brief,Web,Americas,Tier 1,2294,1,8,0,28,1,0,85,6,1,0,0,0,28,4616,0,289,774,247,Weekly,15,511
+PUB_0999,2024-11-08,Analyst_21,Managing Director,Credit,Morning Brief,Web,EMEA,Tier 1,790,0,1,0,7,1,0,35,16,0,1,1,0,49,3834,0,552,622,505,Bi-weekly,2,1489
+PUB_1000,2023-07-22,Analyst_11,Mid,Macro,Morning Brief,Web,EMEA,Tier 2,1372,0,3,0,9,0,0,58,19,0,0,0,0,79,1344,0,757,649,795,Weekly,9,700

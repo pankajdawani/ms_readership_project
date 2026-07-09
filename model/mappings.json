@@ -1,0 +1,28 @@
+{
+  "seniority_map": {
+    "Junior": 1,
+    "Mid": 2,
+    "Senior": 3,
+    "Managing Director": 4
+  },
+  "freq_map": {
+    "Daily": 4,
+    "Weekly": 3,
+    "Bi-weekly": 2,
+    "Monthly": 1
+  },
+  "channel_map": {
+    "Email": {
+      "channel_Portal": false,
+      "channel_Web": false
+    },
+    "Portal": {
+      "channel_Portal": true,
+      "channel_Web": false
+    },
+    "Web": {
+      "channel_Portal": false,
+      "channel_Web": true
+    }
+  }
+}
