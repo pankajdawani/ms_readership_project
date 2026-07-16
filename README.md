@@ -14,18 +14,18 @@ Streamlit App: https://ms-readership-streamlit-771249737445.europe-west1.run.app
 | MAE | 89 reads |
 
 ## Project Structure
-ms_readership_project/
-├── api/                    FastAPI REST endpoint
-│   └── main.py
-├── model/                  Trained model artifacts
-│   ├── model.pkl
-│   ├── feature_names.pkl
-│   └── mappings.json
-├── streamlit_app/          Streamlit UI
-│   └── app.py
-├── Untitled-1.ipynb        Full EDA, modelling and SHAP notebook
-├── Dockerfile              Container configuration
-└── requirements.txt        Dependencies
+    ms_readership_project/
+    ├── api/                    FastAPI REST endpoint
+    │   └── main.py
+    ├── model/                  Trained model artifacts
+    │   ├── model.pkl
+    │   ├── feature_names.pkl
+    │   └── mappings.json
+    ├── streamlit_app/          Streamlit UI
+    │   └── app.py
+    ├── Untitled-1.ipynb        Full EDA, modelling and SHAP notebook
+    ├── Dockerfile              Container configuration
+    └── requirements.txt        Dependencies
 
 ## Methodology
 1. EDA — analysed 1,000 publications across channels, seniority levels and content types
